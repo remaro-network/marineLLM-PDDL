@@ -1,0 +1,14 @@
+
+; Version LPG-td-1.4
+; Seed 23728521
+; Command line: ./lpg-td -o /home/mahya/Desktop/MissionAssistant/PDDLGenerator/plans/auv_luise_mission_domain.pddl -f /home/mahya/Desktop/MissionAssistant/PDDLGenerator/plans/auv_luise_mission_problem.pddl -n 1 
+; Problem /home/mahya/Desktop/MissionAssistant/PDDLGenerator/plans
+; Time 0.00
+; Search time 0.00
+; Parsing time 0.00
+; Mutex time 0.00
+; MetricValue 1.00
+
+0.0003:   (START_MISSION LUISE) [45.0000]
+
+
