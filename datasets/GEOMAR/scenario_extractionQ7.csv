@@ -1,0 +1,227 @@
+filename,question,result
+ifm-geomar_rep49.pdf,What components/ devices/ sensors used in this mission?,"The components, devices, and sensors used in this mission include:
+
+- **Piezometer data loggers**
+- **NGI-supplied tiltmeter**
+- **SBE9 CTD instrument** (samples at 4 Hz, equipped with temperature, conductivity, and pressure sensors, with additions for oxygen and light transmission)
+- **24-carosel rosette system** with 12 Niskin bottles
+- **CO2 and methane sensors** (Contros HydroC sensors)
+- **SEABIRD data monitor**
+- **SIMRAD acoustic system**
+- **EK60 sonar system**"
+ifm-geomar_rep28.pdf,What components/ devices/ sensors used in this mission?,"**Components/Devices/Sensors Used:**
+- Piezometer data loggers
+- NGI-supplied tiltmeter in a bottle
+- SBE9 CTD system with default sensors (temperature, conductivity, pressure)
+- Oxygen sensor
+- Light transmission sensor
+- 24-carosel rosette system with 12 Niskin bottles
+- Contros HydroC CO2 and methane sensors
+- EK60 sonar system
+- Motion sensor
+- GPS (DataVis-system)
+- Multi-beam system (50 kHz, Hydrostar 3.4 software)
+- Sound velocity profile equipment (CTD)
+- Mbsystem software package (MBedit, MBgrid)
+- Fledermaus software for 3D visualization"
+ifm-geomar_rep33.pdf,What components/ devices/ sensors used in this mission?,"* CTD Probe
+* GPS
+* Inertial Navigation System (INS)
+* Doppler Velocity Log (DVL)
+* SBE9 (oceanographic data acquisition)
+* Niskin bottles (24-carosel rosette system)
+* Contros HydroC sensors (CO2 and methane sensors)
+* ADCP
+* NGI-supplied tiltmeter
+* Manipulator of the ROV"
+ifm-geomar_rep42.pdf,What components/ devices/ sensors used in this mission?,"* GPS
+* Inertial Navigation System (INS)
+* Doppler Velocity Log (DVL)
+* CTD Probe
+* SBE9 (oceanographic data acquisition)
+* Methane sensor (Contros HydroC sensors)
+* CO2 sensor (Contros HydroC sensors)
+* Data loggers
+* NGI-supplied tiltmeter
+* 24-carosel rosette system with 12 Niskin bottles"
+ifm-geomar_rep9.pdf,What components/ devices/ sensors used in this mission?,"The components, devices, and sensors used in the mission include:
+
+- **5 cameras (Kongsberg)**
+  - Forward-looking black-and-white camera
+  - Forward-looking color camera
+  - Forward-looking color still camera
+  - Rear-looking black-and-white camera
+  - TMS-mounted black-and-white camera
+- **Lights**
+- **Alti-, depth-, pan- and tilt-meter**
+- **Compass**
+- **Forward-looking “Super Seeking Sonar System” (325 or 675 kHz)**
+- **5-function manipulator arm**
+- **Sample tray for retrieved samples or additional instrumentation**
+- **IXSEA GAPS system for meter-scale positioning and navigation**
+- **2 transponders (ROV-mounted and TMS-mounted)**
+- **Piezometer data loggers**
+- **NGI-supplied tiltmeter in a bottle**
+- **GPS**
+- **Inertial Navigation System (INS)**
+- **Doppler Velocity Log (DVL)**
+- **CTD Probe for temperature and salinity data**"
+ifm-geomar_rep38.pdf,What components/ devices/ sensors used in this mission?,"The mission used the following components, devices, and sensors:
+- GPS (Global Positioning System)
+- Inertial Navigation System (INS)
+- Doppler Velocity Log (DVL)
+- CTD Probe
+- ADCP (Acoustic Doppler Current Profiler)
+- NGI-supplied tiltmeter
+- Piezometer data loggers"
+ifm-geomar_rep23.pdf,What components/ devices/ sensors used in this mission?,"*Doppler Velocity Log (DVL)*  
+*Inertial Navigation System (INS)*  
+*GPS*  
+*CTD Probe*  
+*NGI-supplied tiltmeter*  
+*Piezometer data loggers*"
+ifm-geomar_rep26.pdf,What components/ devices/ sensors used in this mission?,"**GPS**  
+**Inertial Navigation System (INS)**  
+**Doppler Velocity Log (DVL)**  
+**CTD Probe**  
+**Piezometer data loggers**  
+**Tiltmeter**  
+**ADCP (Acoustic Doppler Current Profiler)**"
+ifm-geomar_rep19.pdf,What components/ devices/ sensors used in this mission?,"*Inertial Navigation System (INS)*
+*GPS*
+*Doppler Velocity Log (DVL)*
+*CTD Probe*
+*Microstructure sensor*
+*ADCP (Acoustic Doppler Current Profiler)*
+*Piezometer data loggers*
+*NGI-supplied tiltmeter*"
+ifm-geomar_rep48.pdf,What components/ devices/ sensors used in this mission?,"The components, devices, and sensors used in this mission include:
+
+- Autonomous Underwater Vehicle (AUV)
+- Inertial Navigation System (INS)
+- Doppler Velocity Log (DVL)
+- GPS
+- Acoustic Doppler Current Profiler (ADCP)
+- NGI-supplied tiltmeter in a bottle
+- Piezometer data loggers
+- Microstructure sensor
+- Real-time display of bridge navigation data
+- CTD Probe"
+ifm-geomar_rep12.pdf,What components/ devices/ sensors used in this mission?,"*NGI-supplied tiltmeter*
+*ADCP (Acoustic Doppler Current Profiler)*
+*Piezometer data loggers*
+*GPS (Global Positioning System)*
+*Inertial Navigation System (INS)*
+*Doppler Velocity Log (DVL)*
+*CTD Probe (Conductivity, Temperature, and Depth Probe)*"
+ifm-geomar_rep17.pdf,What components/ devices/ sensors used in this mission?,"**Hydrophone (E-2PD or HTI-01-PCA)**
+
+**Recording devices (MBS, MES, MLS, or MTS)**
+
+**Piezometer data loggers**
+
+**NGI-supplied tiltmeter**
+
+**Acoustic release transponder**
+
+**Radio beacon**
+
+**Flashlight**
+
+**Flag**
+
+**Swimming line**
+
+"
+geomar_rep_ns_58_2021 tjm 2.pdf,What components/ devices/ sensors used in this mission?,"* E-2PD hydrophone from OAS Inc.
+* HTI-01-PCA hydrophone from HIGH TECH
+* MBS, MES, MLS, or MTS recorder from SEND GmbH
+* NGI-supplied tiltmeter
+* Piezometer data loggers
+* Acoustic release transponder
+* Radio beacon
+* Flashlight
+* Flag
+* Swimming line for retrieval"
+ifm-geomar_rep14.pdf,What components/ devices/ sensors used in this mission?,"*ADCP*
+*NGI-supplied tiltmeter*
+*Piezometer data loggers*
+*E-2PD hydrophone*
+*HTI-01-PCA hydrophone*
+*MBS, MES, MLS, or MTS recorders*"
+ifm-geomar_rep22.pdf,What components/ devices/ sensors used in this mission?,"**ROV Cameras**
+**Lights**
+**Alti-meter**
+**Depth-meter**
+**Pan-meter**
+**Tilt-meter**
+**Compass**
+**Super Seeking Sonar System**
+**Manipulator arm**
+**IXSEA GAPS system**
+**Transponders (IXSEA)**
+**Laser video measurement system**
+**CTD**
+**Tool sled**
+**Hydraulically driven trays**
+**Sample basket**
+**NGI-supplied tiltmeter**
+**Piezometer data loggers**"
+ifm-geomar_rep34.pdf,What components/ devices/ sensors used in this mission?,"* **5 cameras (Kongsberg)**
+* **Lights**
+* **Forward-looking black-and-white camera**
+* **Forward-looking color camera**
+* **Forward-looking color still camera**
+* **Rear-looking black-and-white camera**
+* **TMS-mounted black-and-white camera**
+* **Altimeter**
+* **Depth meter**
+* **Pan and tilt meter**
+* **Compass**
+* **Forward-looking Super Seeking Sonar System (325 or 675 kHz)**
+* **5-function manipulator arm**
+* **Sample tray**
+* **Ship-mounted IXSEA GAPS system**
+* **2 transponders (ROV-mounted and TMS-mounted)**
+* **Laser video measurement system**
+* **CTD**
+* **Tool sled with 2 hydraulically driven trays**
+* **Sample basket**
+* **NGI-supplied tiltmeter**
+* **Piezometer data loggers**"
+ifm-geomar_rep29.pdf,What components/ devices/ sensors used in this mission?,"**Cameras (forward-looking black-and-white, forward-looking color, forward-looking color still, rear-looking black-and-white, TMS-mounted black-and-white)**
+
+**Lights**
+
+**Alti-meter**
+
+**Depth-meter**
+
+**Pan-meter**
+
+**Tilt-meter**
+
+**Compass**
+
+**Forward-looking “Super Seeking Sonar System” (325 or 675 kHz)**
+
+**5-function manipulator arm**
+
+**Sample tray**
+
+**Ship-mounted IXSEA GAPS system**
+
+**ROV-mounted and TMS-mounted transponders (IXSEA)**
+
+**NGI-supplied tiltmeter**
+
+**Laser video measurement system**
+
+**CTD (Conductivity, Temperature, Depth)**
+
+**Tool sled with hydraulically driven trays**
+
+**Sample basket**
+
+**Piezometer data loggers**"
+ifm-geomar_rep40.pdf,What components/ devices/ sensors used in this mission?,"**Cameras, lights, altimeter, depth meter, pan meter, tilt meter, compass, Super Seeking Sonar System, manipulator arm, sample tray, IXSEA GAPS system, transponders, data loggers, tiltmeter, laser video measurement system, CTD, tool sled, sample basket.**"

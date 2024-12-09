@@ -1,6 +1,6 @@
-*** metrics ***
+**Metrics**
 
 + Solvability
-+ Verifiability
++ Parsability
 + Correctness
 + Improvement using specific Questions
