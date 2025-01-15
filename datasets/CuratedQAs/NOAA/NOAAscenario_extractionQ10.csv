@@ -1,0 +1,36 @@
+filename,question,result,feedback
+noaa_10541_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility is measured by light transmission.**,1
+noaa_46163_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission**,1
+noaa_9722_DS1.pdf,What is the visibility of the environment and how to measure it?,- *Light transmission and transmissometers can be used to measure environmental visibility.*,1
+noaa_20036_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Light transmission**
+- **Transmissometer**",1
+noaa_33880_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission is used to measure visibility in the environment.**,1
+noaa_50339_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission**,1
+noaa_41602_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Light transmission**
+- **Transmissometer**",1
+noaa_27817_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Light transmission**
+- **Optical backscatter**",1
+noaa_50752_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Clarity or clearness of the environment**,1
+noaa_61923_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Measured by light transmission and optical backscatter sensors**,1
+noaa_17271_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission measurement**,1
+noaa_21362_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission**,1
+noaa_29522_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,0
+noaa_29521_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,0
+noaa_37528_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Visibility is often measured in terms of light transmission and turbidity.**
+- **It can be assessed using instruments like transmissometers and turbidity sensors.**",1
+noaa_56115_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Sun photometers can measure atmospheric aerosol properties.**,1
+noaa_10620_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Visibility refers to how far one can see in the environment.**
+- **It can be measured using instruments like sun photometers, which assess atmospheric properties such as aerosols.**",1
+noaa_12051_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,0
+noaa_50160_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Measured using sun photometers and aerosol monitoring**,1
+noaa_10612_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know**,0
+noaa_64474_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical detection techniques**,0
+noaa_14853_DS1.pdf,What is the visibility of the environment and how to measure it?,*I don't know.*,1
+noaa_32908_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility of the environment can be measured using visual observation and optical detection techniques.**,1
+noaa_9691_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical detection and visual observation**,1
+noaa_30911_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility is not explicitly defined in the provided text**,1
+noaa_28170_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility is not explicitly defined or measured in the provided context.**,1
+noaa_27816_DS1.pdf,What is the visibility of the environment and how to measure it?,*I don't know.*,0
+noaa_30954_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Using visual observation and optical sensors.**,1
+noaa_9420_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visual observation and optical detection methods**,1
+noaa_21363_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical sensors and sun photometers**,1

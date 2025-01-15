@@ -1,0 +1,31 @@
+filename,question,result,feedback
+noaa_10541_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
+noaa_46163_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
+noaa_9722_DS1.pdf,What is signal acoustic condition/ multibeam?,- *I don't know.*,0
+noaa_20036_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
+noaa_33880_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
+noaa_50339_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,1
+noaa_41602_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar**,1
+noaa_27817_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
+noaa_50752_DS1.pdf,What is signal acoustic condition/ multibeam?,**Multibeam sonar**,1
+noaa_61923_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar systems**,1
+noaa_17271_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar systems**,1
+noaa_21362_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
+noaa_29522_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar**,1
+noaa_29521_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
+noaa_37528_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar uses sound to map seafloor depth and reflectivity.**,1
+noaa_56115_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar systems use multiple beams to map the seafloor, providing data on depth and acoustic reflectivity.**",1
+noaa_10620_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
+noaa_12051_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
+noaa_50160_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Echo sounder sonar technology**,1
+noaa_10612_DS1.pdf,What is signal acoustic condition/ multibeam?,*Multibeam sonar*,1
+noaa_64474_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar collects data on seafloor depth, acoustic reflectivity, and water column reflectivity.**",1
+noaa_14853_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar systems collect detailed bathymetric data by emitting sound waves and measuring their return after reflecting off the seafloor.**,1
+noaa_32908_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Seafloor bathymetry, backscatter, and water column characteristics**",1
+noaa_9691_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Seafloor bathymetry, backscatter, and water column reflectivity measurements**",1
+noaa_30911_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar collects seafloor bathymetry, backscatter, and water column data.**",1
+noaa_28170_DS1.pdf,What is signal acoustic condition/ multibeam?,**I don't know.**,0
+noaa_27816_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar system used for seafloor mapping and water column backscatter data collection.**,1
+noaa_30954_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar is used to collect seafloor bathymetry, seafloor backscatter, and water column backscatter.**",1
+noaa_9420_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Beam footprint and coverage**,1
+noaa_21363_DS1.pdf,What is signal acoustic condition/ multibeam?,*Unknown*,0

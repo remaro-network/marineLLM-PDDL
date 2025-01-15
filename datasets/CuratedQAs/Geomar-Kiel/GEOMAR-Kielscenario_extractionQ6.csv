@@ -1,0 +1,680 @@
+filename,question,result
+ifm-geomar_rep1.pdf,What are all the tasks in this mission?,"Based on the retrieved content, the tasks in this mission include:
+
+- Navigation
+- Swathmapping bathymetry using the Simrad EM 120 system
+- Parasound measurements
+- Collection and analysis of CTD data
+- Magnetic data processing and analysis
+- Gravity data processing and analysis
+- Seismic data collection and processing, including OBH/OBS wide-angle seismic work
+
+If there are additional tasks mentioned in other sections of the document, they are not available in the provided context."
+awi_doi~10.48433_cr_msm94.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks of the MARIA S. MERIAN MSM94 expedition were to collect observational data to study different aspects of water mass transformation and southward transport of water masses in the Deep Western Boundary Current of the western subpolar North Atlantic. Measurements included the vertical distribution of temperature, salinity, density, oxygen, optical properties, and flow velocity. 
+
+- **Collecting observational data to study water mass transformation and transport in the Deep Western Boundary Current.**
+- **Measuring vertical distribution of temperature, salinity, density, oxygen, optical properties, and flow velocity.**"
+ifm-geomar_rep49.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the MARIA S. MERIAN MSM94 expedition include:
+
+- Measuring the vertical distribution of temperature, salinity, density, oxygen, optical properties, and flow velocity.
+- Continuous monitoring of near surface salinity and temperature with a thermosalinograph.
+- Recording meteorological data.
+- Acquiring flow velocity data down to a depth of 1000 m using ship ADCPs.
+- Recovering and redeploying eleven long term moorings.
+- Recovering one lander.
+- Deploying deep (IFREMER) and Biogeo (BSH) Argo floats.
+- Deploying 50 surface drifters.
+
+These tasks contribute to institutional programs and international projects like OSNAP, H2020 EuroSea, and Blue-Action."
+ifm-geomar_rep28.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the MARIA S. MERIAN MSM94 expedition include:
+
+- Collecting observational data to study water mass transformation and southward transport of water masses in the Deep Western Boundary Current of the western subpolar North Atlantic.
+- Measuring the vertical distribution of temperature, salinity, density, oxygen, optical properties, and flow velocity.
+- Continuously monitoring near-surface salinity and temperature with a thermosalinograph.
+- Recording meteorological data and acquiring flow velocity down to a depth of 1000 meters with ship ADCPs.
+- Recovering and redeploying eleven long-term moorings and recovering one lander.
+- Deploying Deep (IFREMER) and Biogeo (BSH) Argo floats as well as 50 surface drifters.
+- Conducting operations related to moored sensors and ship-based observations.
+
+These tasks contribute to institutional programs and international projects such as OSNAP, H2020 EuroSea, and Blue-Action."
+ifm-geomar_rep33.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- Conducting a dive mission with 33 parallel tracks of 1200 m length and 150 m track spacing.
+- Dividing the mission into four subsets, each flown at different water depths to compensate for varying structure heights.
+- Mapping the interior of the crater with five shorter, parallel tracks at a water depth of 2130 m.
+- Deploying transponders at specified coordinates to ensure coverage.
+- Processing data with PDS2000, which involves navigation editing, application of filters (e.g., level 3 quality filter, beam reject filter, range filter), and manual adjustments.
+
+**These tasks are specifically related to the mission's objectives and data processing requirements.**"
+ifm-geomar_rep42.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission appear to include:
+
+- Mapping and collecting bathymetric data of Franklin Seamount using a 400 kHz bathymetric map.
+- Conducting a mission layout for dive 014, consisting of 33 parallel tracks with specific lengths and spacing.
+- Mapping the interior of the crater with five shorter, parallel tracks at a specified water depth.
+- Deploying transponders at specific coordinates for navigation and mapping purposes.
+- Processing navigation data using PDS2000, which includes navigation editing, application of various filters, and manual adjustments.
+
+If there are other tasks mentioned in the full document, they are not included in the provided context.
+
+**- Mapping Franklin Seamount.**
+**- Conducting dive 014 with specific track layout.**
+**- Mapping crater interior.**
+**- Deploying transponders for navigation.**
+**- Processing navigation data with PDS2000.**"
+ifm-geomar_rep9.pdf,What are all the tasks in this mission?,*I don't know.*
+ifm-geomar_rep38.pdf,What are all the tasks in this mission?,*I don't know.*
+ifm-geomar_rep3.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review
+- Building mission files using a graphic Mission Planner with waypoints and mission objectives
+- Automatic error checking of planned missions
+- Communication between the vehicle and the computer via Ethernet or WiFi
+- Vehicle navigation after the first transponder fixes
+- Micro-Structure Probe (MR) data recording
+- Usage of Reson Seabat 7125, RDI ADCP, Seabird Fastcat SBE49 CTD, and Wetlabs ECO FLNTU backscatter instruments
+- Noise compensation analysis due to vehicle attitude
+- Short side trip above the hydrothermal field of Lucky Strike
+- Hydroacoustics operations
+
+**Note:** This list is derived from the available information and may not cover all tasks if additional context from the mission is not provided."
+ifm-geomar_rep23.pdf,What are all the tasks in this mission?,**I don't know**
+ifm-geomar_rep26.pdf,What are all the tasks in this mission?,* I don't know. *
+ifm-geomar_rep19.pdf,What are all the tasks in this mission?,"Based on the retrieved context, the tasks in the mission include:
+
+- **Hydroacoustics**
+- **DTS-1 Operations**
+- **CTD/Ro transects at Kiel Mount and the Belgica Mound Province**
+- **Retrieval of Deep-Sea Observation System (DOS)**
+- **Sediment sampling and processing**
+- **Fauna and Taxonomy: Some biological aspects**
+
+These tasks are aimed at collecting observational data for studying water mass transformation and transport in the Deep Western Boundary Current of the North Atlantic."
+ifm-geomar_rep48.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Hydroacoustics
+- DTS-1 Operations
+- Carbonate Sampling Program
+- CTD/Ro transects at Kiel Mount and the Belgica Mound Province
+- Retrieval of Deep-Sea Observation System (DOS)
+- Sediment sampling and processing
+- Biological aspects focusing on fauna and taxonomy
+
+**Please note that the list may not be exhaustive as it is based on the available context.**"
+ifm-geomar_rep12.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- Hydroacoustics
+- DTS-1 Operations (including Builder’s Pencil)
+- CTD/Ro transects at Kiel Mount and the Belgica Mound Province
+- Retrieval of Deep-Sea Observation System (DOS)
+- Sediment sampling and processing
+- Fauna and taxonomy studies
+- Microbial ecology studies
+- Geochemical investigations
+- Carbonate sampling program
+
+**- Collecting observational data to study water mass transformation and southward transport in the Deep Western Boundary Current of the western subpolar North Atlantic.**"
+ifm-geomar_rep17.pdf,What are all the tasks in this mission?,*I don't know.*
+geomar_rep_ns_58_2021 tjm 2.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Microbial Ecology studies
+- Geochemical Investigations
+- Carbonate Sampling Program
+- Hydroacoustics
+- DTS-1 Operations
+- CTD/Ro transects at Kiel Mount and the Belgica Mound Province
+- Retrieval of Deep-Sea Observation System (DOS)
+- Sediment sampling and processing
+- Fauna and Taxonomy studies
+
+**- Microbial Ecology studies
+- Geochemical Investigations
+- Carbonate Sampling Program
+- Hydroacoustics
+- DTS-1 Operations
+- CTD/Ro transects at Kiel Mount and the Belgica Mound Province
+- Retrieval of Deep-Sea Observation System (DOS)
+- Sediment sampling and processing
+- Fauna and Taxonomy studies**"
+ifm-geomar_rep14.pdf,What are all the tasks in this mission?,"Based on the provided context, here are some tasks from the mission:
+
+- **Hydroacoustics**: Conducting hydroacoustic studies.
+- **DTS-1 Operations**: Performing operations related to DTS-1, which might include specific tasks like the ""Builder’s Pencil.""
+- **CTD/Ro transects**: Performing CTD/Ro transects at specific locations like Kiel Mount and the Belgica Mound Province.
+- **Retrieval of Deep-Sea Observation System (DOS)**: Retrieving observation systems from the deep sea.
+- **Sediment sampling and processing**: Collecting and processing sediment samples.
+- **Fauna and Taxonomy studies**: Investigating biological aspects, possibly involving fauna taxonomy.
+- **Geochemical Investigations**: Conducting geochemical studies.
+- **Carbonate Sampling Program**: Carrying out a program related to carbonate sampling.
+- **Microbial Ecology**: Studying microbial ecology.
+
+These tasks aim to gather data and insights into various geological, ecological, and oceanographic aspects."
+ifm-geomar_rep22.pdf,What are all the tasks in this mission?,*I don't know.*
+ifm-geomar_rep34.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Hydroacoustics
+- DTS-1 Operations
+- Microbial Ecology
+- Geochemical Investigations
+- Carbonate Sampling Program
+- CTD/Ro transects at Kiel Mount and the Belgica Mound Province
+- Retrieval of Deep-Sea Observation System (DOS)
+- Sediment sampling and processing
+- Fauna and Taxonomy: Some biological aspects of POS316
+
+**These tasks were associated with the MARIA S. MERIAN MSM94 expedition to study water mass transformation and transport in the Deep Western Boundary Current of the western subpolar North Atlantic.**"
+ifm-geomar_rep29.pdf,What are all the tasks in this mission?,"Based on the context provided, the tasks in this mission include:
+
+- Hydroacoustics
+- DTS-1 Operations
+- Builder’s Pencil
+- CTD/Ro transects at Kiel Mount and the Belgica Mound Province
+- Retrieval of Deep-Sea Observation System (DOS)
+- Sediment sampling and processing
+- Fauna and Taxonomy
+- Microbial Ecology
+- Geochemical Investigations
+- Carbonate Sampling Program
+
+**Note:** These tasks are inferred from the sections mentioned in the context. If you require more specific or detailed tasks, additional context may be needed."
+ifm-geomar_rep40.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Building mission files using a graphic Mission Planner with drag-and-drop functionality to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields and performing automatic error checking to verify mission parameters.
+- Conducting post-mission data analysis, mission playback, and side-scan review.
+- Preparing specific mission files and ensuring their proper transmission before leaving land.
+- Performing open water tests and deployment of gliders, following detailed procedures before leaving land and during deployment.
+- Checking equipment status, such as iridium capability and GPS, and preparing safety equipment like a safety buoy and rope for glider carriage.
+- Conducting deployment instructions, including pressure zeroing, calling the home base, and managing communication with established connections.
+
+These tasks encompass planning, preparation, deployment, and post-mission analysis."
+ifm-geomar_rep44.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- **Post-mission data analysis, mission playback, and side-scan review.**
+- **Building mission files using a Mission Planner with drag-and-drop functionality for waypoints and objectives.**
+- **Automatic error checking to verify mission parameters.**
+- **Communication setup between the vehicle and the computer via Ethernet or WiFi.**
+- **Preparation of specific mission files (yoXX.ma, sampleXX.ma, surfacXX.ma, goto_lXX.ma, mission.mi).**
+- **Transmission verification of mission files.**
+- **Glider activation and boot instructions.**
+- **Deletion of simul.sim file if it exists.**
+- **Checking mission files, space on flash card, Iridium capability, and GPS.**
+- **Preparation of safety buoy and rope for glider carriage.**
+- **Zeroing ocean pressure and running status check on the glider.**
+- **Establishing communication with home base via BAUDRATE 4800.**
+- **Deployment of gliders and execution of pre-deployment instructions.**
+
+These tasks are part of the procedures for mission planning, execution, and review."
+ifm-geomar_rep10.pdf,What are all the tasks in this mission?,"Based on the provided context, here are the tasks involved in this mission:
+
+- **Post-mission data analysis, mission play-back, and side-scan review.**
+- **Preparation of mission files using a graphic Mission Planner.**
+- **Automatic error checking of planned missions.**
+- **Communication setup between the vehicle and the computer using Ethernet or WiFi.**
+- **Execution of pre-deployment procedures for gliders, including file preparation and upload, status checks, and equipment preparation.**
+- **Execution of deployment instructions for the glider, including zeroing ocean pressure, running status checks, establishing communication with the home base, and callbacks.**
+
+These tasks are part of the overall mission planning, execution, and review processes."
+AL374 CR ifm-geomar_rep51-1.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- **Post-mission data analysis, mission playback, and side-scan review.**
+- **Navigation charting for mission planning, operation, and review.**
+- **Building mission files using the Mission Planner with drag-and-drop to position waypoints and mission objectives.**
+- **Automatic error checking of planned missions.**
+- **Communication between the vehicle and the computer via Ethernet or WiFi.**
+- **Pre-deployment procedures for gliders which include file preparation, uploading, and checking mission parameters.**
+- **On route pre-deployment instructions such as turning on the glider, checking GPS, and preparing safety equipment.**
+- **Deployment instructions including zeroing ocean pressure and establishing communication with the home base.**
+
+These tasks encompass both the planning and execution phases of the mission, as well as the analysis and review after the mission."
+ifm-geomar_rep30.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis, mission play-back, and side-scan review.
+- Building mission files using drag-and-drop to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields.
+- Automatic error checking for planned missions.
+- Communication setup between the vehicle and the computer through Ethernet or WiFi.
+- Pre-deployment preparations, including file preparation and upload, log management, and system checks.
+- Deployment instructions for gliders, including turning on the glider, checking systems (e.g., GPS, iridium capability), and preparing safety equipment.
+- Running status checks and establishing communication with the home base.
+- Performing zero ocean pressure calibration and ensuring proper mission execution.
+
+**Note that the list of tasks might not be exhaustive and is based on the context provided.**"
+ifm-geomar_rep37.pdf,What are all the tasks in this mission?,"Here are the tasks involved in the mission based on the provided context:
+
+- **Prepare mission files: yoXX.ma, sampleXX.ma, surfacXX.ma, goto_lXX.ma, mission.mi.**
+- **Upload and verify transmission of mission files.**
+- **Delete logs with 'dellog all' and use 'consci' for system checks.**
+- **Check for the existence of simul.sim, and delete if necessary.**
+- **Verify mission and mafiles.**
+- **Check space on flash card.**
+- **Run status.mi for system status.**
+- **Check Iridium communication capability.**
+- **Check GPS functionality.**
+- **Prepare safety buoy and rope for glider carriage.**
+- **Zero ocean pressure on deck.**
+- **Run status.mi during deployment.**
+- **Establish communication with the home base after mission completion.**
+- **Use 'callback 30' to end communication.**
+
+These tasks involve planning, preparing, and executing the mission, as well as ensuring proper communication and equipment readiness."
+ifm-geomar_rep7.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- Post-mission data analysis, mission play-back, and side-scan review.
+- Using a graphic Mission Planner to build mission files by positioning waypoints and mission objectives.
+- Performing automatic error checking to verify mission parameters.
+- Communication between the vehicle and the computer via Ethernet or WiFi connection.
+- Preparing and uploading specific mission files (yoXX.ma, sampleXX.ma, surfacXX.ma, goto_lXX.ma, mission.mi) and checking their transmission.
+- Conducting pre-deployment checks, such as ensuring the simul.sim file does not exist, checking mission and mafiles, checking space on the flash card, running status.mi, checking iridium capability, and GPS functionality.
+- Preparing safety buoy and rope for glider carriage.
+- Executing deployment instructions, including zeroing ocean pressure, running status.mi, allowing the glider to call post-mission, and establishing communication with the home base.
+
+**-**"
+ifm-geomar_rep18.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- **Post-mission data analysis, mission playback, and side-scan review.**
+- **Building mission files using a graphic Mission Planner with drag-and-drop for positioning waypoints and mission objectives.**
+- **Automatic error checking of planned missions.**
+- **Ensuring communication between the vehicle and the computer via Ethernet or WiFi.**
+- **Completing open water tests and deployment of gliders following specific procedures.**
+- **Preparing and uploading mission files before leaving land.**
+- **Checking mission files, flash card space, iridium capability, and GPS on route before deployment.**
+- **Executing deployment instructions, such as zeroing ocean pressure and running status checks.**
+- **Communicating with the home base and managing the glider's callback after the mission.**
+
+These tasks cover the planning, deployment, operation, communication, and review aspects of the mission."
+ifm-geomar_rep8.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Conducting post-mission data analysis, mission playback, and side-scan review.
+- Using a graphic Mission Planner to build mission files by positioning waypoints and mission objectives on a chart window.
+- Performing automatic error checking of planned missions to verify and warn of incorrect parameters.
+- Engaging communication between the vehicle and the computer via standard Ethernet or WiFi.
+- Preparing and uploading specific mission files before leaving land and ensuring proper transmission.
+- Running status checks and verifying capabilities such as iridium and GPS.
+- Preparing safety equipment like a safety buoy and rope for glider carriage.
+- Executing specific deployment instructions during the deployment process, such as zeroing ocean pressure and establishing communication for mission updates.
+
+**These tasks are part of the mission outlined in the context.**"
+geomar_rep_ns_57_2021.pdf,What are all the tasks in this mission?,"Based on the provided context, here are the tasks associated with the mission:
+
+- **Prepare and upload mission files such as yoXX.ma, sampleXX.ma, surfacXX.ma, goto_lXX.ma, and mission.mi.**
+- **Verify proper transmission by typing each of the uploaded files.**
+- **Delete logs using the command 'dellog all'.**
+- **Initiate console communication ('consci').**
+- **Perform pre-deployment checks including:**
+  - **Turn on the glider with the green plug and follow boot instructions.**
+  - **Ensure simul.sim does not exist; if it does, delete and reset.**
+  - **Check mission and mafiles.**
+  - **Ensure there is enough space on the flash card.**
+  - **Run status.mi to check system status.**
+  - **Verify Iridium satellite communication capability.**
+  - **Check GPS functionality.**
+  - **Prepare a safety buoy.**
+  - **Prepare rope for glider carriage.**
+
+- **Deployment tasks include:**
+  - **Zero ocean pressure.**
+  - **Run status.mi again.**
+  - **Establish a connection with home base (recognized with a BAUDRATE 4800 line).**
+  - **Enable communication with home base (chat).**
+  - **Set callback to 30 to hang up.**
+
+- **Post-mission tasks include:**
+  - **Post-mission data analysis, mission playback, and side-scan review.**
+  - **Review navigation charts for mission planning, operation, and review.**
+
+These tasks are part of the procedures for operating and deploying the gliders, as well as analyzing the mission data afterwards."
+ifm-geomar_rep31.pdf,What are all the tasks in this mission?,"Based on the provided context, here are the tasks involved in this mission:
+
+- **Post-mission data analysis, mission play-back, and side-scan review**
+- **Mission planning using a graphic Mission Planner with drag-and-drop features**
+- **Automatic error checking of planned missions**
+- **Communication setup between the vehicle and the computer using Ethernet or WiFi**
+- **Pre-deployment procedures such as preparing mission files, checking GPS, and checking iridium capability**
+- **Deployment instructions including zeroing ocean pressure and running status checks**
+- **Ensuring proper transmission of mission files and verifying space on the flash card**
+- **Preparing safety buoy and rope for glider carriage**
+- **Handling technical issues such as a ground fault during AUV operations**
+
+These tasks cover the preparation, deployment, and analysis phases of the mission."
+ifm-geomar_rep32.pdf,What are all the tasks in this mission?,"Based on the retrieved context, the tasks in this mission include:
+
+- Preparing mission files and ensuring proper transmission by uploading and typing them.
+- Deleting logs and configuring the system before deployment.
+- Conducting pre-deployment checks such as turning on the glider, checking mission files, space on flash cards, iridium capability, GPS, and preparing safety equipment.
+- Executing deployment instructions which involve zeroing ocean pressure, running status checks, establishing communication with the home base, and managing call connections.
+- Post-mission tasks include data analysis, mission playback, and side-scan review.
+
+**- Preparing mission files**
+**- Ensuring proper transmission of files**
+**- Deleting logs**
+**- Configuring system before deployment**
+**- Conducting pre-deployment checks**
+**- Executing deployment instructions**
+**- Post-mission data analysis and review**"
+ifm-geomar_rep21.pdf,What are all the tasks in this mission?,"Based on the information provided, the tasks involved in the mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review
+- Building mission files using a graphic Mission Planner
+- Positioning waypoints and mission objectives on a chart window
+- Fine-tuning missions with editable text fields
+- Automatic error checking for planned missions
+- Preparing and uploading files before leaving land
+- Checking and preparing equipment and capabilities before deployment
+- Executing deployment instructions such as zeroing ocean pressure, running a status check, and ensuring communication with the home base
+- Testing and installing software on gliders
+- Conducting buoyancy and vacuum tests on gliders
+
+**These tasks encompass the planning, execution, troubleshooting, and analysis stages of the mission.**"
+ifm-geomar_rep35.pdf,What are all the tasks in this mission?,"Based on the retrieved context, the tasks in this mission include:
+
+- AUV Operations
+- Geophysical measurements
+- Water/gas sampling and hydrographic monitoring
+- Continuous and simultaneous gas measurements
+- Water column monitoring, sediment biogeochemistry, and microbiology
+- Studies on benthic community structure and diversity
+- Microbial Ecology
+- Geochemical Investigations
+- Carbonate Sampling Program
+- Hydroacoustics
+- DTS-1 Operations"
+geomar_rep_ns_42_2018.pdf,What are all the tasks in this mission?,"Based on the table of contents from the documents provided, the tasks in the mission include:
+
+- AUV Operations
+- Geophysical Measurements
+- Water/Gas Sampling and Hydrographic Monitoring
+- Continuous and Simultaneous Gas Measurements
+- Water Column Monitoring, Sediment Biogeochemistry and Microbiology
+- Studies on Benthic Community Structure and Diversity
+- Microbial Ecology
+- Geochemical Investigations
+- Carbonate Sampling Program
+- Hydroacoustics
+- DTS-1 Operations
+
+**- AUV Operations**
+**- Geophysical Measurements**
+**- Water/Gas Sampling and Hydrographic Monitoring**
+**- Continuous and Simultaneous Gas Measurements**
+**- Water Column Monitoring, Sediment Biogeochemistry and Microbiology**
+**- Studies on Benthic Community Structure and Diversity**
+**- Microbial Ecology**
+**- Geochemical Investigations**
+**- Carbonate Sampling Program**
+**- Hydroacoustics**
+**- DTS-1 Operations**"
+ifm-geomar_rep15.pdf,What are all the tasks in this mission?,"Based on the table of contents provided, here are the tasks or activities mentioned:
+
+- AUV Operations
+- Geophysical measurements
+- Water/gas sampling and hydrographic monitoring
+- Continuous and simultaneous gas measurements
+- Water column monitoring, sediment biogeochemistry, and microbiology
+- Studies on benthic community structure and diversity
+- Microbial Ecology
+- Geochemical Investigations
+- Carbonate Sampling Program
+- Hydroacoustics
+- DTS-1 Operations
+
+**Note**: The tasks listed above are derived from the sections mentioned in the table of contents, and they may involve specific activities related to the cruise mission."
+geomar_rep_ns_55_2020.pdf,What are all the tasks in this mission?,"The tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review
+- Building mission files using a graphic Mission Planner with drag-and-drop functionality to position waypoints and mission objectives
+- Fine-tuning missions using editable text fields
+- Automatic error checking for planned missions
+- Communication between the vehicle and the computer via Ethernet or WiFi
+- Procedures for open water tests and deployment of gliders, including preparation, pre-deployment instructions, and deployment instructions
+
+**- Preparing and uploading mission files**
+**- Checking communication and system status, such as GPS and iridium capability**
+**- Preparing safety equipment like buoys and ropes**
+**- Zeroing ocean pressure and establishing communication with a home base for gliders**
+
+If there are specific tasks you're referring to, please let me know."
+ifm-geomar_rep16.pdf,What are all the tasks in this mission?,"Based on the context provided, the tasks in the mission include:
+
+- **Post-mission data analysis, mission playback, and side-scan review.**
+- **Planning missions using a graphic Mission Planner, including positioning waypoints and mission objectives, and fine-tuning using editable text fields.**
+- **Automatic error checking of planned missions.**
+- **Communication between the vehicle and the computer via Ethernet or WiFi.**
+- **Preparation and deployment of gliders, including pre-deployment and deployment instructions such as checking mission files, GPS, and Iridium capability, preparing safety buoy and rope, and ensuring proper transmission of files.**
+- **Running status checks and establishing communication between the glider and home base.**
+
+If there are other tasks not mentioned in the context, I don't know them."
+ifm-geomar_rep41.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission appear to include:
+
+- Post-mission data analysis, mission playback, and side-scan review
+- Navigation chart use for mission planning, operation, and review
+- Mission file building with waypoints and mission objectives using a graphic Mission Planner
+- Automatic error checking for planned missions
+- Communication setup between the vehicle and the computer via Ethernet or WiFi
+- Pre-deployment procedures for gliders
+- Deployment instructions for gliders, including ocean pressure calibration and communication setup
+
+**These tasks are part of the mission as inferred from the context provided.**"
+ifm-geomar_rep11.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Building mission files using a Mission Planner with drag-and-drop functionality to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields.
+- Automatic error checking of planned missions to verify all parameters.
+- Communication between the vehicle and the computer via Ethernet or WiFi.
+- Preparing and uploading mission files before leaving land.
+- Conducting open water tests and deployment of gliders with specific procedures.
+- Pre-deployment instructions including checking space on flash card, GPS, and iridium capability.
+- Deployment instructions, including zeroing ocean pressure and running status checks.
+
+**- Post-mission data analysis and review tasks.**
+**- Mission planning and error checking tasks.**
+**- Communication setup tasks.**
+**- Pre-deployment preparation tasks.**
+**- Deployment execution tasks.**"
+ifm-geomar_rep36.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- **Post-mission data analysis, mission playback, and side-scan review**
+- **Building mission files using a graphic Mission Planner with drag-and-drop for positioning waypoints and mission objectives, and fine-tuning missions using editable text fields**
+- **Automatic error checking to verify aspects of planned missions and warn operators of incorrect parameters**
+- **Communication between the vehicle and the computer via Ethernet or WiFi**
+- **Uploading files and checking transmission before leaving land**
+- **Pre-deployment checks such as deleting certain files, checking mission files, flash card space, iridium capability, GPS, preparing safety equipment, and running status checks**
+- **Deployment procedures including zeroing ocean pressure, running status checks, establishing communication with the home base, and executing callback commands** 
+
+These tasks are part of the broader mission operations and procedures for vehicle and equipment deployment and management."
+ifm-geomar_rep47.pdf,What are all the tasks in this mission?,"Based on the provided information, the tasks in the mission include:
+
+- Post-mission data analysis, mission play-back, and side-scan review.
+- Building mission files using a graphic Mission Planner with drag-and-drop functionality to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields.
+- Automatic error checking to verify all aspects of planned missions.
+- Communication between the vehicle and the computer using Ethernet or WiFi.
+- Addressing technical problems, such as mission abortion due to battery power limits and a ground fault indication (GFI) from the ADCP.
+- Preparing and uploading mission-related files before leaving land.
+- Conducting pre-deployment checks, including turning on the glider, ensuring proper file transmission, checking mission files, and verifying GPS and iridium capability.
+- Preparing safety gear such as a safety buoy and rope for glider carriage.
+- Executing deployment instructions, including zeroing ocean pressure, running status checks, and establishing communication for post-mission analysis.
+
+**- Post-mission data analysis, mission play-back, and side-scan review.**
+**- Building and fine-tuning mission files using a graphic Mission Planner.**
+**- Automatic error checking for planned missions.**
+**- Communication setup between the vehicle and computer.**
+**- Addressing technical issues like battery limits and ground faults.**
+**- Pre-deployment preparation and file uploads.**
+**- Pre-deployment checks for the glider, GPS, and communications.**
+**- Preparing safety gear for deployment.**
+**- Executing deployment instructions and establishing communication post-mission.**"
+ifm-geomar_rep24.pdf,What are all the tasks in this mission?,"Based on the retrieved context, the tasks for the mission include:
+
+- **Post-mission data analysis, mission play-back, and side-scan review.**
+- **Building mission files using a graphic Mission Planner with drag-and-drop functionality to position waypoints and mission objectives on the navigation charts.**
+- **Fine-tuning missions using editable text fields and automatic error checking to verify mission parameters.**
+- **Communication between the vehicle and the computer using Ethernet or WiFi.**
+- **Uploading and typing mission files to ensure proper transmission.**
+- **Preparing safety equipment such as the safety buoy and rope for glider carriage.**
+- **Running diagnostic checks like checking GPS, iridium capability, and space on the flash card.**
+- **Performing deployment instructions such as zeroing ocean pressure and running status checks.**
+- **Establishing communication with the home base and monitoring the glider's status during deployment.**
+
+**These tasks are part of the routine mission operations and deployment procedures.**"
+ifm-geomar_rep20.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Building mission files using a graphic Mission Planner with drag-and-drop functionality.
+- Fine-tuning missions using editable text fields and automatic error checking.
+- Ensuring proper communication between the vehicle and the computer through Ethernet or WiFi.
+- Performing open water tests and deployment of gliders with specific pre-deployment and deployment procedures.
+- Checking various mission parameters such as GPS, iridium capability, and space on the flash card.
+- Preparing and using safety equipment like safety buoys and ropes for glider carriage.
+
+**These tasks encompass mission planning, execution, and review processes, as well as ensuring the safe and effective deployment and operation of the equipment involved.**"
+ifm-geomar_rep46.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Building mission files using the graphic Mission Planner with drag-and-drop to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields.
+- Automatic error checking of planned missions.
+- Communication between the vehicle and the computer through Ethernet or WiFi.
+- Preparing and uploading mission files before leaving land.
+- Running pre-deployment procedures for gliders.
+- Checking various capabilities such as Iridium and GPS.
+- Deployment instructions for gliders, including zeroing ocean pressure and establishing communication with the home base.
+
+**Note**: This list is derived from the context provided, and there might be additional tasks not covered in this snippet."
+ifm-geomar_rep6.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Building mission files using a graphic Mission Planner by positioning waypoints and mission objectives on a chart window.
+- Fine-tuning missions using editable text fields.
+- Conducting automatic error checking for planned missions.
+- Checking communication between the vehicle and the computer via Ethernet or WiFi.
+- Preparing and uploading mission files such as yoXX.ma, sampleXX.ma, surfacXX.ma, goto_lXX.ma, and mission.mi.
+- Checking space on flash cards and verifying iridium and GPS capabilities.
+- Preparing a safety buoy and rope for glider carriage.
+- Zeroing ocean pressure and running status checks for gliders.
+- Allowing gliders to establish connection for communication with the home base.
+
+**Note**: These tasks are inferred from the context provided and may not encompass all tasks in the mission."
+ifm-geomar_rep45-red.pdf,What are all the tasks in this mission?,"Based on the provided information, the tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Building mission files using a graphic Mission Planner with drag-and-drop to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields.
+- Ensuring proper communication between the vehicle and the computer through a standard Ethernet or WiFi connection.
+- Automatic error checking to verify all aspects of planned missions and warn operators of incorrect parameters.
+- Preparing, uploading, and checking various mission files before deployment.
+- Conducting pre-deployment checks such as checking mission files, GPS, and iridium capability.
+- Preparing safety equipment such as a buoy and rope for glider carriage.
+- Executing deployment instructions, including zeroing ocean pressure and running status checks.
+- Establishing communication with the home base and managing connections.
+
+These tasks encompass both planning and operational aspects of the mission."
+ifm-geomar_rep25.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Building mission files using a graphic Mission Planner with drag-and-drop to position waypoints and objectives.
+- Fine-tuning missions using editable text fields.
+- Automatic error checking to verify mission parameters.
+- Communication between the vehicle and computer via Ethernet or WiFi.
+- Addressing technical problems such as mission abort due to battery limits or ground faults.
+- Open water tests and deployment of gliders, including:
+  - Preparing and uploading mission files.
+  - Checking various systems such as GPS, Iridium capability, and space on flash cards.
+  - Running specific status checks and preparing safety equipment.
+  - Executing deployment instructions on deck.
+
+**- Post-mission data analysis, mission playback, and side-scan review.**
+**- Building and fine-tuning mission files using a graphic Mission Planner.**
+**- Automatic error checking for mission parameters.**
+**- Communication setup via Ethernet or WiFi.**
+**- Problem-solving for technical issues (e.g., battery power limits, ground faults).**
+**- Open water tests and deployment of gliders with specific pre-deployment and deployment procedures.**"
+ifm-geomar_rep50-red.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis
+- Mission playback
+- Side-scan review
+- Mission planning using a graphic Mission Planner
+- Positioning waypoints and mission objectives on the chart window
+- Fine-tuning missions using editable text fields
+- Automatic error checking of planned missions
+- Communication between the vehicle and the computer through Ethernet or WiFi
+- Pre-deployment procedures for gliders (e.g., file preparation and upload, status checks)
+- Deployment instructions for gliders (e.g., turning on the glider, checking GPS, preparing safety buoy)
+- Monitoring and troubleshooting during operations (e.g., addressing technical issues like ground faults)
+
+**Note**: Some tasks may be more general and related to maintaining operational protocols and safety measures."
+ifm-geomar_rep4.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in the mission include:
+
+- Post-mission data analysis
+- Mission playback
+- Side-scan review
+- Mission planning using a graphic Mission Planner to build mission files
+- Positioning waypoints and mission objectives on the chart window
+- Fine-tuning missions using editable text fields
+- Automatic error checking for planned missions
+- Communication between the vehicle and the computer via Ethernet or WiFi
+- Open water tests and deployment of gliders
+- Preparing and uploading specific mission files
+- Checking mission and mafiles, space on flash card, iridium capability, and GPS
+- Preparing safety buoy and rope for glider carriage
+- Deployment instructions including zeroing ocean pressure and running status checks
+- Letting the glider call after mission to establish connection and communicate with home base
+
+**- Review and solve technical problems, such as those encountered during SO 203, where a mission was aborted due to safety limits and ground faults.**"
+ifm-geomar_rep39.pdf,What are all the tasks in this mission?,"Based on the retrieved context, the tasks in this mission include:
+
+- Post-mission data analysis, mission playback, and side-scan review.
+- Mission planning, operation, and review using navigation charts and a graphic Mission Planner.
+- Building mission files using drag-and-drop to position waypoints and mission objectives.
+- Fine-tuning missions using editable text fields.
+- Automatic error checking of planned missions.
+- Communication between the vehicle and computer via Ethernet or WiFi.
+- Deployment and testing of gliders, including specific pre-deployment and deployment instructions.
+- Checking and preparing various equipment and systems, such as GPS, iridium capability, safety buoy, and glider carriage rope.
+
+**These tasks involve planning, operation, and review of missions, and the deployment and testing of gliders.**"
+ifm_geomar_rep5.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks involved in this mission include:
+
+- Post-mission data analysis
+- Mission playback
+- Side-scan review
+- Building mission files using a Mission Planner with drag-and-drop functionality
+- Positioning waypoints and mission objectives on a chart window
+- Fine-tuning missions using editable text fields
+- Automatic error checking of planned missions
+- Communication between the vehicle and computer via Ethernet or WiFi
+- Handling technical issues such as battery power limits and ground faults during the mission
+- Preparing and uploading mission files before deployment
+- Checking space on flash cards, GPS, and Iridium capability
+- Preparing safety buoys and ropes for glider carriage
+- Zeroing ocean pressure and running status checks
+- Allowing the glider to call home base and establishing communication
+
+**Note**: These tasks are inferred from the context and may not represent a complete list of mission tasks."
+ifm-geomar_rep13.pdf,What are all the tasks in this mission?,*I don't know.*
+ifm-geomar_rep43.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- Post-mission data analysis, mission play-back, and side-scan review.
+- Building mission files using a Mission Planner with drag-and-drop features for positioning waypoints and mission objectives.
+- Fine-tuning missions using editable text fields and automatic error checking.
+- Communicating between the vehicle and the computer using a standard Ethernet connection or WiFi.
+- Addressing technical problems such as battery power limits and ground faults during missions.
+- Conducting open water tests and deployment of gliders, including pre-deployment and deployment instructions.
+- Checking various parameters such as mission files, space on flash cards, iridium capability, GPS, and preparing safety equipment.
+
+**- Post-mission data analysis, mission play-back, and side-scan review**
+**- Building and fine-tuning mission files with a Mission Planner**
+**- Communication setup between vehicle and computer**
+**- Addressing technical issues during missions**
+**- Conducting open water tests and deployment of gliders**
+**- Checking mission parameters and preparing safety equipment**"
+ifm-geomar_rep27.pdf,What are all the tasks in this mission?,"Based on the provided context, the tasks in this mission include:
+
+- **Post-mission data analysis, mission playback, and side-scan review.**
+- **Mission planning using a graphic Mission Planner to build and fine-tune mission files.**
+- **Automatic error checking of planned missions and communication between vehicle and computer.**
+- **Checking and preparing various equipment and files before deployment, such as ensuring proper transmission of mission files, checking GPS and iridium capability, and preparing safety equipment.**
+- **Deployment tasks including zeroing ocean pressure and running status checks.**
+
+If there are additional specifics or tasks, they are not detailed in the provided context."

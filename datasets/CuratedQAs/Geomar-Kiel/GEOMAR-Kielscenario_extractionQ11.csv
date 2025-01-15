@@ -1,0 +1,57 @@
+filename,question,result,feedback
+ifm-geomar_rep1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam echosounder**,1.0
+awi_doi~10.48433_cr_msm94.pdf,What is signal acoustic condition/ multibeam?,- **The acoustic signal is sampled every 3.2ms and processed for a cartographic representation.**,1.0
+ifm-geomar_rep49.pdf,What is signal acoustic condition/ multibeam?,- **Backscatter amplitudes provide seafloor texture information**,1.0
+ifm-geomar_rep28.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam echosounder**,1.0
+ifm-geomar_rep33.pdf,What is signal acoustic condition/ multibeam?,- **Acoustic signal sampled every 3.2ms for cartographic representation.**,1.0
+ifm-geomar_rep42.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar**,1.0
+ifm-geomar_rep9.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz and 400 kHz frequencies**,1.0
+ifm-geomar_rep38.pdf,What is signal acoustic condition/ multibeam?,- **The acoustic signal is sampled every 3.2 ms and processed for cartographic representation.**,1.0
+ifm-geomar_rep3.pdf,What is signal acoustic condition/ multibeam?,- *Equidistant or equiangular beam spacing and maximum seafloor coverage may be set to a fixed value.*,1.0
+ifm-geomar_rep23.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz/400 kHz with equi-angular beams**,1.0
+ifm-geomar_rep26.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz and 400 kHz frequencies**,1.0
+ifm-geomar_rep19.pdf,What is signal acoustic condition/ multibeam?,- **Sampled every 3.2ms for cartographic representation.**,1.0
+ifm-geomar_rep48.pdf,What is signal acoustic condition/ multibeam?,- **Sampled every 3.2 ms**,1.0
+ifm-geomar_rep12.pdf,What is signal acoustic condition/ multibeam?,"- **200 kHz with 256 equi-angular beams, 400 kHz with 512 equi-angular beams**",1.0
+ifm-geomar_rep17.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz with 256 equi-angular beams and 400 kHz with 512 equi-angular beams**,1.0
+geomar_rep_ns_58_2021 tjm 2.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz and 400 kHz**,1.0
+ifm-geomar_rep14.pdf,What is signal acoustic condition/ multibeam?,- **Successive emission-reception cycles**,1.0
+ifm-geomar_rep22.pdf,What is signal acoustic condition/ multibeam?,- **Successive emission-reception cycles of frequency coded signals**,1.0
+ifm-geomar_rep34.pdf,What is signal acoustic condition/ multibeam?,- **Frequency-coded acoustic signals (11.25 to 12.6 kHz) sent by a hull-mounted system; uses equiangular or equidistant beam spacing.**,1.0
+ifm-geomar_rep29.pdf,What is signal acoustic condition/ multibeam?,- **Signal acoustic condition refers to the emission and reception of frequency-coded acoustic signals for depth and reflectivity data.**,1.0
+ifm-geomar_rep40.pdf,What is signal acoustic condition/ multibeam?,- **Successive frequency coded acoustic signals (11.25 to 12.6 kHz).**,1.0
+ifm-geomar_rep44.pdf,What is signal acoustic condition/ multibeam?,- **Equi-angular or equidistant beams**,1.0
+ifm-geomar_rep10.pdf,What is signal acoustic condition/ multibeam?,- **Successive frequency coded acoustic signals (11.25 to 12.6 kHz)**,1.0
+AL374 CR ifm-geomar_rep51-1.pdf,What is signal acoustic condition/ multibeam?,- **Emission-reception cycles of acoustic signals**,1.0
+ifm-geomar_rep30.pdf,What is signal acoustic condition/ multibeam?,- **Emission-reception cycles of frequency coded signals**,1.0
+ifm-geomar_rep37.pdf,What is signal acoustic condition/ multibeam?,- **Acoustic signals are frequency coded.**,1.0
+ifm-geomar_rep7.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar uses multiple beams to cover a wide area of the seafloor, acquiring bathymetric and backscatter data.**",1.0
+ifm-geomar_rep18.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz and 400 kHz with equi-angular beams**,1.0
+ifm-geomar_rep8.pdf,What is signal acoustic condition/ multibeam?,**Acoustic signal sampling every 3.2ms for backscatter data processing.**,1.0
+geomar_rep_ns_57_2021.pdf,What is signal acoustic condition/ multibeam?,- **High-quality data provision in deep-water areas**,1.0
+ifm-geomar_rep31.pdf,What is signal acoustic condition/ multibeam?,- **Phase and amplitude for beam accuracy**,1.0
+ifm-geomar_rep32.pdf,What is signal acoustic condition/ multibeam?,- *A combination of phase and amplitude is used for measurement accuracy.*,1.0
+ifm-geomar_rep21.pdf,What is signal acoustic condition/ multibeam?,"- *Phase and amplitude combination for measurement*
+",1.0
+ifm-geomar_rep35.pdf,What is signal acoustic condition/ multibeam?,- *Multibeam sonar uses equi-angular beams to measure depth and can provide bathymetric data and backscatter imagery.*,1.0
+geomar_rep_ns_42_2018.pdf,What is signal acoustic condition/ multibeam?,- **Phase and amplitude combination for accuracy**,1.0
+ifm-geomar_rep15.pdf,What is signal acoustic condition/ multibeam?,- **Acoustic signal sampled at 3.2ms intervals**,1.0
+geomar_rep_ns_55_2020.pdf,What is signal acoustic condition/ multibeam?,- **Combination of phase and amplitude**,1.0
+ifm-geomar_rep16.pdf,What is signal acoustic condition/ multibeam?,- **Phase and amplitude combination for measurement accuracy**,1.0
+ifm-geomar_rep41.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar uses phase and amplitude to measure depth accurately.**,1.0
+ifm-geomar_rep11.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz with 256 beams or 400 kHz with 512 beams**,1.0
+ifm-geomar_rep36.pdf,What is signal acoustic condition/ multibeam?,- *200 kHz with 256 equi-angular beams and 400 kHz with 512 equi-angular beams*,1.0
+ifm-geomar_rep47.pdf,What is signal acoustic condition/ multibeam?,- **Operates at 200 kHz with 256 beams and 400 kHz with 512 beams.**,1.0
+ifm-geomar_rep24.pdf,What is signal acoustic condition/ multibeam?,- *Phase and amplitude combination*,1.0
+ifm-geomar_rep20.pdf,What is signal acoustic condition/ multibeam?,- **Phase and amplitude**,1.0
+ifm-geomar_rep46.pdf,What is signal acoustic condition/ multibeam?,- **200 kHz with 256 beams and 400 kHz with 512 beams**,1.0
+ifm-geomar_rep6.pdf,What is signal acoustic condition/ multibeam?,- **Amplitude and phase used for measurement**,1.0
+ifm-geomar_rep45-red.pdf,What is signal acoustic condition/ multibeam?,"- *Multibeam sonar uses a combination of phase and amplitude to measure depth with accuracy, independent of the beam pointing angle.*",1.0
+ifm-geomar_rep25.pdf,What is signal acoustic condition/ multibeam?,- **Phase and amplitude combination for measurement accuracy**,1.0
+ifm-geomar_rep50-red.pdf,What is signal acoustic condition/ multibeam?,"- *Multibeam sonar uses a combination of phase and amplitude to achieve measurement accuracy, independent of beam pointing angle.*",1.0
+ifm-geomar_rep4.pdf,What is signal acoustic condition/ multibeam?,- **Amplitude and phase combination**,1.0
+ifm-geomar_rep39.pdf,What is signal acoustic condition/ multibeam?,- **Beam and angle dependent**,1.0
+ifm_geomar_rep5.pdf,What is signal acoustic condition/ multibeam?,- **Combination of phase and amplitude**,1.0
+ifm-geomar_rep13.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar uses multiple beams to measure depths across a swath of the seafloor.**,1.0
+ifm-geomar_rep43.pdf,What is signal acoustic condition/ multibeam?,- **Beam geometry and refraction adjustments**,1.0
+ifm-geomar_rep27.pdf,What is signal acoustic condition/ multibeam?,"*The multibeam sonar operates by emitting a single transmission that illuminates a swath on the sea floor, with reception beams processing the return signal to measure depth and backscatter.*",1.0

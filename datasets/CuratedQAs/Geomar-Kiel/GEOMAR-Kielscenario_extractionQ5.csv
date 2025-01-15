@@ -1,4 +1,4 @@
-filename,question,result
+filename,question,result,feedback
 ifm-geomar_rep49.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Survey 1**: **3 hours and 50 minutes** - **Successful**
 - **Survey 2**: **4 hours and 41 minutes** - **Successful**
 - **Survey 3**: **3 hours and 12 minutes** - **Successful**
@@ -12,13 +12,13 @@ ifm-geomar_rep49.pdf,"What are existing tasks in this mission and say duration o
 - **T-Obs located and cables cut**: **2 hours** - **Partial failure**
 - **CTD cast at Giza MV**: **4 hours** - **Successful**
 - **Search and retrieval of data loggers from Giza T-Obs**: **3 hours** - **Successful**
-"
+",1
 ifm-geomar_rep28.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Survey 1: 3 hours 49 minutes** - *Successful*
 - **Survey 2: 4 hours 41 minutes** - *Successful*
 - **Survey 3: 3 hours 12 minutes** - *Successful*
 - **Survey 4: 4 hours 6 minutes** - *Successful*
 - **Survey 5: 4 hours 55 minutes** - *Successful*
-- **Bathymetric Data Acquisition: 0 hours** - *Failure*"
+- **Bathymetric Data Acquisition: 0 hours** - *Failure*",1
 ifm-geomar_rep33.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Survey 1: 3 hours 49 minutes - Success**
 - **Survey 2: 4 hours 41 minutes - Success**
 - **Survey 3: 3 hours 11 minutes - Success**
@@ -26,7 +26,7 @@ ifm-geomar_rep33.pdf,"What are existing tasks in this mission and say duration o
 - **Survey 5: 4 hours 55 minutes - Success**
 
 Other tasks such as bathymetric data acquisition were canceled due to bad weather and technical problems, hence:
-- **Bathymetric data acquisition - Failure**"
+- **Bathymetric data acquisition - Failure**",1
 ifm-geomar_rep42.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **CTD casts (22.06.2010, 00:00 - 01:00)**: *1 hour* - *Successful*
 - **Transit to Giza MV (22.06.2010, 01:00 - 08:00)**: *7 hours* - *Successful*
 - **Standby due to weather (22.06.2010, 08:00 - 21:00)**: *13 hours* - *Successful*
@@ -35,7 +35,7 @@ ifm-geomar_rep42.pdf,"What are existing tasks in this mission and say duration o
 - **T-Obs operation, cables cut, modem and data logger released (23.06.2010, 01:00 - 03:00)**: *2 hours* - *Failure* (logger fell back to seafloor)
 - **CTD casts (23.06.2010, 04:00 - 08:00)**: *4 hours* - *Successful*
 - **Search and retrieval of data loggers (23.06.2010, 09:00 - 12:00)**: *3 hours* - *Successful*
-- **End of operations (23.06.2010, 12:45)**: *N/A* - *Successful*"
+- **End of operations (23.06.2010, 12:45)**: *N/A* - *Successful*",1
 ifm-geomar_rep9.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Post-mission data analysis**: **Unknown**
 - **Mission playback**: **Unknown**
 - **Side-scan review**: **Unknown**
@@ -49,11 +49,11 @@ ifm-geomar_rep9.pdf,"What are existing tasks in this mission and say duration of
 - **Disembarkment of scientists and discharge of airfreight**: **Success**
 - **Chief scientist's presentation**: **Unknown**
 
-Durations are not provided in the context."
+Durations are not provided in the context.",1
 ifm-geomar_rep38.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Dive 16 Ascent**: *Aborted* - **Duration**: *Unknown*
 - **Mission 050**: *Aborted* - **Duration**: *3 hours*
 - **Mission 047**: *Successful* - **Duration**: *1 hour 13 minutes*
-- **Mission 048**: *Successful* - **Duration**: *2 hours 2 minutes*"
+- **Mission 048**: *Successful* - **Duration**: *2 hours 2 minutes*",1
 ifm-geomar_rep23.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission: 047 on 21.08.10 at 12:15** 
   - Duration: *1 hour, 13 minutes*
   - Result: **Successful**
@@ -64,16 +64,16 @@ ifm-geomar_rep23.pdf,"What are existing tasks in this mission and say duration o
 
 - **Mission: 050 on 26.08.10 at 11:27** 
   - Duration: *3 hours*
-  - Result: **Failure**"
+  - Result: **Failure**",1
 ifm-geomar_rep26.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **25.08.10, 10:02, Vehicle recovered**: *Successful*
 - **26.08.10, 11:27, Mission 050, Instruments used: Micro-Structure Probe (MR), Reson Seabat 7125, RDI ADCP, Seabird Fastcat SBE49 CTD, Wetlabs ECO FLNTU backscatter, Rough sea**: 3 hours *Failure*
 - **20.08.10, 11:02, Vehicle recovered**: *Successful*
 - **21.08.10, 12:15, Mission 047, Instruments used: Micro-Structure Probe (MR), RDI ADCP, Seabird Fastcat SBE49 CTD, Wetlabs ECO FLNTU backscatter**: *Successful*
 - **21.08.10, 15:13, Vehicle recovered**: *Successful*
-- **23.08.10, 13:15, Mission 048, Instruments used: Micro-Structure Probe (MR), Reson multibeam**: *Successful*"
+- **23.08.10, 13:15, Mission 048, Instruments used: Micro-Structure Probe (MR), Reson multibeam**: *Successful*",1
 ifm-geomar_rep19.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission 047**: Duration: *1 hour 13 minutes* - *Successful*
 - **Mission 048**: Duration: *2 hours 2 minutes* - *Successful*
-- **Mission 050**: Duration: *3 hours* - *Failure*"
+- **Mission 050**: Duration: *3 hours* - *Failure*",1
 ifm-geomar_rep48.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission: 047 (Shallow water mission)**
   - **Duration: 1 hour 13 minutes**
   - **Result: Successful**
@@ -84,7 +84,7 @@ ifm-geomar_rep48.pdf,"What are existing tasks in this mission and say duration o
 
 - **Mission: 050**
   - **Duration: 3 hours**
-  - **Result: Failure**"
+  - **Result: Failure**",1
 ifm-geomar_rep12.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission 047**  
   - Duration: 25 hours 13 minutes  
   - Result: **Successful**
@@ -95,7 +95,7 @@ ifm-geomar_rep12.pdf,"What are existing tasks in this mission and say duration o
 
 - **Mission 050**  
   - Duration: 3 hours  
-  - Result: **Failure**"
+  - Result: **Failure**",1
 ifm-geomar_rep17.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Task:** Mission 050  
   **Duration:** 3 hours  
   **Result:** Failure
@@ -106,17 +106,17 @@ ifm-geomar_rep17.pdf,"What are existing tasks in this mission and say duration o
 
 - **Task:** Mission 048  
   **Duration:** Not specified  
-  **Result:** Successful"
+  **Result:** Successful",1
 geomar_rep_ns_58_2021 tjm 2.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission 047:** Duration: 1 hour 13 minutes, **successful**
 - **Mission 048:** Duration: 2 hours 2 minutes, **successful**
-- **Mission 050:** Duration: 3 hours, **failure**"
+- **Mission 050:** Duration: 3 hours, **failure**",1
 ifm-geomar_rep14.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission 047 (21.08.10 12:15)**: Duration - **1 hour 13 minutes**, Result - **Successful**
 - **Mission 048 (23.08.10 13:15)**: Duration - **I don't know**, Result - **Successful**
-- **Mission 050 (26.08.10 11:27)**: Duration - **3 hours**, Result - **Failure**"
+- **Mission 050 (26.08.10 11:27)**: Duration - **3 hours**, Result - **Failure**",1
 ifm-geomar_rep22.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Dive 16 Ascent**: 3 hours (Failure)
 - **Mission 050**: 3 hours (Failure)
 - **Mission 047**: ~1 hour 13 mins (Successful)
-- **Mission 048**: ~2 hours 2 mins (Successful)"
+- **Mission 048**: ~2 hours 2 mins (Successful)",1
 ifm-geomar_rep34.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Here are the existing tasks in the mission along with their durations and outcomes:
 
 - **Dive 16:**
@@ -141,16 +141,16 @@ ifm-geomar_rep34.pdf,"What are existing tasks in this mission and say duration o
   - **Start Time:** 23.08.10 13:15
   - **End Time:** Not specified
   - **Duration:** I don't know
-  - **Outcome:** *Successful* (MR and Reson multibeam recorded good data)"
+  - **Outcome:** *Successful* (MR and Reson multibeam recorded good data)",1
 ifm-geomar_rep29.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Mission 047 (21.08.10 12:15 - 15:13):** *successful* - **3 hours**
 - **Mission 048 (23.08.10 13:15 - ?):** *successful* - **I don't know**
-- **Mission 050 (26.08.10 11:27 - ?):** *failure* - **3 hours**"
+- **Mission 050 (26.08.10 11:27 - ?):** *failure* - **3 hours**",1
 ifm-geomar_rep40.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Overnight simulation mission**: *Successful* (Duration: Not specified)
 - **GPS & Iridium connection test**: *Successful* (Duration: Not specified)
 - **Buoyancy tests**: *Not yet conducted* (Scheduled for after 08 March)
 - **Post-mission data analysis**: *Not specified*
 - **Mission playback**: *Not specified*
-- **Side-scan review**: *Not specified*"
+- **Side-scan review**: *Not specified*",1
 ifm-geomar_rep44.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Arrival at Sao Vicente (March 5)**: *Successful*
 - **Inspection of INDP and unloading of equipment (March 6)**: *Successful*
 - **Software installation on gliders (March 6)**: *Successful*
@@ -160,7 +160,7 @@ ifm-geomar_rep44.pdf,"What are existing tasks in this mission and say duration o
 - **GPS & Iridium connection test (March 7)**: *Successful*
 - **Post-mission data analysis, mission play-back, and side-scan review**: *I don't know*
 - **Mission with vehicle navigation and transponder fixes (August 25)**: *Failure*
-- **Mission with various instruments (August 26)**: *Failure*"
+- **Mission with various instruments (August 26)**: *Failure*",1
 ifm-geomar_rep10.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Glider equipment unloading**: *Duration not specified* - **Successful**
 - **Software installation on gliders**: *Duration not specified* - **Successful**
 - **Ballast bottle installation**: *Duration not specified* - **Successful**
@@ -168,7 +168,7 @@ ifm-geomar_rep10.pdf,"What are existing tasks in this mission and say duration o
 - **Overnight simulation mission for one glider**: *Overnight (~12 hours)* - **Successful**
 - **GPS & Iridium connection test**: *Duration not specified* - **Successful**
 - **Overnight simulated missions for two gliders**: *Overnight (~12 hours)* - **Successful**
-- **Post-mission data analysis, mission playback, and side-scan review**: *Duration not specified* - **Failure**"
+- **Post-mission data analysis, mission playback, and side-scan review**: *Duration not specified* - **Failure**",1
 ifm-geomar_rep30.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **GPS & Iridium connection test**: **successful**
   - **Duration**: **unknown**
 
@@ -194,7 +194,7 @@ ifm-geomar_rep30.pdf,"What are existing tasks in this mission and say duration o
   - **Duration**: **unknown**
 
 - **Mission aborted due to battery capacity**: **failure**
-  - **Duration**: **unknown**"
+  - **Duration**: **unknown**",1
 ifm-geomar_rep37.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Arrival at Sao Vicente:** *Not specified* - **successful**
 - **Inspection of INDP:** *Not specified* - **successful**
 - **Unloading of glider equipment:** *Not specified* - **successful**
@@ -204,7 +204,7 @@ ifm-geomar_rep37.pdf,"What are existing tasks in this mission and say duration o
 - **Software updates on 3 gliders:** *Not specified* - **successful**
 - **GPS & Iridium connection test:** *Not specified* - **successful**
 - **Overnight simulated missions (8 March):** ~24 hours - **successful**
-- **Post-mission data analysis, mission playback, and side-scan review:** *Not specified* - **unknown**"
+- **Post-mission data analysis, mission playback, and side-scan review:** *Not specified* - **unknown**",1
 ifm-geomar_rep7.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Arrival of participants** (05 March): *Successful* (arrival)
 - **Luggage issue** (05 March): *Failure* (luggage)
 - **Inspection of INDP, unloading, software installation, vacuum tests, overnight simulation** (06 March): *Mixed* (inspection, unloading, installation, vacuum, simulation)
@@ -213,7 +213,7 @@ ifm-geomar_rep7.pdf,"What are existing tasks in this mission and say duration of
 - **Overnight simulation mission completion** (08 March): *Successful* (completion)
 - **Post-mission data analysis, mission playback, side-scan review**: *Unknown* (analysis, playback, review)
 - **Mission aborted due to battery capacity** (25 August): *Failure* (aborted)
-- **Mission split in fix altitude and depth, recorded good data, aborted due to rough sea** (26 August): *Mixed* (split, recorded, aborted)"
+- **Mission split in fix altitude and depth, recorded good data, aborted due to rough sea** (26 August): *Mixed* (split, recorded, aborted)",1
 ifm-geomar_rep18.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Filming activities**: *successful* (duration not provided)
 - **Sound velocity profile collection**: *successful* (1.18 hours)
 - **Bathymetric surveying**: *successful* (97.57 hours)
@@ -222,18 +222,18 @@ ifm-geomar_rep18.pdf,"What are existing tasks in this mission and say duration o
 - **Lowering and retrieval of the CTD rosette**: *I don't know*
 - **Microstructure measurements**: *I don't know*
 - **Tracking of drifting mooring elements**: *I don't know*
-- **Submerging of a glider**: *I don't know*"
+- **Submerging of a glider**: *I don't know*",1
 ifm-geomar_rep8.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Filming**: *I don't know*
 - **Sound velocity profile**: *1:11 hours* - *Unknown*
 - **Bathymetric surveying**: *97:34 hours* - *Unknown*
 - **Dead time**: *56:34 hours* - *Unknown*
 - **Transit time**: *118:29 hours* - *Unknown*
 
-*Success or failure not mentioned in the context*"
+*Success or failure not mentioned in the context*",1
 geomar_rep_ns_57_2021.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Sound velocity profile collection: 1:11 hours, successful**
 - **Bathymetric surveying: 97:34 hours, successful**
 - **Instrument dead time: 56:34 hours, not applicable**
-- **Transit time: 4 days and 22:29 hours, successful**"
+- **Transit time: 4 days and 22:29 hours, successful**",1
 ifm-geomar_rep31.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Inspection**: Duration not specified, **successful**
 - **Unloading equipment**: Duration not specified, **successful**
 - **Software installation**: Duration not specified, **successful**
@@ -244,7 +244,7 @@ ifm-geomar_rep31.pdf,"What are existing tasks in this mission and say duration o
 - **Mission planning and review**: Duration not specified, **not specified**
 - **GPS & Iridium connection test**: Duration not specified, **successful**
 - **Post-mission data analysis**: Duration not specified, **not specified**
-- **Mission (26 August)**: 3 hours, **failure**"
+- **Mission (26 August)**: 3 hours, **failure**",1
 ifm-geomar_rep32.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Inspect INDP**: *Unknown duration* - **Successful**
 - **Unloaded glider equipment**: *Unknown duration* - **Successful**
 - **Installed new glider software**: *Unknown duration* - **Successful**
@@ -253,13 +253,13 @@ ifm-geomar_rep32.pdf,"What are existing tasks in this mission and say duration o
 - **Overnight simulation mission for two gliders (07 March)**: *Overnight* - **Successful**
 - **GPS & Iridium connection test**: *Unknown duration* - **Successful**
 - **Post-mission data analysis, mission playback, and side-scan review**: *Unknown duration* - **Unknown**
-- **Simulation mission (26 August)**: *3 hours* - **Failure**"
+- **Simulation mission (26 August)**: *3 hours* - **Failure**",1
 ifm-geomar_rep21.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the provided context, the tasks in the mission and their outcomes are:
 
 - **Recovery operations**: Successful
 - **Bathymetric data acquisition**: Failure
 
-The duration of these tasks is not specified in the context, so **I don't know** the exact hours."
+The duration of these tasks is not specified in the context, so **I don't know** the exact hours.",1
 geomar_rep_ns_30_2016.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Deployment and recovery of moorings: Successful**
 - **Lowering and retrieval of the CTD rosette: Successful**
 - **Microstructure measurements: Successful**
@@ -268,7 +268,7 @@ geomar_rep_ns_30_2016.pdf,"What are existing tasks in this mission and say durat
 - **Recovery operations: Successful**
 - **Bathymetric data acquisition: Failure**
 
-*Note: The duration of each task is not provided in the context.*"
+*Note: The duration of each task is not provided in the context.*",1
 ifm-geomar_rep35.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Recovery operations**: *Successful* (finished two days earlier than expected)
 - **Bathymetric data acquisition**: *Failure* (cancelled due to bad weather and technical problems)
 - **Filming (HDV format)**: *Successful* (focused on basic research activities)
@@ -276,17 +276,17 @@ ifm-geomar_rep35.pdf,"What are existing tasks in this mission and say duration o
 - **Lowering and retrieval of the CTD rosette**: *Successful*
 - **Microstructure measurements**: *Successful*
 - **Look-out for and tracking of drifting mooring elements**: *Successful*
-- **Submerging of a glider**: *Successful*"
-ifm-geomar_rep3_t.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Recovery operations**: **Two days earlier than expected** - **Successful**
+- **Submerging of a glider**: *Successful*",1
+ifm-geomar_rep3.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Recovery operations**: **Two days earlier than expected** - **Successful**
 - **Bathymetric data acquisition**: **Cancelled** - **Failure**
 - **Filming**: **Not specified** - **Successful**
 - **Deployment and recovery of moorings**: **Not specified** - **Successful**
 - **Lowering and retrieval of the CTD rosette**: **Not specified** - **Successful**
 - **Microstructure measurements**: **Not specified** - **Successful**
 - **Tracking of drifting mooring elements**: **Not specified** - **Successful**
-- **Submerging of a glider**: **Not specified** - **Successful**"
+- **Submerging of a glider**: **Not specified** - **Successful**",1
 geomar_rep_ns_42_2018.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Recovery operations: Successful**
-- **Bathymetric data acquisition: Cancelled**"
+- **Bathymetric data acquisition: Cancelled**",1
 ifm-geomar_rep15.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Recovery operations**: *2 days earlier* - *Successful*
 - **Bathymetric data acquisition**: *Cancelled* - *Failure*
 - **Filming (recovery and deployment of a glider)**: *Not specified* - *Successful*
@@ -294,17 +294,17 @@ ifm-geomar_rep15.pdf,"What are existing tasks in this mission and say duration o
 - **Lowering and retrieval of the CTD rosette**: *Not specified* - *Successful*
 - **Microstructure measurements**: *Not specified* - *Successful*
 - **Tracking of drifting mooring elements**: *Not specified* - *Successful*
-- **Submerging of a glider**: *Not specified* - *Successful*"
+- **Submerging of a glider**: *Not specified* - *Successful*",1
 geomar_rep_ns_55_2020.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Anton 91 pre mission 1**: 6 min - **Successful**
 - **Anton 91 pre mission 1**: 7 min - **Successful**
 - **Anton 91**: 5h 24 min - **Successful**
 - **Anton_92**: 2h - **Failure**
-- **Anton 89**: 1h - **Successful**"
+- **Anton 89**: 1h - **Successful**",1
 ifm-geomar-rep2.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Anton 91 pre mission 1**: 6 min, **successful**
 - **Anton 91 pre mission 2**: 7 min, **successful**
 - **Anton 91**: 5h 24 min, **successful**
 - **Anton 92**: Unknown duration, **failure** (no bottom lock)
-- **Anton 89**: 1h, **successful**"
+- **Anton 89**: 1h, **successful**",1
 ifm-geomar_rep16.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Task: USBL Test Mission (Anton 91 pre mission 1)**
   - **Duration: 6 min**
   - **Outcome: Successful**
@@ -323,7 +323,7 @@ ifm-geomar_rep16.pdf,"What are existing tasks in this mission and say duration o
 
 - **Task: Mission Timeout (Anton 89)**
   - **Duration: 1h**
-  - **Outcome: Successful**"
+  - **Outcome: Successful**",1
 ifm-geomar_rep41.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","**Tasks and durations:**
 
 - **Depart from Emden to Italy: 11 days, successful**
@@ -335,7 +335,7 @@ ifm-geomar_rep41.pdf,"What are existing tasks in this mission and say duration o
 - **AUV dive to 200m off Vulcano island: 5h 24 min, successful**
 - **First dive off Lipari: Duration not specified, failure due to DVL failure**
 
-I don't know the exact duration of some tasks."
+I don't know the exact duration of some tasks.",1
 ifm-geomar_rep11.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","**Tasks and Duration:**
 
 - **Transit to Italy: 11 days - Successful**
@@ -345,8 +345,8 @@ ifm-geomar_rep11.pdf,"What are existing tasks in this mission and say duration o
 - **Map volcanic deposits off Stromboli: 1 day - Successful**
 - **Transit from the Aeolian Islands to southern France: Not performed - Not applicable**
 - **AUV dive Anton 91: 5 hours 24 minutes - Successful**
-- **AUV dive Anton 92: Not specified - Failure**"
-ifm-geomar-rep1.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Transit from Emden to Italy: 11 days, Successful**
+- **AUV dive Anton 92: Not specified - Failure**",1
+ifm-geomar_rep1.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","- **Transit from Emden to Italy: 11 days, Successful**
 - **Deploy marine geodesy stations off Mt. Etna: Not specified, Successful**
 - **Work off the Maltese Islands: Not specified, Successful**
 - **Double-check geodesy stations off Mt. Etna: Not specified, Successful**
@@ -357,17 +357,128 @@ ifm-geomar-rep1.pdf,"What are existing tasks in this mission and say duration of
 - **USBL Test Mission Anton 91 (pre mission 1): 6 min, Successful**
 - **USBL Test Mission Anton 91 (pre mission 1): 7 min, Successful**
 - **Long survey mission (Anton 91): 5h 24 min, Successful**
-- **Dive off Lipari (Anton 92): Attempted 2h, Failure due to DVL failure**"
+- **Dive off Lipari (Anton 92): Attempted 2h, Failure due to DVL failure**",1
 ifm-geomar_rep36.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","*Transit from Emden to Italy: 11 days - *successful*  
 *Deploying marine geodesy stations off Mt. Etna: Not specified - *successful*  
 *Work off the Maltese Islands: Not specified - *successful*  
 *Returning to Mt. Etna to double-check geodesy stations and deploy seismometers: Not specified - *successful*  
 *Mapping volcanic deposits off Stromboli: 1 day - *successful*  
 *AUV dive Anton 91: 5h 24 min - *successful*  
-*AUV dive Anton 92: 2h - *failure*"
+*AUV dive Anton 92: 2h - *failure*",1
 ifm-geomar_rep47.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Here are the tasks in the mission with their durations and outcomes:
 
 - **USBL Test Mission Anton 91 Pre Mission 1**: 6 minutes, *successful*
 - **USBL Test Mission Anton 91 Pre Mission 2**: 7 minutes, *successful*
 - **Long Survey Mission Anton 91**: 5 hours 24 minutes, *successful*
-- **Lipari Deep Dive Anton 92**: Aborted, *failure*"
+- **Lipari Deep Dive Anton 92**: Aborted, *failure*",1
+ifm-geomar_rep24.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the provided context, here are the tasks and their outcomes:
+
+- **Test Dive 16**: Mission in mid-water to drive down to 1000m depth. **Failure** (Mission aborted after a few minutes).
+  
+- **Test Dive 17**: Second attempt of Test Dive 16. **Failure** (The test dive fails again).
+
+- **Transponder Test (26.11.08)**: Deploy all three transponders at 1500m depth. **Successful** (All three transponders acknowledged on the first try).
+
+- **Test Dive 27**: Rerun of mission 15 to check INS alignment and behavior at <100m water depth. **Successful** (INS navigation and behavior functions fine).
+
+- **Test Dive 28**: AUV descent to 3500m, mission aborted shortly after starting. **Failure** (AUV went dead and restarted, mission was aborted).",1
+ifm-geomar_rep20.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the provided context, here are the existing tasks in the mission with their duration and status:
+
+- **Test dive 16**: Deploy vehicle for mission in mid-water to drive down to 1000m depth. Duration: Not specified. **Failure**
+- **Test dive 17**: Reprogramming for a second attempt. Duration: Not specified. **Failure**
+- **Transponder test**: Deploy all three transponders to test functionality at water depth of 1500m. Duration: Not specified. **Successful**
+- **Test dive 27**: Rerun of mission 15 to check INS alignment and behavior. Duration: Not specified. **Successful**
+- **Test dive 28**: Descent to 3400m took 60 minutes, mission was aborted shortly after the start. Duration: 60 minutes for descent. **Failure**
+
+Note: The context does not specify the exact duration of each task, only for the descent in test dive 28.",1
+ifm-geomar_rep46.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the retrieved context, here are the existing tasks in the mission along with their durations and their success status:
+
+- **Test dive 16**: Deploy vehicle for mission in mid-water to drive down to 1000m depth. Duration not specified. *Failure*
+- **Test dive 17**: Reprogramming for second attempt. Duration not specified. *Failure*
+- **Deploy transponders**: Test functionality at water depth of 1500m. Duration not specified. *Successful*
+- **Test dive 27**: Rerun of mission 15 to check INS alignment and behavior at <100m depth. Duration not specified. *Successful*
+- **Test dive 28**: Descent to 3400m, mission aborted shortly after the start. Descent took 60 minutes. *Failure*",1
+awi_doi~10.48433_cr_msm94.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the provided context, the existing tasks on the MSM94 mission included:
+
+   - **Recovery and redeployment of 11 moorings and 1 bottom lander.**
+   - ** Conducting measurements of the vertical structure of temperature, salinity, density, oxygen, optical properties, and flow along selected sections.**
+   - **Monitoring near-surface salinity and temperature continuously with the thermosalinograph.**
+   - ** Recording meteorological data.**
+   - ** Acquiring flow velocity down to a depth of 1000m with ship ADCPs.**
+   - ** Deploying Deep (IFREMER) and Biogeo (BSH) Argo floats.**
+   - ** Deploying 50 surface drifters (NOC, UK).**
+
+The duration of these tasks was not explicitly mentioned in the provided information. As for whether the tasks were successful or failure, the text does not provide specific details on the success or failure of each task.",2
+ifm_geomar_rep5.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the provided information, here are the existing tasks in the mission along with their durations and success status:
+
+    -** Huddle Test: Duration - 2 days, Success – Successful.**
+    -** Test 3 with CTD frame and surface modem: Duration - Not specified, Success – Failure.**
+    -** Maintenance of system components: Duration - Not specified, Success – Successful.**
+    -** Underwater communication tests: Duration - Not specified, Success – Failure.**
+    -** Recovery and deployment of ocean bottom recorder instruments: Duration - Not specified, Success - Successful**",2
+ifm-geomar_rep6.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","-** Recovery of seismological network - Duration: 2 days - Task successful**
+-** Deployment of additional instruments along a 150 nm profile - Duration: Completed by 05:30 on 03 March - Task successful**
+-** Shooting along the profile (SO186-3-1) - Duration: From 03 March to 04 March - Task successful**
+-** Recovery of remaining instruments - Duration: By 21:30 on 05 March - Task successful**
+-** Recovery of Bottom Station and additional OBS - Duration: Completed during the evening of 11.03 - Task successful** 
+-** Inspection of the test buoy of the GITEWS system - Duration: Completed - Task successful**
+-** Transit to Singapore - Duration: From 11.03 to 15 March - Task successful**",2
+ifm-geomar_rep27.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","-** Seismic measurements until 10:00 on 15th Nov. - Successful** 
+-** Deployment of two CAT meters - Successful** 
+-** Recovery of one OBMT station - Successful** 
+-** Installation of CAT meters - Successful**
+-** Third seismic transect started at midnight on 16th Nov. - Failure due to compressor failure**
+-** Deployment of ROV for CSEM measurement - Successful**
+-** Redeployment of six OBS for long-term observation - Successful**
+-** MCS profiling interrupted due to compressor failures - Failure**
+-** MUC deployment with limited success - Failure**
+-** ROV deployment for CSEM measurements - Successful**
+-** MCS profiling - Successful**
+-** Deployment of second heat flow observatory and CAT meter – Successful**",2
+ifm-geomar_rep13.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","-** Task: Deployment of CTD Duration: 1 day Outcome: Calibration**
+
+-** Task: Sampling of volcanic structures Duration: 1 day Outcome: Successful**
+
+-** Task: Mapping and sampling of seamounts Duration: Multiple days Outcome: Completed**
+
+-** Task: TV grab and multi corer Duration: 1 day Outcome: Biological studies**",3
+ifm-geomar_rep4.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","The existing tasks in this mission include: 
+-** Locating and accessing cold seep sites and near-surface gas hydrates using multibeam bathymetric survey based on existing coverage and multi-channel seismics provided by GMGS.**
+-** Seafloor video survey with real-time imaging using OFOS provided by IFM-GEOMAR for locating methane emission sites.**
+ -** Continuous sea surface monitoring of dissolved methane and carbon dioxide using a sea-going analytical tool developed at IFM-GEOMAR for detecting methane seeps in shallow water or at sites where gas emissions reach the sea surface.**",4
+ifm-geomar_rep25.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?",I don't have access to the specific tasks and their durations from the provided context.,4
+ifm-geomar_rep39.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","-** Task 1: Mobilization of Rockdrill 2 - Failure**
+-** Task 2: Welding operations for Rockdrill installation – Successful**",2
+ifm-geomar_rep51.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the context provided, the existing tasks in this mission are as follows:
+
+    -** Geophysical measurements - Duration: 8 days - Task: Successful**
+    -** Satellite lander deployments - Duration: Not specified - Task: Successful**",2
+ifm-geomar_rep50.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","Based on the provided context, the existing tasks in the mission include:
+
+    -** Bathymetric mapping - Duration: Not specified - Success**
+    -** High-resolution multichannel seismic profiling - Duration: Not specified - Success**
+    -** Side-scan sonar mapping - Duration: Not specified - Success**
+    -** Coring program - Duration: Not specified – Failure**",4
+ifm-geomar_rep45-red.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","-** Deployment of OBS and OBM: - Duration: 4 days - Success**
+
+ -** Recovery of OBS:
+        Duration: 3 days
+        Success**
+
+ -** Transit to Gulf of Cadiz:
+        Duration: 1 day
+        Success**
+
+ -** Deployment of OBS stations:
+        Duration: 3 days
+        Success**
+
+  -** Transit to Faro:
+        Duration: 2 days
+        Success**",2
+ifm-geomar_rep43.pdf,"What are existing tasks in this mission and say duration of each task, write in one word task was successful or failure?","The tasks involved in the mission were:
+
+    -** Mapping newly generated morphological features and faults along the continental margins.**
+    -** Defining the deep structure of the margins.**
+    -** Creating a comprehensive model of the present-day tectonic/seismic activity in the western Mediterranean region.**
+",2

@@ -1,0 +1,763 @@
+filename,question,result
+awi_doi~10.48433_cr_msm94.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided information, the following components/devices/sensors were used in the mission:
+
+- **Thermosalinograph**: Continuously monitored near-surface salinity and temperature.
+- **Meteorological sensors**: Recorded air temperature, humidity, wind speed, precipitation, and radiation throughout the cruise, except for a brief network error on the morning of 25.8.
+- **Ship ADCPs (Acoustic Doppler Current Profilers)**: Acquired flow velocity data down to a depth of 1000 m throughout the cruise.
+- **RBR oxygen sensors**: Deployed at 53°N array. Some recorded data until March/April 2020, while others stopped earlier due to battery issues.
+- **MicroCats (68 installed on 11 moorings)**: Most worked well, but some had issues requiring multiple attempts to download data.
+- **Argo floats**: Deployed for deep and biogeochemical measurements.
+- **Surface drifters**: 50 deployed for surface measurements.
+
+The exact duration of use for each device during the mission isn't specified beyond the general cruise period, which included continuous and specific time-limited data collection as mentioned."
+ifm-geomar_rep3.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided information, the components and devices used in this mission include:
+
+- **DOS Lander**: This device was deployed and later recovered. It was equipped with various sensors and systems, which worked well during its deployment.
+- **Sediment Trap**: This was part of the DOS Lander and was used for successful sampling.
+- **Acoustic Current Meter**: This device was mounted next to the sediment trap and measured currents along with a turbidity meter.
+- **CTD (Conductivity, Temperature, Depth) Sensor**: Used to measure a full depth profile at the location.
+- **Turbidity Meter**: Included with the acoustic current meter for particle deposition sampling.
+- **Tableaus with Various Substrates**: Used for colonization experiments, including hard (limestones, basalts, granite, coral fragments) and soft substrates (carbonate sand, silty terrigenous sand, mud).
+- **Thermosalinograph**: Used for continuous monitoring of near-surface salinity and temperature.
+- **Ship ADCPs (Acoustic Doppler Current Profilers)**: Used for acquiring flow velocity data down to a depth of 1000 m throughout the cruise.
+- **Argo Floats**: Both deep and Biogeo floats were deployed.
+- **Surface Drifters**: A total of 50 drifters were deployed.
+- **Drone**: Used to search for the lander drifting at the surface.
+
+The duration of use for some of these devices is not explicitly mentioned, but the lander was part of a mission that lasted more than 2 years from 2018, as indicated by the recovery of a bottom lander during MSM74. The acoustic current meter sampled in 8-day intervals, while the pressure sensor on the lander had a sampling time step of 15 minutes. There is no specific duration mentioned for the other devices. 
+
+- **Duration of deployment**: The bottom lander was installed for more than 2 years."
+ifm-geomar_rep44.pdf,What components/devices/sensors used in this mission and for how long?,"- **The mission used various components and sensors including a seven-function position controlled manipulator (ORION), a five-function rate controlled manipulator (RIGMASTER), a DIGIQUARTZ depth sensor, a SIMRAD sonar system, a PNI TCM2-50 compass, a motion reference unit (MRU) with a gyro compass, an RDI doppler velocity log (DVL), and a USBL-based IXSEA POSIDONIA TM system. Additionally, an SBE 49 FastCAT CTD was permanently mounted on the tool sled.**
+- **Commercial oxygen, sulfide, and pH sensors with tip diameters of ~50 µm (Unisense, DK) were used to measure in-situ micro-profiles in the sediment. Two optodes recorded time series of O2 and temperature in the bottom water.**
+- **An acoustic current meter with a turbidity meter was mounted next to the sediment trap, which sampled particle deposition in 8-day intervals.**
+- **The lander was equipped with tableaus containing various substrates for colonization experiments, including natural hard and soft substrates.**
+- **The components were used from deployment in April 2004 until recovery on 10 August 2004.**"
+ifm-geomar_rep10.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission used the following components/devices/sensors:
+
+- **Seven-function position controlled manipulator (ORION)**
+- **Five-function rate controlled manipulator (RIGMASTER)**
+- **DIGIQUARTZ depth sensor**
+- **SIMRAD sonar system**
+- **PNI TCM2-50 compass**
+- **Motion reference unit (MRU) containing a gyro compass**
+- **RDI doppler velocity log (DVL)**
+- **USBL-based IXSEA POSIDONIA TM system for navigation**
+- **SBE 49 FastCAT CTD (permanently mounted)**
+- **Profiler lander with commercially available oxygen, sulfide, and pH sensors**
+- **Two optodes for recording time series of O2 and temperature**
+- **Acoustic current meter equipped with a turbidity meter**
+- **Sediment trap for particle deposition sampling in 8-day intervals**
+- **Tableaus containing various substrates for colonization experiments**
+
+The specific duration for each component's use is not mentioned in the provided context. However, the sediment trap sampling was conducted in 8-day intervals."
+AL374 CR ifm-geomar_rep51-1.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the components/devices/sensors used in the mission include:
+
+- A 300 kHz ADCP (RDI-Teledyne Instruments)
+- A storage CTD (SBE16plus V2) with a Paroscientific digiquartz pressure sensor
+- A HARP hydrophone (Scripps Research Institute, La Jolla) with a data logger and a battery casing
+- Microprofiler sensors
+- OFOS (Ocean Floor Observation System) equipped with a camera and xenon lights
+- Seven-function position controlled manipulator (ORION)
+- Five-function rate controlled manipulator (RIGMASTER)
+- DIGIQUARTZ depth sensor
+- SIMRAD sonar system
+- PNI TCM2-50 compass
+- Motion reference unit (MRU) containing a gyro compass
+- RDI doppler velocity log (DVL)
+- USBL-based IXSEA POSIDONIA TM system
+- SBE 49 FastCAT CTD
+
+Regarding the duration of use:
+
+- The satellite lander was deployed for a test deployment at Sleipner for 3 days and a long-term deployment in the crater of the 22-4b well site until recovery in September 2011.
+- The OFOS was towed at 1-2 knots along a pre-defined track for 2-4 hours during each of the 3 deployments.
+
+**These components and devices were used for various durations ranging from a few hours to several months.**"
+ifm-geomar_rep30.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission utilized several components, devices, and sensors:
+
+- **Satellite Lander**: Equipped with a 300 kHz ADCP, a storage CTD with a Paroscientific digiquartz pressure sensor, and a HARP hydrophone with a data logger and a battery casing. The lander was deployed for a test at Sleipner for 3 days and for a long-term deployment at the 22-4b well site until recovery in September 2011.
+
+- **OFOS (Ocean Floor Observation System)**: Equipped with a camera, xenon lights, a microprofiler, and sensors protected by a cage. The OFOS was towed for 2-4 hours along a pre-defined track, taking images every 5 seconds.
+
+- **DOS Lander**: Retrieved on August 10, 2004, and showed successful operation, including sediment trap sampling.
+
+The specific duration of the entire mission is not specified beyond the individual deployments mentioned."
+ifm-geomar_rep37.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission utilized several components, devices, and sensors:
+
+- A satellite lander equipped with a 300 kHz ADCP (RDI-Teledyne Instruments), a storage CTD (SBE16plus V2) with a Paroscientific digiquartz pressure sensor, and a HARP hydrophone (Scripps Research Institute, La Jolla) for recording environmental control parameters on fluid and gas discharge.
+- The satellite lander was deployed for a test deployment at Sleipner for 3 days and a long-term deployment in the crater of the 22-4b well site until recovery in September 2011.
+- An OFOS (Ocean Floor Observation System) equipped with a camera, xenon lights, a microprofiler, and other sensors was towed during 3 deployments at 1-2 knots along a pre-defined track for 2-4 hours approximately 1 m above the seafloor.
+- The microprofiler sensors recorded data in 1-second intervals, while images of the seafloor were taken in 5-second intervals.
+- The DOS lander was equipped with a sediment trap and was deployed in April 2004 and retrieved on 10 August 2004.
+
+**- Satellite lander with ADCP, CTD, and hydrophone deployed for 3 days and long-term until September 2011.**
+**- OFOS with camera, lights, and microprofiler deployed during 3 deployments for 2-4 hours each.**
+**- DOS lander with sediment trap deployed in April 2004 and retrieved in August 2004.**"
+ifm-geomar_rep7.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the components, devices, and sensors used in this mission include:
+
+- **Satellite Lander** equipped with:
+  - A 300 kHz ADCP (RDI-Teledyne Instruments)
+  - A storage CTD (SBE16plus V2) with a Paroscientific digiquartz pressure sensor
+  - A HARP hydrophone (Scripps Research Institute, La Jolla) with a data logger and a battery casing
+- **OFOS (Ocean Floor Observation System)** with:
+  - Camera and xenon lights
+  - Microprofiler sensors protected by a cage
+
+The mission involved deployments including:
+- A test deployment at the Sleipner site for 3 days
+- A long-term deployment in the crater of the 22-4b well site until recovery in September 2011
+
+The OFOS deployments involved towing for 2-4 hours at a speed of 1-2 knots along a predefined track."
+ifm-geomar_rep18.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission involved the deployment of a satellite lander equipped with several components and sensors. The components and sensors used in this mission include:
+
+- A 300 kHz ADCP (Acoustic Doppler Current Profiler) from RDI - Teledyne Instruments.
+- A storage CTD (Conductivity, Temperature, Depth) sensor model SBE16plus V2 with a Paroscientific digiquartz pressure sensor.
+- A HARP hydrophone from Scripps Research Institute, La Jolla, with a data logger and a battery casing to record the sound of bubble release.
+
+The satellite lander was deployed in two separate instances during the mission:
+- A test deployment at Sleipner, which lasted for 3 days.
+- A long-term deployment in the crater of the 22-4b well site until recovery in September 2011. 
+
+Additionally, the OFOS (Ocean Floor Observation System) was used with a camera, xenon lights, and microprofiler sensors, which recorded data at 1-second intervals.
+
+- The OFOS was towed at 1-2 knots along a predefined track for 2-4 hours during each of the 3 deployments.
+
+**- The mission involved the use of a 300 kHz ADCP, storage CTD sensor, Paroscientific pressure sensor, HARP hydrophone, and OFOS with various components, used over different durations: a 3-day test deployment at Sleipner and a long-term deployment until September 2011.**"
+ifm-geomar_rep8.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission utilized several components and sensors:
+
+- A small satellite lander equipped with a 300 kHz ADCP (Acoustic Doppler Current Profiler) and a storage CTD (Conductivity, Temperature, Depth sensor) with a Paroscientific digiquartz pressure sensor. Additionally, it carried a HARP hydrophone with a data logger and a battery casing.
+- The lander was deployed twice: a test deployment at Sleipner lasting 3 days and a long-term deployment in the crater of the 22-4b well site until recovery in September 2011.
+- An OFOS (Ocean Floor Observation System) equipped with a camera, xenon lights, and a microprofiler. The OFOS was towed during 3 deployments for 2-4 hours along a pre-defined track at 1-2 knots approximately 1 meter above the seafloor.
+- The DOS (Deep Ocean Sediment Trap) lander, which was retrieved after being deployed in April 2004 and recovered on August 10, 2004.
+
+**Components/Devices/Sensors Used:**
+- 300 kHz ADCP
+- Storage CTD with Paroscientific digiquartz pressure sensor
+- HARP hydrophone with data logger
+- OFOS with camera, xenon lights, and microprofiler
+- DOS lander with sediment trap
+
+**Deployment Duration:**
+- Satellite Lander: 3 days at Sleipner, long-term until September 2011 at 22-4b well site
+- OFOS: 2-4 hours per deployment along a pre-defined track
+- DOS Lander: Deployed from April 2004 and recovered on August 10, 2004
+
+**Note:** The context does not specify the exact duration of the long-term deployment in the crater of the 22-4b well site, only that it was until September 2011."
+geomar_rep_ns_57_2021.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the following components, devices, and sensors were used in the mission:
+
+- **Mk II Camera**: Mounted on vehicles for photographic surveys, capable of taking up to 2 images per second with a resolution of 12.34MP.
+
+- **Nitrate Sensor**: Carried by the AUV LUISE.
+
+- **Navigational INS (iXblue Phins Combat C3)**: Processes sensor data and provides position information.
+
+- **Satellite Lander**:
+  - Equipped with a 300 kHz ADCP (RDI-Teledyne Instruments).
+  - Storage CTD (SBE16plus V2) with a Paroscientific digiquartz pressure sensor.
+  - HARP hydrophone (Scripps Research Institute) with a data logger and battery casing.
+  - Used for recording environmental control parameters on fluid and gas discharge.
+
+- **OFOS (Ocean Floor Observation System)**:
+  - Equipped with a camera, xenon lights, and a microprofiler.
+  - Sensors recorded data in 1-second intervals, and the camera took images every 5 seconds.
+
+- **DOS Lander**: 
+  - Included a sediment trap and was covered with greenish-brown slime and small settling organisms upon recovery.
+
+Duration of Deployments:
+- **AUV Missions**: Can last up to 9 hours.
+- **Satellite Lander**:
+  - Test deployment at Sleipner lasted for 3 days.
+  - Long-term deployment in the crater of the 22-4b well site lasted until September 2011.
+- **OFOS**: Towed for 2-4 hours per deployment.
+
+**Note**: The specific duration of each component's operation is not detailed beyond the mentioned deployment durations."
+ifm-geomar_rep31.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission used several components, devices, and sensors:
+
+- **mk II Camera**: Used for photographic surveys, capable of taking up to 2 images per second with a resolution of 12.34MP. Mounted on both vehicles.
+
+- **Nitrate Sensor**: Carried by the AUV LUISE during the cruise.
+
+- **iXblue Phins Combat C3 INS**: An internal navigation unit that processes sensor data and provides position information.
+
+- **Satellite Lander**: Equipped with a 300 kHz ADCP, a storage CTD with a Paroscientific digiquartz pressure sensor, and a HARP hydrophone for recording environmental control parameters and the sound of bubble release.
+
+- **OFOS**: Equipped with a camera, xenon lights, and a microprofiler. It was towed during deployments to take images of the seafloor.
+
+- **DOS Lander**: Used for sampling with a sediment trap and successfully retrieved with all systems working.
+
+The mission involved multiple deployments with varying durations:
+
+- **Satellite Lander Deployment**: A test deployment at Sleipner lasted 3 days, and a long-term deployment at the 22-4b well site until September 2011.
+
+- **OFOS Deployments**: Towed for 2-4 hours during each deployment.
+
+- **DOS Lander Retrieval**: Conducted in August 2004, with the deployment occurring in April 2004.
+
+If the exact duration for some components is not mentioned, it might not be available in the provided context."
+ifm-geomar_rep32.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the components/devices/sensors used in the mission include:
+
+- **AUV LUISE**: Equipped with a nitrate sensor, capable of missions up to 9 hours and 10 kilometers in length.
+- **mk II Camera**: Mounted on AUVs for photographic surveys, taking up to 2 images per second at a resolution of 12.34MP.
+- **DeltaT multibeam and magnetometer**: Available as payload options.
+- **Navigational INS (iXblue Phins Combat C3)**: Provides position information with specific error margins.
+- **Satellite lander**: Equipped with a 300 kHz ADCP, storage CTD with Paroscientific digiquartz pressure sensor, and a HARP hydrophone. Deployed for up to three days at Sleipner and long-term at the 22-4b well site until September 2011.
+- **OFOS (Ocean Floor Observation System)**: Equipped with a camera, xenon lights, and microprofiler sensors, used in deployments towed at 1-2 knots for 2-4 hours.
+- **DOS Lander**: Deployed in April 2004 and retrieved on 10th August 2004; equipped with a sediment trap.
+
+The mission durations vary for different components, ranging from single deployments of a few days to long-term deployments until recovery several months later."
+ifm-geomar_rep21.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided information, the following components/devices/sensors were used in the missions:
+
+- **Mk II Camera:** Developed by the GEOMAR AUV group, mounted on vehicles for photographic surveys with a resolution of 12.34MP, capable of taking up to 2 images per second.
+- **CoraMo:** Provides connection for 8 high power LEDs.
+- **DeltaT Multibeam and Magnetometer:** Available as payload options.
+- **Nitrate Sensor:** Carried by AUV LUISE.
+- **INS: iXblue Phins Combat C3:** An internal navigation unit for processing sensor data and providing position information.
+- **Satellite Lander:** Equipped with a 300 kHz ADCP, a storage CTD with a Paroscientific digiquartz pressure sensor, a HARP hydrophone, and a battery casing.
+- **OFOS (Ocean Floor Observation System):** Equipped with a camera, xenon lights, and microprofiler sensors for seafloor exploration.
+- **DOS Lander:** Involved in sediment sampling, equipped with various systems for data collection.
+
+The durations for some of these deployments/missions were:
+
+- **AUV Missions:** Can last up to 9 hours and cover a total length of about 10 kilometers.
+- **Satellite Lander Deployment at Sleipner:** Lasted for 3 days.
+- **OFOS Deployments:** Towed for 2-4 hours during each deployment."
+ifm-geomar_rep35.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the mission involved the use of the following components, devices, and sensors:
+
+- **AUV LUISE:** Carried a nitrate sensor during the cruise. Missions could last up to 9 hours with a total length of about 10 kilometers.
+- **Satellite Lander:** Equipped with a 300 kHz ADCP, a storage CTD with a Paroscientific digiquartz pressure sensor, and a HARP hydrophone with a data logger and battery casing. Two deployments were performed: a test deployment at Sleipner for 3 days, and a long-term deployment at the 22-4b well site until recovery in September 2011.
+- **OFOS (Ocean Floor Observation System):** Equipped with a camera, xenon lights, and a microprofiler. It was towed for 2-4 hours during 3 deployments, approximately 1 meter above the seafloor. 
+
+These systems were used for various durations, ranging from a few hours to several days, depending on the specific operation and objectives of each deployment."
+.~lock.ifm-geomar_rep27.pdf#,What components/devices/sensors used in this mission and for how long?,
+geomar_rep_ns_42_2018.pdf,What components/devices/sensors used in this mission and for how long?,"- *A mk II Camera, capable of taking up to 2 images per second with a resolution of 12.34MP, was used for photographic surveys. It was mounted on vehicles with additional payload options like a DeltaT multibeam or a magnetometer. The AUV LUISE carried a nitrate sensor. Missions could last up to 9 hours and cover about 10 kilometers.* 
+- *A satellite lander was deployed, equipped with a 300 kHz ADCP and a storage CTD with a Paroscientific digiquartz pressure sensor. It also carried a HARP hydrophone with a data logger and a battery casing for recording bubble release sounds. The deployment at Sleipner lasted for 3 days.*
+- *OFOS was towed for 2-4 hours, equipped with a camera, xenon lights, and microprofiler sensors. The sensors recorded data in 1-second intervals, while the camera took images at 5-second intervals.*
+- *The DOS lander was retrieved after deployment from April to 10 August 2004. It successfully sampled sediment and was covered in greenish-brown slime and small settling organisms upon recovery.*"
+ifm-geomar_rep15.pdf,What components/devices/sensors used in this mission and for how long?,"- **mk II Camera: A camera system for photographic surveys, mounted on vehicles, taking up to 2 images per second with a resolution of 12.34MP.**
+- **Nitrate sensor: Carried by AUV LUISE.**
+- **INS: iXblue Phins Combat C3: An internal navigation unit with specific error ranges for heading, roll, and pitch.**
+- **Satellite lander: Equipped with a 300 kHz ADCP, a storage CTD with a Paroscientific digiquartz pressure sensor, and a HARP hydrophone for sound recording.**
+- **Deployment duration for satellite lander: Test deployment at Sleipner lasted 3 days; long-term deployment until September 2011.**
+- **OFOS: Equipped with a camera, xenon lights, and microprofiler sensors, towed along predefined tracks for 2-4 hours per deployment, recording data at intervals.**
+- **DOS Lander: Included sediment traps and was used until retrieval on August 10, 2004.**
+
+The mission utilized these components across different deployments and durations."
+geomar_rep_ns_55_2020.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the following components/devices/sensors were used in the mission:
+
+- **mk II Camera**: A photographic survey camera capable of taking up to 2 images per second with a resolution of 12.34MP.
+- **High power LEDs**: For illumination, connected via CoraMo.
+- **DeltaT multibeam and magnetometer**: As available payload options.
+- **Nitrate sensor**: Carried by AUV LUISE during the cruise.
+- **INS - iXblue Phins Compact C3**: Provides position information with specific accuracy ranges for heading, roll, and pitch.
+- **DVL - Teledyne RDI Explorer 600kHz**: Measures velocity relative to the sea floor and altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT**: Measures conductivity, temperature, and pressure, and calculates sound velocity.
+- **Pressure sensor - Valeport ultraP**: Measures pressure and converts it to water depth.
+- **USBL2 - Evologics S2CR 18/34**: Combines underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module**: Determines the vehicle’s absolute position at the surface.
+- **300 kHz ADCP (RDI -Teledyne Instruments)**: Used on the satellite lander.
+- **Storage CTD (SBE16plus V2) with a Paroscientific digiquartz pressure sensor**: Used on the satellite lander.
+- **HARP hydrophone (Scripps Research Institute, La Jolla)**: Records the sound of bubble release.
+
+The mission duration was up to 9 hours, with a total length of about 10 kilometers, depending on settings, payload, and environmental conditions. The satellite lander deployment at Sleipner lasted for 3 days, and the long-term deployment in the crater of the 22-4b well site continued until its recovery in September 2011. 
+
+- **Mission duration**: Up to 9 hours for the AUV missions.
+- **Satellite Lander Deployment at Sleipner**: Lasted for 3 days.
+- **Long-term deployment at the 22-4b well site**: Until recovery in September 2011.
+
+If you need more specific details about each component or device, feel free to ask!"
+ifm-geomar_rep16.pdf,What components/devices/sensors used in this mission and for how long?,"- **INS - iXblue Phins Compact C3: Internal navigation unit providing position information with specific accuracy.**
+- **DVL - Teledyne RDI Explorer 600kHz: Measures vehicle velocity relative to the sea floor and altitude.**
+- **CTD - Sea-Bird SBE 49 FastCAT: Acquires conductivity, temperature, and pressure of the water.**
+- **Pressure sensor - Valeport ultraP: Measures pressure and converts it to water depth.**
+- **USBL2 - Evologics S2CR 18/34: Combines underwater acoustics and positioning.**
+- **GPS - Quectel l86 GNSS module: Determines the vehicle’s absolute position at the surface.**
+- **A nitrate sensor was carried by AUV LUISE during the cruise.**
+- **Satellite lander with a 300 kHz ADCP, storage CTD, Paroscientific digiquartz pressure sensor, HARP hydrophone for sound recording.**
+
+- **The AUV missions can last up to 9 hours.**
+- **The satellite lander was deployed for 3 days at Sleipner and had a long-term deployment in the crater of the 22-4b well site until September 2011.**"
+ifm-geomar_rep41.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the components, devices, and sensors used in this mission include:
+
+- **AUV LUISE**: Equipped with standard sensors such as:
+  - INS (iXblue Phins Compact C3)
+  - DVL (Teledyne RDI Explorer 600kHz)
+  - CTD (Sea-Bird SBE 49 FastCAT)
+  - Pressure sensor (Valeport ultraP)
+  - USBL (Evologics S2CR 18/34)
+  - GPS (Quectel l86 GNSS module)
+  - Additional payload: Nitrate sensor
+
+- **Satellite Lander**: Equipped with:
+  - ADCP (300 kHz RDI -Teledyne Instruments)
+  - Storage CTD (SBE16plus V2 with a Paroscientific digiquartz pressure sensor)
+  - HARP hydrophone (Scripps Research Institute) with a data logger and battery casing
+
+- **Mission Duration**:
+  - AUV missions can last up to 9 hours.
+  - The satellite lander had two deployments: a 3-day test deployment at Sleipner and a long-term deployment in the crater of the 22-4b well site until recovery in September 2011.
+
+**Note**: The duration mentioned is specific to each component or mission, and the total mission duration may vary depending on the combination and settings of the components used."
+ifm-geomar_rep11.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the following components, devices, and sensors were used in the mission:
+
+- **mk II Camera**: Mounted on the vehicles for photographic surveys, capable of taking up to 2 images per second with a resolution of 12.34MP.
+- **INS - iXblue Phins Compact C3**: Used for internal navigation and position information processing with an error range of 0.15° for heading and 0.05° for roll and pitch.
+- **DVL - Teledyne RDI Explorer 600kHz**: Measures the vehicle's velocity relative to the sea floor and its altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT**: Acquires conductivity, temperature, and pressure of water, and calculates sound velocity.
+- **Pressure sensor - Valeport ultraP**: Measures pressure and converts it to water depth.
+- **USBL2 - Evologics S2CR 18/34**: Combines underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module**: Determines the vehicle’s absolute position at the surface.
+- **Nitrate sensor**: Carried by AUV LUISE during the cruise.
+- **ADCP (RDI -Teledyne Instruments)**: Used in the satellite lander deployment.
+- **Storage CTD (SBE16plus V2) with a Paroscientific digiquartz pressure sensor**: Part of the satellite lander deployment.
+- **HARP hydrophone (Scripps Research Institute, La Jolla)**: Used for recording the sound of bubble release.
+
+The mission components were used during specific deployments:
+- **AUV missions**: Up to 9 hours and a total length of about 10 kilometers, depending on settings, payload, and environmental conditions.
+- **Satellite lander deployments**: The test deployment at Sleipner lasted 3 days, and a long-term deployment occurred in the crater of the 22-4b well site until recovery in September 2011.
+
+If you need more specific information on the duration of each component's usage, further details from the mission logs would be required."
+ifm-geomar_rep36.pdf,What components/devices/sensors used in this mission and for how long?,"- **The mk II Camera, capable of taking up to 2 images per second with a resolution of 12.34MP.**
+- **8 high power LEDs for illumination.**
+- **DeltaT multibeam or a magnetometer as optional payloads.**
+- **A nitrate sensor was carried by AUV LUISE.**
+- **Navigational INS: iXblue Phins Combat C3 for position information with an error range of 0.15° for heading and 0.05° for roll and pitch.**
+- **DVL - Teledyne RDI Explorer 600kHz for measuring the vehicle's velocity relative to the sea floor and its altitude.**
+- **CTD - Sea-Bird SBE 49 FastCAT for acquiring conductivity, temperature, and pressure of water, and calculating sound velocity.**
+- **Valeport ultraP pressure sensor for measuring pressure and converting it to water depth.**
+- **USBL2 - Evologics S2CR 18/34 for underwater acoustics and positioning.**
+- **GPS - Quectel l86 GNSS module for determining the vehicle’s absolute position at the surface.**
+- **Satellite lander with a 300 kHz ADCP, storage CTD (SBE16plus V2), Paroscientific digiquartz pressure sensor, and a HARP hydrophone for environmental control parameters on fluid and gas discharge.**
+
+**Duration:**
+- **AUV missions can last up to 9 hours and cover a total length of about 10 kilometers.**
+- **Satellite lander test deployment at Sleipner lasted for 3 days.**"
+ifm-geomar_rep47.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the information provided, the components, devices, and sensors used in this mission include:
+
+- **mk II Camera**: A down or forward-looking camera system for photographic surveys.
+- **DeltaT multibeam (optional)**: Not explicitly mentioned as used on this mission, but available as a payload.
+- **Magnetometer (optional)**: Not explicitly mentioned as used on this mission, but available as a payload.
+- **Nitrate sensor**: Carried by the AUV LUISE during the cruise.
+- **INS - iXblue Phins Compact C3**: Internal navigation unit.
+- **DVL - Teledyne RDI Explorer 600kHz**: Measures velocity relative to the sea floor and altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT**: Acquires conductivity, temperature, and pressure.
+- **Pressure sensor - Valeport ultraP**: Measures pressure and water depth.
+- **USBL2 - Evologics S2CR 18/34**: Combines underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module**: Determines the vehicle’s absolute position at the surface.
+
+The mission duration can be up to 9 hours and a total length of about 10 kilometers, depending on settings, payload, and environmental conditions like currents. Additional deployments mentioned include:
+
+- **Satellite Lander with 300 kHz ADCP and storage CTD**: Recorded environmental control parameters; deployed twice during the cruise.
+- **HARP hydrophone**: Recorded the sound of bubble release.
+
+- **Sleipner deployment**: Lasted 3 days.
+- **Long-term deployment in the crater of the 22-4b well site**: Lasted until recovery in September 2011."
+ifm-geomar_rep24.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the information provided, the components, devices, and sensors used in this mission include:
+
+- **mk II Camera:** Used for photographic surveys, capable of taking up to 2 images per second at a resolution of 12.34MP.
+- **INS - iXblue Phins Compact C3:** Provides navigation and position information with an error margin of 0.15° for heading and 0.05° for roll and pitch.
+- **DVL - Teledyne RDI Explorer 600kHz:** Measures the vehicle’s velocity relative to the sea floor and its altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT:** Acquires the conductivity, temperature, and pressure of the water to calculate sound velocity.
+- **Pressure sensor - Valeport ultraP:** Measures pressure to determine water depth.
+- **USBL2 - Evologics S2CR 18/34:** Combines underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module:** Determines the vehicle’s absolute position at the surface.
+- **Nitrate sensor:** Carried by AUV LUISE during the cruise.
+- **Reson Seabat 7125:** Utilized in a test dive.
+- **RDI ADCP:** Utilized in a test dive.
+- **Wetlabs ECO FLNTU backscatter:** Utilized in a test dive.
+- **Edgetech 2200M Sidescan sonar:** Utilized in a test dive.
+- **Eh-sensor:** Utilized in a test dive.
+
+The mission's duration can be up to 9 hours, covering a total length of about 10 kilometers, depending on settings, payload, and environmental conditions. However, specific durations for each device/sensor are not detailed in the provided context."
+ifm-geomar_rep20.pdf,What components/devices/sensors used in this mission and for how long?,"- **AUV LUISE carried a nitrate sensor.**
+- **INS - iXblue Phins Compact C3: Used for navigation with a position accuracy of 0.3% DT.**
+- **DVL - Teledyne RDI Explorer 600kHz: Measures velocity relative to the sea floor and altitude.**
+- **CTD - Sea-Bird SBE 49 FastCAT: Measures conductivity, temperature, and pressure of water.**
+- **Pressure sensor - Valeport ultraP: Measures pressure and converts it to water depth.**
+- **USBL2 - Evologics S2CR 18/34: Combines underwater acoustics and positioning.**
+- **GPS - Quectel l86 GNSS module: Determines absolute position at the surface.**
+- **Reson Seabat 7125: Used in the aborted mission.**
+- **RDI ADCP: Used in the aborted mission.**
+- **Wetlabs ECO FLNTU backscatter: Used in the aborted mission.**
+- **Edgetech 2200M Sidescan sonar: Used in the aborted mission.**
+- **Eh-sensor: Used in the aborted mission.**
+
+The missions can have a duration of up to 9 hours and a total length of about 10 kilometers, depending on settings, payload, and environmental conditions like currents."
+ifm-geomar_rep46.pdf,What components/devices/sensors used in this mission and for how long?,"- **AUV LUISE carried a nitrate sensor**
+- **CTD - Sea-Bird SBE 49 FastCAT for measuring conductivity, temperature, and pressure of water**
+- **INS - iXblue Phins Compact C3 for navigation and position information**
+- **DVL - Teledyne RDI Explorer 600kHz for measuring vehicle velocity relative to the sea floor**
+- **Pressure sensor - Valeport ultraP for measuring pressure and converting it to water depth**
+- **USBL2 - Evologics S2CR 18/34 for underwater acoustics and positioning**
+- **GPS - Quectel l86 GNSS module for determining the vehicle’s absolute position at the surface**
+- **Reson Seabat 7125, RDI ADCP, Wetlabs ECO FLNTU backscatter, Edgetech 2200M Sidescan sonar, Eh-sensor were mentioned in a test dive**
+- **Mission duration can be up to 9 hours and a total length of about 10 kilometers**
+
+Note: The mission was aborted after a few minutes during a test dive, so the planned duration may not have been fully utilized."
+ifm-geomar_rep6.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the following components/devices/sensors are used in the mission:
+
+- **INS - iXblue Phins Compact C3**: Provides position information with an error range of 0.15° for heading and 0.05° for roll and pitch.
+- **DVL - Teledyne RDI Explorer 600kHz**: Measures the vehicle's velocity relative to the sea floor and its altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT**: Acquires conductivity, temperature, and pressure of water to calculate sound velocity.
+- **Pressure sensor - Valeport ultraP**: Measures pressure and converts it to water depth.
+- **USBL2 - Evologics S2CR 18/34**: Combines underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module**: Determines the vehicle's absolute position at the surface.
+- **mk II Camera**: Used for photographic surveys, takes up to 2 images per second with a resolution of 12.34MP. 
+- **Reson Seabat 7125**: Used in the abortive test dive.
+- **RDI ADCP**
+- **Wetlabs ECO FLNTU backscatter**
+- **Edgetech 2200M Sidescan sonar**
+- **Eh-sensor**
+
+The mission, as described, can have a duration of up to 9 hours and cover a total length of about 10 kilometers, depending on settings, payload, and environmental conditions like currents. However, specific durations for individual components are not mentioned."
+ifm-geomar_rep45-red.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the following components, devices, and sensors were used in the mission:
+
+- **mk II Camera:** Used for photographic surveys, capable of taking up to 2 images per second with a resolution of 12.34MP.
+- **INS - iXblue Phins Compact C3:** Internal navigation unit that processes sensor data and provides position information.
+- **DVL - Teledyne RDI Explorer 600kHz:** Measures the vehicle’s velocity relative to the sea floor and its altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT:** Acquires conductivity, temperature, and pressure of the water and calculates sound velocity.
+- **Pressure sensor - Valeport ultraP:** Measures pressure and converts it to water depth.
+- **USBL2 - Evologics S2CR 18/34:** Modem combining underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module:** Determines the vehicle’s absolute position at the surface.
+- **Reson Seabat 7125, RDI ADCP, Wetlabs ECO FLNTU backscatter, Edgetech 2200M Sidescan sonar, Eh-sensor:** Instruments used in the mission, although specific roles are not detailed in the context.
+
+The mission duration could be up to 9 hours, depending on settings, payload, and environmental conditions like currents.
+
+**Note:** Some instruments like Reson Seabat 7125, RDI ADCP, Wetlabs ECO FLNTU backscatter, Edgetech 2200M Sidescan sonar, and Eh-sensor were mentioned, but their specific roles and duration of use are not detailed in the provided context."
+ifm-geomar_rep25.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the information provided, the components/devices/sensors used in this mission include:
+
+- **INS - iXblue Phins Compact C3**: Internal navigation unit for processing sensor data and providing position information.
+- **DVL - Teledyne RDI Explorer 600kHz**: Measures vehicle’s velocity relative to the sea floor and its altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT**: Acquires conductivity, temperature, and pressure of the water and calculates sound velocity.
+- **Pressure Sensor - Valeport ultraP**: Measures pressure and converts it to water depth.
+- **USBL2 - Evologics S2CR 18/34**: Underwater acoustics and positioning modem.
+- **GPS - Quectel l86 GNSS module**: Determines vehicle’s absolute position at the surface.
+- **mk II Camera**: Down or forward-looking camera system for photographic surveys.
+- **Reson Seabat 7125**: Used in a test dive.
+- **RDI ADCP**: Acoustic Doppler Current Profiler.
+- **Wetlabs ECO FLNTU Backscatter**: Used in a test dive.
+- **Edgetech 2200M Sidescan Sonar**: Used in a test dive.
+- **Eh-sensor**: Used in a test dive.
+
+The mission duration can be up to **9 hours** with a total length of about **10 kilometers**, depending on settings, payload, and environmental conditions. However, one mission was aborted after a few minutes, and a test dive failed twice."
+ifm-geomar_rep50-red.pdf,What components/devices/sensors used in this mission and for how long?,"- **Mk II Camera: This camera system is used for photographic surveys and can take up to 2 images per second with a resolution of 12.34MP.**
+- **CoraMo with high power LEDs: This provides connection for 8 high power LEDs.**
+- **DeltaT multibeam or a magnetometer: These are available payload options.**
+- **Nitrate sensor: This was carried by AUV LUISE during the mission.**
+- **INS - iXblue Phins Compact C3: Provides navigation and position information with specific accuracy.**
+- **DVL - Teledyne RDI Explorer 600kHz: Measures the vehicle's velocity relative to the seafloor and its altitude.**
+- **CTD - Sea-Bird SBE 49 FastCAT: Acquires conductivity, temperature, and pressure of the water and calculates sound velocity.**
+- **Pressure sensor - Valeport ultraP: Measures pressure and converts it to water depth.**
+- **USBL2 - Evologics S2CR 18/34: Combines underwater acoustics and positioning.**
+- **GPS - Quectel l86 GNSS module: Used to determine the vehicle’s absolute position at the surface.**
+- **Mission Duration: Missions can last up to 9 hours and cover about 10 kilometers, depending on settings and conditions.**
+"
+ifm-geomar_rep4.pdf,What components/devices/sensors used in this mission and for how long?,"- **The mission involved the use of a mk II Camera, which is mounted on both vehicles, capable of capturing up to 2 images per second with a resolution of 12.34MP.**
+- **AUV LUISE carried a nitrate sensor during the mission.**
+- **The standard sensors included an INS - iXblue Phins Compact C3, DVL - Teledyne RDI Explorer 600kHz, CTD - Sea-Bird SBE 49 FastCAT, Pressure sensor - Valeport ultraP, USBL2 - Evologics S2CR 18/34, and GPS - Quectel l86 GNSS module.**
+- **Additional instruments used were Reson Seabat 7125, RDI ADCP, Seabird Fastcat SBE49 CTD, Wetlabs ECO FLNTU backscatter, Edgetech 2200M Sidescan sonar, and an Eh-sensor.**
+- **The mission had a duration of up to 9 hours and a total length of about 10 kilometers, depending on settings, payload, and environmental conditions like currents.**
+
+If more specific details about the exact duration of each component's use are needed, the document does not provide that information."
+ifm-geomar_rep39.pdf,What components/devices/sensors used in this mission and for how long?,"- **Mk II Camera: can be mounted on vehicles for photographic surveys.**
+- **INS - iXblue Phins Compact C3: provides position information with specific error ranges.**
+- **DVL - Teledyne RDI Explorer 600kHz: measures velocity relative to the sea floor and altitude.**
+- **CTD - Sea-Bird SBE 49 FastCAT: measures conductivity, temperature, pressure, and calculates sound velocity.**
+- **Pressure sensor - Valeport ultraP: measures pressure and converts it to water depth.**
+- **USBL2 - Evologics S2CR 18/34: combines underwater acoustics and positioning.**
+- **GPS - Quectel l86 GNSS module: determines absolute position at the surface.**
+- **Reson Seabat 7125**
+- **RDI ADCP**
+- **Wetlabs ECO FLNTU backscatter**
+- **Edgetech 2200M Sidescan sonar**
+- **Eh-sensor**
+
+The mission duration can be up to 9 hours and a total length of about 10 kilometers, depending on settings, payload, and environmental conditions."
+ifm_geomar_rep5.pdf,What components/devices/sensors used in this mission and for how long?,"- **AUV LUISE carried a nitrate sensor.**
+- **Standard sensors on AUVs ANTON and LUISE included:**
+  - **INS - iXblue Phins Compact C3**
+  - **DVL - Teledyne RDI Explorer 600kHz**
+  - **CTD - Sea-Bird SBE 49 FastCAT**
+  - **Pressure sensor - Valeport ultraP**
+  - **USBL2 - Evologics S2CR 18/34**
+  - **GPS - Quectel l86 GNSS module**
+- **Optional payload sensors used:**
+  - **Reson Seabat 7125**
+  - **RDI ADCP**
+  - **Wetlabs ECO FLNTU backscatter**
+  - **Edgetech 2200M Sidescan sonar**
+  - **Eh-sensor**
+- **Satellite lander deployment components:**
+  - **300 kHz ADCP (RDI -Teledyne Instruments)**
+  - **Storage CTD (SBE16plus V2) with Paroscientific digiquartz pressure sensor**
+  - **HARP hydrophone (Scripps Research Institute, La Jolla) with a data logger**
+
+- **Mission duration:**
+  - **AUV missions can last up to 9 hours.**
+  - **Satellite lander deployment at Sleipner lasted for 3 days.**"
+ifm-geomar_rep13.pdf,What components/devices/sensors used in this mission and for how long?,"- **mk II Camera: Used for photographic surveys.**
+- **High power LEDs: Connected to CoraMo for illumination.**
+- **DeltaT multibeam and magnetometer: Available payload options.**
+- **Nitrate sensor: Carried by AUV LUISE during this cruise.**
+- **INS - iXblue Phins Compact C3: Provides navigation and position information.**
+- **DVL - Teledyne RDI Explorer 600kHz: Measures velocity relative to the sea floor and altitude.**
+- **CTD - Sea-Bird SBE 49 FastCAT: Acquires conductivity, temperature, and pressure of the water.**
+- **Pressure sensor - Valeport ultraP: Measures pressure and converts it to water depth.**
+- **USBL2 - Evologics S2CR 18/34: Combines underwater acoustics and positioning.**
+- **GPS - Quectel l86 GNSS module: Determines vehicle’s absolute position at the surface.**
+- **Reson Seabat 7125, RDI ADCP, Seabird Fastcat SBE49 CTD, Wetlabs ECO FLNTU backscatter, Edgetech 2200M Sidescan sonar, Eh-sensor: Used during the test dive.**
+- **300 kHz ADCP (RDI -Teledyne Instruments), storage CTD (SBE16plus V2) with Paroscientific digiquartz pressure sensor, HARP hydrophone: Used in satellite lander deployments.**
+
+The mission duration for AUVs can be up to 9 hours and a total length of about 10 kilometers. The satellite lander deployment at Sleipner lasted for 3 days."
+ifm-geomar_rep43.pdf,What components/devices/sensors used in this mission and for how long?,"- **AUV LUISE carried a nitrate sensor.**
+- **Standard sensors on AUV ANTON and LUISE include: iXblue Phins Compact C3 INS, Teledyne RDI Explorer 600kHz DVL, Sea-Bird SBE 49 FastCAT CTD, Valeport ultraP pressure sensor, Evologics S2CR 18/34 USBL2, and Quectel l86 GNSS module GPS.**
+- **Additional instruments used: Reson Seabat 7125, RDI ADCP, Seabird Fastcat SBE49 CTD, Wetlabs ECO FLNTU backscatter, Edgetech 2200M Sidescan sonar, Eh-sensor.**
+- **Satellite lander equipped with a 300 kHz ADCP, SBE16plus V2 CTD with a Paroscientific digiquartz pressure sensor, HARP hydrophone with a data logger, and battery casing.**
+
+- **The satellite lander deployment at Sleipner lasted for 3 days.**
+- **Mission duration for AUV can be up to 9 hours.**"
+ifm-geomar_rep27.pdf,What components/devices/sensors used in this mission and for how long?,"Based on the provided context, the following components/devices/sensors were used:
+
+- **mk II Camera**: Mounted on vehicles for photographic surveys.
+- **INS - iXblue Phins Compact C3**: Processes sensor data and provides position information.
+- **DVL - Teledyne RDI Explorer 600kHz**: Measures velocity relative to the seafloor and altitude.
+- **CTD - Sea-Bird SBE 49 FastCAT**: Measures conductivity, temperature, and pressure to calculate sound velocity.
+- **Pressure sensor - Valeport ultraP**: Measures water depth.
+- **USBL2 - Evologics S2CR 18/34**: Combines underwater acoustics and positioning.
+- **GPS - Quectel l86 GNSS module**: Determines the vehicle’s absolute position at the surface.
+- **Reson Seabat 7125**: Used during a test dive.
+- **RDI ADCP**: Used during a test dive.
+- **Wetlabs ECO FLNTU**: Used during a test dive for backscatter measurements.
+- **Edgetech 2200M Sidescan sonar**: Used during a test dive.
+- **Eh-sensor**: Used during a test dive.
+- **Satellite lander**: Equipped with a 300kHz ADCP, SBE16plus V2 CTD, Paroscientific digiquartz pressure sensor, HARP hydrophone, data logger, and battery casing.
+
+The duration of the specific missions is not provided in the context, but the satellite lander had deployments, including a 3-day test deployment at Sleipner and a long-term deployment in the crater of the 22-4b well site until September 2011."
+ifm-geomar_rep49.pdf,What components/ devices/ sensors used in this mission?,"The components, devices, and sensors used in this mission include:
+
+- **Piezometer data loggers**
+- **NGI-supplied tiltmeter**
+- **SBE9 CTD instrument** (samples at 4 Hz, equipped with temperature, conductivity, and pressure sensors, with additions for oxygen and light transmission)
+- **24-carosel rosette system** with 12 Niskin bottles
+- **CO2 and methane sensors** (Contros HydroC sensors)
+- **SEABIRD data monitor**
+- **SIMRAD acoustic system**
+- **EK60 sonar system**"
+ifm-geomar_rep28.pdf,What components/ devices/ sensors used in this mission?,"**Components/Devices/Sensors Used:**
+- Piezometer data loggers
+- NGI-supplied tiltmeter in a bottle
+- SBE9 CTD system with default sensors (temperature, conductivity, pressure)
+- Oxygen sensor
+- Light transmission sensor
+- 24-carosel rosette system with 12 Niskin bottles
+- Contros HydroC CO2 and methane sensors
+- EK60 sonar system
+- Motion sensor
+- GPS (DataVis-system)
+- Multi-beam system (50 kHz, Hydrostar 3.4 software)
+- Sound velocity profile equipment (CTD)
+- Mbsystem software package (MBedit, MBgrid)
+- Fledermaus software for 3D visualization"
+ifm-geomar_rep33.pdf,What components/ devices/ sensors used in this mission?,"* CTD Probe
+* GPS
+* Inertial Navigation System (INS)
+* Doppler Velocity Log (DVL)
+* SBE9 (oceanographic data acquisition)
+* Niskin bottles (24-carosel rosette system)
+* Contros HydroC sensors (CO2 and methane sensors)
+* ADCP
+* NGI-supplied tiltmeter
+* Manipulator of the ROV"
+ifm-geomar_rep42.pdf,What components/ devices/ sensors used in this mission?,"* GPS
+* Inertial Navigation System (INS)
+* Doppler Velocity Log (DVL)
+* CTD Probe
+* SBE9 (oceanographic data acquisition)
+* Methane sensor (Contros HydroC sensors)
+* CO2 sensor (Contros HydroC sensors)
+* Data loggers
+* NGI-supplied tiltmeter
+* 24-carosel rosette system with 12 Niskin bottles"
+ifm-geomar_rep9.pdf,What components/ devices/ sensors used in this mission?,"The components, devices, and sensors used in the mission include:
+
+- **5 cameras (Kongsberg)**
+  - Forward-looking black-and-white camera
+  - Forward-looking color camera
+  - Forward-looking color still camera
+  - Rear-looking black-and-white camera
+  - TMS-mounted black-and-white camera
+- **Lights**
+- **Alti-, depth-, pan- and tilt-meter**
+- **Compass**
+- **Forward-looking “Super Seeking Sonar System” (325 or 675 kHz)**
+- **5-function manipulator arm**
+- **Sample tray for retrieved samples or additional instrumentation**
+- **IXSEA GAPS system for meter-scale positioning and navigation**
+- **2 transponders (ROV-mounted and TMS-mounted)**
+- **Piezometer data loggers**
+- **NGI-supplied tiltmeter in a bottle**
+- **GPS**
+- **Inertial Navigation System (INS)**
+- **Doppler Velocity Log (DVL)**
+- **CTD Probe for temperature and salinity data**"
+ifm-geomar_rep38.pdf,What components/ devices/ sensors used in this mission?,"The mission used the following components, devices, and sensors:
+- GPS (Global Positioning System)
+- Inertial Navigation System (INS)
+- Doppler Velocity Log (DVL)
+- CTD Probe
+- ADCP (Acoustic Doppler Current Profiler)
+- NGI-supplied tiltmeter
+- Piezometer data loggers"
+ifm-geomar_rep23.pdf,What components/ devices/ sensors used in this mission?,"*Doppler Velocity Log (DVL)*  
+*Inertial Navigation System (INS)*  
+*GPS*  
+*CTD Probe*  
+*NGI-supplied tiltmeter*  
+*Piezometer data loggers*"
+ifm-geomar_rep26.pdf,What components/ devices/ sensors used in this mission?,"**GPS**  
+**Inertial Navigation System (INS)**  
+**Doppler Velocity Log (DVL)**  
+**CTD Probe**  
+**Piezometer data loggers**  
+**Tiltmeter**  
+**ADCP (Acoustic Doppler Current Profiler)**"
+ifm-geomar_rep19.pdf,What components/ devices/ sensors used in this mission?,"*Inertial Navigation System (INS)*
+*GPS*
+*Doppler Velocity Log (DVL)*
+*CTD Probe*
+*Microstructure sensor*
+*ADCP (Acoustic Doppler Current Profiler)*
+*Piezometer data loggers*
+*NGI-supplied tiltmeter*"
+ifm-geomar_rep48.pdf,What components/ devices/ sensors used in this mission?,"The components, devices, and sensors used in this mission include:
+
+- Autonomous Underwater Vehicle (AUV)
+- Inertial Navigation System (INS)
+- Doppler Velocity Log (DVL)
+- GPS
+- Acoustic Doppler Current Profiler (ADCP)
+- NGI-supplied tiltmeter in a bottle
+- Piezometer data loggers
+- Microstructure sensor
+- Real-time display of bridge navigation data
+- CTD Probe"
+ifm-geomar_rep12.pdf,What components/ devices/ sensors used in this mission?,"*NGI-supplied tiltmeter*
+*ADCP (Acoustic Doppler Current Profiler)*
+*Piezometer data loggers*
+*GPS (Global Positioning System)*
+*Inertial Navigation System (INS)*
+*Doppler Velocity Log (DVL)*
+*CTD Probe (Conductivity, Temperature, and Depth Probe)*"
+ifm-geomar_rep17.pdf,What components/ devices/ sensors used in this mission?,"**Hydrophone (E-2PD or HTI-01-PCA)**
+
+**Recording devices (MBS, MES, MLS, or MTS)**
+
+**Piezometer data loggers**
+
+**NGI-supplied tiltmeter**
+
+**Acoustic release transponder**
+
+**Radio beacon**
+
+**Flashlight**
+
+**Flag**
+
+**Swimming line**
+
+"
+geomar_rep_ns_58_2021 tjm 2.pdf,What components/ devices/ sensors used in this mission?,"* E-2PD hydrophone from OAS Inc.
+* HTI-01-PCA hydrophone from HIGH TECH
+* MBS, MES, MLS, or MTS recorder from SEND GmbH
+* NGI-supplied tiltmeter
+* Piezometer data loggers
+* Acoustic release transponder
+* Radio beacon
+* Flashlight
+* Flag
+* Swimming line for retrieval"
+ifm-geomar_rep14.pdf,What components/ devices/ sensors used in this mission?,"*ADCP*
+*NGI-supplied tiltmeter*
+*Piezometer data loggers*
+*E-2PD hydrophone*
+*HTI-01-PCA hydrophone*
+*MBS, MES, MLS, or MTS recorders*"
+ifm-geomar_rep22.pdf,What components/ devices/ sensors used in this mission?,"**ROV Cameras**
+**Lights**
+**Alti-meter**
+**Depth-meter**
+**Pan-meter**
+**Tilt-meter**
+**Compass**
+**Super Seeking Sonar System**
+**Manipulator arm**
+**IXSEA GAPS system**
+**Transponders (IXSEA)**
+**Laser video measurement system**
+**CTD**
+**Tool sled**
+**Hydraulically driven trays**
+**Sample basket**
+**NGI-supplied tiltmeter**
+**Piezometer data loggers**"
+ifm-geomar_rep34.pdf,What components/ devices/ sensors used in this mission?,"* **5 cameras (Kongsberg)**
+* **Lights**
+* **Forward-looking black-and-white camera**
+* **Forward-looking color camera**
+* **Forward-looking color still camera**
+* **Rear-looking black-and-white camera**
+* **TMS-mounted black-and-white camera**
+* **Altimeter**
+* **Depth meter**
+* **Pan and tilt meter**
+* **Compass**
+* **Forward-looking Super Seeking Sonar System (325 or 675 kHz)**
+* **5-function manipulator arm**
+* **Sample tray**
+* **Ship-mounted IXSEA GAPS system**
+* **2 transponders (ROV-mounted and TMS-mounted)**
+* **Laser video measurement system**
+* **CTD**
+* **Tool sled with 2 hydraulically driven trays**
+* **Sample basket**
+* **NGI-supplied tiltmeter**
+* **Piezometer data loggers**"
+ifm-geomar_rep29.pdf,What components/ devices/ sensors used in this mission?,"**Cameras (forward-looking black-and-white, forward-looking color, forward-looking color still, rear-looking black-and-white, TMS-mounted black-and-white)**
+
+**Lights**
+
+**Alti-meter**
+
+**Depth-meter**
+
+**Pan-meter**
+
+**Tilt-meter**
+
+**Compass**
+
+**Forward-looking “Super Seeking Sonar System” (325 or 675 kHz)**
+
+**5-function manipulator arm**
+
+**Sample tray**
+
+**Ship-mounted IXSEA GAPS system**
+
+**ROV-mounted and TMS-mounted transponders (IXSEA)**
+
+**NGI-supplied tiltmeter**
+
+**Laser video measurement system**
+
+**CTD (Conductivity, Temperature, Depth)**
+
+**Tool sled with hydraulically driven trays**
+
+**Sample basket**
+
+**Piezometer data loggers**"
+ifm-geomar_rep40.pdf,What components/ devices/ sensors used in this mission?,"**Cameras, lights, altimeter, depth meter, pan meter, tilt meter, compass, Super Seeking Sonar System, manipulator arm, sample tray, IXSEA GAPS system, transponders, data loggers, tiltmeter, laser video measurement system, CTD, tool sled, sample basket.**"
+ifm-geomar_rep1.pdf,What components/ devices/ sensors used in this mission?,"Based on the given context, the following components/devices/sensors were used in the mission:\n\n- **Gravity sensor with a spring-mass assembly:** It includes a control electronics unit and a power supply with a sealed buffered battery unit capable of maintaining the internal temperature stabilization for 24 hours in case of a main power loss. \n\n- **Magnetometer:** It was towed 300 meters aft of the vessel during survey operations and operated at varying depths depending on the speed of the vessel. \n\n- **Navigation system:** GPS was used for precise position information. \n\n- **Simrad EM 120 swathmapping bathymetry system** \n\n- **Parasound system**\n\n- **CTD data collection system**\n\n- **Seismic instrumentation**\n\n- **Gravimeter**\n\nThe context does not specify the exact duration each component/device/sensor was used for, only that the gravity sensor can maintain temperature stabilization for 24 hours in case of a power loss. Therefore, I don't know the specific duration each was used for the mission.
+"

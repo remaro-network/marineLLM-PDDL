@@ -1,0 +1,312 @@
+filename,question,result
+noaa_10541_DS1.pdf,What components/devices/sensors used in this mission and for how long?,- **AUV forward-looking sonar technology**
+noaa_46163_DS1.pdf,What components/devices/sensors used in this mission and for how long?,- **Pressure and temperature sensors**
+noaa_9722_DS1.pdf,What components/devices/sensors used in this mission and for how long?,- **Temperature and depth sensors**
+noaa_20036_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **Depth sensor, temperature sensor, Doppler Velocity Log, 3-axis orientation sensor, pressure sensor, GPS receiver, Basler digital color camera, strobe system**"
+noaa_33880_DS1.pdf,What components/devices/sensors used in this mission and for how long?,- **Pressure and temperature sensors**
+noaa_50339_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **Depth sensor**  
+- **Temperature sensor**  
+- **Doppler Velocity Log (DVL) for dead reckoning**  
+- **3-axis orientation sensor for heading control**  
+- **Pressure sensor for depth measurement**  
+- **GPS receiver in a 6,000m rated housing for surface position verification**  
+- **Basler 1.3 megapixel digital color camera**  
+- **200-joule strobe system**  
+
+The duration of use for these components/devices/sensors is not specified."
+noaa_41602_DS1.pdf,What components/devices/sensors used in this mission and for how long?,- **Depth sensor**
+noaa_27817_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magneteometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+
+**Duration not specified**"
+noaa_50752_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**
+- **Edgetech 120kHz/410kHz Sidescan sonar**
+- **Reson 7125 Multibeam Sonar**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**
+- **Seapoint optical backscatter sensor (OBS)**
+- **Anderaa optode model 4330**
+- **300kHz RDI Doppler Velocity Log (DVL)**
+- **Digital Still Camera**
+- **Blue View P900-90 Forward Looking Sonar**
+- **IXEA PHINS**
+- **Reson Sound Velocity Probe**
+- **Dual Cs Magnetometer**
+- **NOAA PMEL ORP Sensor**
+- **SBE27 Ph Sensor** 
+
+**The duration of use is not specified.**"
+noaa_61923_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**
+- **Edgetech 120kHz/410kHz Sidescan sonar**
+- **Reson 7125 Multibeam Sonar**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**
+- **Seapoint optical backscatter sensor (OBS)**
+- **Anderaa optode model 4330**
+- **300kHz RDI Doppler Velocity Log (DVL)**
+- **Digital Still Camera**
+- **Blue View P900-90 Forward Looking Sonar**
+- **IXEA PHINS**
+- **Reson Sound Velocity Probe**
+- **Dual Cs Magneteometer**
+- **NOAA PMEL ORP Sensor**
+- **SBE27 Ph Sensor**"
+noaa_17271_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers**  
+- **Edgetech 120kHz/410kHz Sidescan Sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint Optical Backscatter Sensor (OBS)**  
+- **Anderaa Optode Model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 pH Sensor**  
+
+*No specific duration for usage is provided.*"
+noaa_21362_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **Various sensors including magnetometers, sonar systems, CTD, optical sensors, and cameras were used. The duration is not specified.**"
+noaa_29522_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+
+**No duration information provided**"
+noaa_29521_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **Multiple sensors including magnetometers, sonar systems, CTD, optode, DVL, and a digital camera were used.**"
+noaa_37528_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magneteometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+- **Duration not specified**"
+noaa_56115_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+- **Duration info not provided**"
+noaa_10620_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+
+*The duration of use is not specified.*"
+noaa_12051_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan Sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint Optical Backscatter Sensor (OBS)**  
+- **Anderaa Optode Model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 pH Sensor**  
+- **Duration not specified**"
+noaa_50160_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+- **Duration not specified**"
+noaa_10612_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (duration not specified)**
+- **Edgetech 120kHz/410kHz Sidescan sonar (duration not specified)**
+- **Reson 7125 Multibeam Sonar (duration not specified)**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD) (duration not specified)**
+- **Seapoint optical backscatter sensor (OBS) (duration not specified)**
+- **Anderaa optode model 4330 (duration not specified)**
+- **300kHz RDI Doppler Velocity Log (DVL) (duration not specified)**
+- **Digital Still Camera (duration not specified)**
+- **Blue View P900-90 Forward Looking Sonar (duration not specified)**
+- **IXEA PHINS (duration not specified)**
+- **Reson Sound Velocity Probe (duration not specified)**
+- **Dual Cs Magneteometer (duration not specified)**
+- **NOAA PMEL ORP Sensor (duration not specified)**
+- **SBE27 Ph Sensor (duration not specified)**"
+noaa_64474_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**
+- **Edgetech 120kHz/410kHz Sidescan sonar**
+- **Reson 7125 Multibeam Sonar**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**
+- **Seapoint optical backscatter sensor (OBS)**
+- **Anderaa optode model 4330**
+- **300kHz RDI Doppler Velocity Log (DVL)**
+- **Digital Still Camera**
+- **Blue View P900-90 Forward Looking Sonar**
+- **IXEA PHINS**
+- **Reson Sound Velocity Probe**
+- **Dual Cs Magnetometer**
+- **NOAA PMEL ORP Sensor**
+- **SBE27 Ph Sensor** 
+
+The duration of usage is not specified."
+noaa_14853_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magneteometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+- **Duration not specified**"
+website.txt,What components/devices/sensors used in this mission and for how long?,
+noaa_32908_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**
+- **Edgetech 120kHz/410kHz Sidescan sonar**
+- **Reson 7125 Multibeam Sonar**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**
+- **Seapoint optical backscatter sensor (OBS)**
+- **Anderaa optode model 4330**
+- **300kHz RDI Doppler Velocity Log (DVL)**
+- **Digital Still Camera**
+- **Blue View P900-90 Forward Looking Sonar**
+- **IXEA PHINS**
+- **Reson Sound Velocity Probe**
+- **Dual Cs Magneteometer**
+- **NOAA PMEL ORP Sensor**
+- **SBE27 Ph Sensor** 
+- **Duration not specified**"
+noaa_9691_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **List of sensors used in the mission: APS 1540 Magnetometers (3), Edgetech 120kHz/410kHz Sidescan sonar, Reson 7125 Multibeam Sonar, Seabird SBE49 CTD, Seapoint OBS, Anderaa optode model 4330, 300kHz RDI DVL, Digital Still Camera, Blue View P900-90 Forward Looking Sonar, IXEA PHINS, Reson Sound Velocity Probe, Dual Cs Magnetometer, NOAA PMEL ORP Sensor, SBE27 Ph Sensor.**  
+- **Duration is not specified.**"
+noaa_30911_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **Various sensors including magnetometers, sonar, CTD, optical backscatter sensor, optode, DVL, camera, PHINS, sound velocity probe, magnetometer, ORP sensor, and pH sensor. Duration is not specified.**"
+noaa_28170_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magnetometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+
+The duration of use is not specified."
+noaa_27816_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**  
+- **Edgetech 120kHz/410kHz Sidescan sonar**  
+- **Reson 7125 Multibeam Sonar**  
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**  
+- **Seapoint optical backscatter sensor (OBS)**  
+- **Anderaa optode model 4330**  
+- **300kHz RDI Doppler Velocity Log (DVL)**  
+- **Digital Still Camera**  
+- **Blue View P900-90 Forward Looking Sonar**  
+- **IXEA PHINS**  
+- **Reson Sound Velocity Probe**  
+- **Dual Cs Magneteometer**  
+- **NOAA PMEL ORP Sensor**  
+- **SBE27 Ph Sensor**  
+
+The duration of use is not specified."
+noaa_30954_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**
+- **Edgetech 120kHz/410kHz Sidescan sonar**
+- **Reson 7125 Multibeam Sonar**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**
+- **Seapoint optical backscatter sensor (OBS)**
+- **Anderaa optode model 4330**
+- **300kHz RDI Doppler Velocity Log (DVL)**
+- **Digital Still Camera**
+- **Blue View P900-90 Forward Looking Sonar**
+- **IXEA PHINS**
+- **Reson Sound Velocity Probe**
+- **Dual Cs Magneteometer**
+- **NOAA PMEL ORP Sensor**
+- **SBE27 Ph Sensor**"
+noaa_9420_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3)**
+- **Edgetech 120kHz/410kHz Sidescan sonar**
+- **Reson 7125 Multibeam Sonar**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD)**
+- **Seapoint optical backscatter sensor (OBS)**
+- **Anderaa optode model 4330**
+- **300kHz RDI Doppler Velocity Log (DVL)**
+- **Digital Still Camera**
+- **Blue View P900-90 Forward Looking Sonar**
+- **IXEA PHINS**
+- **Reson Sound Velocity Probe**
+- **Dual Cs Magnetometer**
+- **NOAA PMEL ORP Sensor**
+- **SBE27 Ph Sensor**
+- **Duration not specified**"
+noaa_21363_DS1.pdf,What components/devices/sensors used in this mission and for how long?,"- **APS 1540 Magnetometers (3): Duration not specified**
+- **Edgetech 120kHz/410kHz Sidescan sonar: Duration not specified**
+- **Reson 7125 Multibeam Sonar: Duration not specified**
+- **Seabird SBE49 Conductivity-Temperature-Depth (CTD): Duration not specified**
+- **Seapoint optical backscatter sensor (OBS): Duration not specified**
+- **Anderaa optode model 4330: Duration not specified**
+- **300kHz RDI Doppler Velocity Log (DVL): Duration not specified**
+- **Digital Still Camera: Duration not specified**
+- **Blue View P900-90 Forward Looking Sonar: Duration not specified**
+- **IXEA PHINS: Duration not specified**
+- **Reson Sound Velocity Probe: Duration not specified**
+- **Dual Cs Magnetometer: Duration not specified**
+- **NOAA PMEL ORP Sensor: Duration not specified**
+- **SBE27 Ph Sensor: Duration not specified**"
