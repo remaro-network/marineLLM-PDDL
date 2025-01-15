@@ -1,56 +1,57 @@
 filename,question,result,feedback
-ifm-geomar_rep1.pdf,What is the temperature of water on the surface?,*I don't know.*,1.0
-awi_doi~10.48433_cr_msm94.pdf,What is the temperature of water on the surface?,*6 meters below the water surface*,1.0
-ifm-geomar_rep49.pdf,What is the temperature of water on the surface?,*I don't know.*,1.0
-ifm-geomar_rep28.pdf,What is the temperature of water on the surface?,*I don't know.*,1.0
-ifm-geomar_rep33.pdf,What is the temperature of water on the surface?,*I don't know.*,1.0
-ifm-geomar_rep42.pdf,What is the temperature of water on the surface?,*I don't know.*,1.0
-ifm-geomar_rep9.pdf,What is the temperature of water on the surface?,*The document does not specify the exact surface water temperature.*,1.0
-ifm-geomar_rep38.pdf,What is the temperature of water on the surface?,- **24⁰C**,1.0
-ifm-geomar_rep3.pdf,What is the temperature of water on the surface?,- **13.5°C**,1.0
-ifm-geomar_rep23.pdf,What is the temperature of water on the surface?,**13.5°C**,1.0
-ifm-geomar_rep26.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-ifm-geomar_rep19.pdf,What is the temperature of water on the surface?,- **The surface water temperature is roughly 24°C.**,1.0
-ifm-geomar_rep48.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep12.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep17.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-geomar_rep_ns_58_2021 tjm 2.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep14.pdf,What is the temperature of water on the surface?,- *The surface water temperature is roughly 24°C.*,1.0
-ifm-geomar_rep22.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep34.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep29.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep40.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep44.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep10.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-AL374 CR ifm-geomar_rep51-1.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep30.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep37.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep7.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep18.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-ifm-geomar_rep8.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-geomar_rep_ns_57_2021.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep31.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep32.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep21.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep35.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-geomar_rep_ns_42_2018.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep15.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-geomar_rep_ns_55_2020.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep16.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep41.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep11.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep36.pdf,What is the temperature of water on the surface?,- **Close to 24°C**,1.0
-ifm-geomar_rep47.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep24.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep20.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep46.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep6.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep45-red.pdf,What is the temperature of water on the surface?,*24°C*,1.0
-ifm-geomar_rep25.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1.0
-ifm-geomar_rep50-red.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep4.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep39.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm_geomar_rep5.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
-ifm-geomar_rep13.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep43.pdf,What is the temperature of water on the surface?,- **24°C**,1.0
-ifm-geomar_rep27.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1.0
+ifm-geomar_rep1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+awi_doi~10.48433_cr_msm94.pdf,What is the temperature of water on the surface?,*6 meters below the water surface*,1
+ifm-geomar_rep49.pdf,What is the temperature of water on the surface?,"**Based on the provided context, the text mentions that the observatory records bottom water temperature and pressure at the position of the observatory. However, it doesn't specifically mention the temperature of the water on the surface. Therefore, based on the information available, the exact temperature of the water on the surface is not explicitly provided.**",3
+ifm-geomar_rep28.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+ifm-geomar_rep33.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+ifm-geomar_rep42.pdf,What is the temperature of water on the surface?,"**Based on the provided context, the text mentions the temperature along the plate boundary reaching 100°C about 20 km landward of the trench and 150°C roughly 20 km further landward. However, the specific temperature of the water on the surface is not mentioned in the provided text.**",3
+ifm-geomar_rep9.pdf,What is the temperature of water on the surface?,*The document does not specify the exact surface water temperature.*,1
+ifm-geomar_rep38.pdf,What is the temperature of water on the surface?,- **24⁰C**,1
+ifm-geomar_rep3.pdf,What is the temperature of water on the surface?,- **13.5°C**,1
+ifm-geomar_rep23.pdf,What is the temperature of water on the surface?,**13.5°C**,1
+ifm-geomar_rep26.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+ifm-geomar_rep19.pdf,What is the temperature of water on the surface?,- **The surface water temperature is roughly 24°C.**,1
+ifm-geomar_rep48.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep12.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep17.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+geomar_rep_ns_58_2021 tjm 2.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep14.pdf,What is the temperature of water on the surface?,- *The surface water temperature is roughly 24°C.*,1
+ifm-geomar_rep22.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep34.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep29.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep40.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep44.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep10.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+AL374 CR ifm-geomar_rep51-1.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep30.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep37.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep7.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep18.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+ifm-geomar_rep8.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+geomar_rep_ns_57_2021.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep31.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep32.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep21.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep35.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+geomar_rep_ns_42_2018.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep15.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+geomar_rep_ns_55_2020.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep16.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep41.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep11.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep36.pdf,What is the temperature of water on the surface?,- **Close to 24°C**,1
+ifm-geomar_rep47.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep24.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep20.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep46.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep6.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep45-red.pdf,What is the temperature of water on the surface?,*24°C*,1
+ifm-geomar_rep25.pdf,What is the temperature of water on the surface?,- **Approximately 24°C**,1
+ifm-geomar_rep50-red.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep4.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep39.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm_geomar_rep5.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+ifm-geomar_rep13.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep43.pdf,What is the temperature of water on the surface?,- **24°C**,1
+ifm-geomar_rep27.pdf,What is the temperature of water on the surface?,- **Roughly 24°C**,1
+,,,68

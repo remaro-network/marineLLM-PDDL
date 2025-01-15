@@ -1,12 +1,42 @@
 filename,question,result,feedback
-noaa_10541_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
-noaa_46163_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
-noaa_9722_DS1.pdf,What is signal acoustic condition/ multibeam?,- *I don't know.*,0
-noaa_20036_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
-noaa_33880_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
-noaa_50339_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,1
+noaa_10541_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Conditions for Multibeam Sonars:** - Hydrosweep DS2 - Hydrosweep MD - Sea Beam 2000 - Sea Beam 2112 and 2136 - Sea Beam 2120 - Simrad EM12, EM121, EM950, and EM1000 - Simrad EM120, EM300, EM302, and EM3000 - Simrad Mesotech SM2000 - Hawaii MR-1 - ELAC Bottomchart and Bottomchart MkII - Reson Seabat (9001, 8081, 7125) - WHOI DSL AMS-120 - Furuno HS-1**",2
+noaa_46163_DS1.pdf,What is signal acoustic condition/ multibeam?,"****Signal Acoustic Condition/Multibeam:**
+
+    - Acoustic long baseline (LBL) design chosen for accuracy and reliability.
+    - Transducers and transponders used for measuring distance.
+    - LM1812 transceiver chip for transmission/detection circuit design.
+    - Low risk and proven circuit parameters for the LM1812 chip.
+    - Modular sensor units for flexibility and accurate measurements.
+    - Acoustic markers like transducers, transponders, beacons/pingers, hydrophones utilized.
+    - Different navigation system options considered, with acoustic system selected for cost-effectiveness and reliability.**",2
+noaa_9722_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Condition/Multibeam:** - Addition of an acoustic modem for communication with the vehicle while submerged - Ability to send high-level commands to change the vehicle's behavior - Supervisory control scenario for operator interactivity - Transmission of new set points for X/Y position, heading, depth, or altitude - Bandwidth requirements for commands are trivial due to the vehicle handling control loop - Useful for hovering vehicles like Odyssey IV - Potential for re-tasking the vehicle underwater - Transmission of entire missions to the vehicle via acoustic link - Implementation of strict acknowledgment and verification procedures - Equipped with a computer vision capable camera - Continuous lighting for visual servoing and navigation - Visual-based pipe following missions vertically and horizontally - Docking capabilities using visual feedback and high precision control - Interest in mosaic-based navigation for decreased navigational errors",2
+noaa_20036_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Conditions/Multibeam:**
+
+    - High backscatter signals and Eh anomalies detected from the AUTOSUB 6000m vehicle during the same cruise.
+    - Bright AUV-based sonar targets used to lead to interesting outcrops and discover patches of active fluid flow and associated fauna.
+    - Representative photos show small gastropods in hydrothermal fluid, concentrations of shrimp, and a single zoarcid fish on the southern side of the Von Damm central Spire.",2
+noaa_33880_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Condition for Multibeam:**
+
+    - Minimize turning all sonar sound sources on and off as a precautionary measure to avoid possible startling of animals.
+    - Use the multibeam mammal protection mode before turning other sonar systems back on.
+    - If the multibeam sonar is not in use, start other sonar systems at lower power settings and gradually adjust them over a 15-minute period.
+    - Postpone startup and operation of the USBL if certain marine animals are sighted within 1093 yards of the ship.",2
+noaa_50339_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Condition/Multibeam:**
+
+   - High-resolution multibeam echosounder surveys using the ship's EM2040 system
+   - Backscatter/reflectivity of sufficient quality to distinguish seabed types
+   - Define water column oceanographic properties and sound velocity through CTD profiles
+   - Conduct AUV surveys to collect high-resolution SAS bathymetry and reflectivity
+   - Water-column echosounder survey simultaneously with seafloor mapping to document relative abundance of pelagic and demersal organisms",1
 noaa_41602_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar**,1
-noaa_27817_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
+noaa_27817_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Condition/Multibeam:**
+
+   - The first multibeam block experienced a timed out error during the first line, requiring continual shifting of Sentry to align with the planned track.
+   - The remainder of the first multibeam block went without any issues, covering an 800m by 500m square area.
+   - The second multibeam block, a larger 2500m by 620m square block, went well without any issues.
+   - Both multibeam surveys collected water column data.
+   - A 750m by 405m photo survey followed the multibeam surveys, but issues with the camera and sonar status were encountered.
+   - The dive was ended due to oncoming weather.",2
 noaa_50752_DS1.pdf,What is signal acoustic condition/ multibeam?,**Multibeam sonar**,1
 noaa_61923_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar systems**,1
 noaa_17271_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar systems**,1
@@ -15,8 +45,35 @@ noaa_29522_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam s
 noaa_29521_DS1.pdf,What is signal acoustic condition/ multibeam?,- **I don't know.**,0
 noaa_37528_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar uses sound to map seafloor depth and reflectivity.**,1
 noaa_56115_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar systems use multiple beams to map the seafloor, providing data on depth and acoustic reflectivity.**",1
-noaa_10620_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
-noaa_12051_DS1.pdf,What is signal acoustic condition/ multibeam?,*I don't know.*,0
+noaa_10620_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal acoustic condition for multibeam sonars:**
+
+   - Sea Beam ""classic"" multibeam sonar
+   - Hydrosweep DS multibeam sonar
+   - Hydrosweep DS2 multibeam sonar
+   - Hydrosweep MD multibeam sonar
+   - Sea Beam 2000 multibeam sonar
+   - Sea Beam 2112 and 2136 multibeam sonars
+   - Sea Beam 2120 multibeam sonars
+   - Simrad EM12, EM121, EM950, and EM1000 multibeam sonars
+   - Simrad EM120, EM300, and EM3000 multibeam sonars
+   - Simrad EM122, EM302, EM710, and EM3002 multibeam sonars
+   - Simrad Mesotech SM2000 multibeam sonar
+   - Hawaii MR-1 shallow tow interferometric sonar
+   - ELAC Bottomchart and Bottomchart MkII shallow water multibeam sonars
+   - Reson Seabat multibeam sonars (e.g., 9001, 8081, 7125)
+   - WHOI DSL AMS-120 deep tow interferometric sonar
+   - Sea Scan sidescan sonar
+   - Furuno HS-1 multibeam sonar
+   - Edgetech sidescan and subbottom profiler sonars
+   - Imagenex DeltaT multibeam sonars
+   - Odom ES3 multibeam sonar",2
+noaa_12051_DS1.pdf,What is signal acoustic condition/ multibeam?,"**- R/V Kilo Moana is equipped with two Kongsberg multi-beam systems, the EM710 for shallower depths and the EM122 for deeper depths.
+
+- The systems operate at frequencies of 70-100 kilohertz (kHz) and 30 kHz, respectively.
+
+- The typical source levels (SL) of the EM710 and EM122 are 229 decibels (dB) re 1 microPascal (µP), respectively.
+
+- The systems use active sonar to map the depth and contours of the sea floor (bathymetry).**",2
 noaa_50160_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Echo sounder sonar technology**,1
 noaa_10612_DS1.pdf,What is signal acoustic condition/ multibeam?,*Multibeam sonar*,1
 noaa_64474_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar collects data on seafloor depth, acoustic reflectivity, and water column reflectivity.**",1
@@ -24,8 +81,16 @@ noaa_14853_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam s
 noaa_32908_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Seafloor bathymetry, backscatter, and water column characteristics**",1
 noaa_9691_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Seafloor bathymetry, backscatter, and water column reflectivity measurements**",1
 noaa_30911_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar collects seafloor bathymetry, backscatter, and water column data.**",1
-noaa_28170_DS1.pdf,What is signal acoustic condition/ multibeam?,**I don't know.**,0
+noaa_28170_DS1.pdf,What is signal acoustic condition/ multibeam?,"**The signal acoustic condition for multibeam sonar data collection is typically influenced by factors like water depth, seafloor composition, and the presence of any obstacles or features that can affect sound wave transmission and reception. In the provided context, it is mentioned that the ship used an EK60 single-beam sonar and a multibeam sonar (Kongsberg EM 302) for data collection.**",2
 noaa_27816_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Multibeam sonar system used for seafloor mapping and water column backscatter data collection.**,1
 noaa_30954_DS1.pdf,What is signal acoustic condition/ multibeam?,"- **Multibeam sonar is used to collect seafloor bathymetry, seafloor backscatter, and water column backscatter.**",1
 noaa_9420_DS1.pdf,What is signal acoustic condition/ multibeam?,- **Beam footprint and coverage**,1
-noaa_21363_DS1.pdf,What is signal acoustic condition/ multibeam?,*Unknown*,0
+noaa_21363_DS1.pdf,What is signal acoustic condition/ multibeam?,"**Signal Acoustic Condition/Multibeam:**
+
+    - The first multibeam block experienced a timed out error during the first line, requiring continual shifting of Sentry to align with the planned track.
+    - The remainder of the first multibeam block went without any issues, covering an 800m by 500m square area.
+    - The second multibeam block, a larger 2500m by 620m square block, went well without any issues.
+    - Both multibeam surveys collected water column data.
+    - A 750m by 405m photo survey followed the multibeam surveys, but issues with the camera and sonar status were encountered.
+    - The dive was ended due to oncoming weather.**",2
+,,,38

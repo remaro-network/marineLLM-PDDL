@@ -1,56 +1,56 @@
-filename,question,result
-ifm-geomar_rep1.pdf,What is the duration of the mission?,- **Less than three days**
-awi_doi~10.48433_cr_msm94.pdf,What is the duration of the mission?,- **Less than three days**
-ifm-geomar_rep49.pdf,What is the duration of the mission?,"- **The mission was conducted between June 17 and June 21, 2010.**"
-ifm-geomar_rep28.pdf,What is the duration of the mission?,"- **June 17 to June 21, 2010**"
-ifm-geomar_rep33.pdf,What is the duration of the mission?,"- **4 days, from June 17 to June 21**"
-ifm-geomar_rep42.pdf,What is the duration of the mission?,- **4 days**
-ifm-geomar_rep9.pdf,What is the duration of the mission?,"- **June 17 to June 21, 2010**"
-ifm-geomar_rep38.pdf,What is the duration of the mission?,- **Mission duration is 3 hours**
-ifm-geomar_rep3.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep23.pdf,What is the duration of the mission?,- **3 hours**
-ifm-geomar_rep26.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep19.pdf,What is the duration of the mission?,- **Mission duration is not specified in the provided context.**
-ifm-geomar_rep48.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep12.pdf,What is the duration of the mission?,- **Mission duration details are not provided**
-ifm-geomar_rep17.pdf,What is the duration of the mission?,- **44 days**
-geomar_rep_ns_58_2021 tjm 2.pdf,What is the duration of the mission?,- **Mission duration is not specified in the provided context.**
-ifm-geomar_rep14.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep22.pdf,What is the duration of the mission?,*I don't know.*
-ifm-geomar_rep34.pdf,What is the duration of the mission?,- **Unknown**
-ifm-geomar_rep29.pdf,What is the duration of the mission?,- **The mission lasted from January 11 to February 25.**
-ifm-geomar_rep40.pdf,What is the duration of the mission?,- **About 40 days**
-ifm-geomar_rep44.pdf,What is the duration of the mission?,- **A few hours bottom time**
-ifm-geomar_rep10.pdf,What is the duration of the mission?,- **The mission duration was approximately from January 11 to February 25.**
-AL374 CR ifm-geomar_rep51-1.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep30.pdf,What is the duration of the mission?,*3 hours bottom time*
-ifm-geomar_rep37.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep7.pdf,What is the duration of the mission?,*3 hours bottom time*
-ifm-geomar_rep18.pdf,What is the duration of the mission?,*Unknown*
-ifm-geomar_rep8.pdf,What is the duration of the mission?,- **3 hours**
-geomar_rep_ns_57_2021.pdf,What is the duration of the mission?,- **3 hours**
-ifm-geomar_rep31.pdf,What is the duration of the mission?,- **3 hours**
-ifm-geomar_rep32.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep21.pdf,What is the duration of the mission?,- **About 3 hours**
-ifm-geomar_rep35.pdf,What is the duration of the mission?,- **3 hours**
-geomar_rep_ns_42_2018.pdf,What is the duration of the mission?,- **3 hours**
-ifm-geomar_rep15.pdf,What is the duration of the mission?,- **3 hours bottom time**
-geomar_rep_ns_55_2020.pdf,What is the duration of the mission?,- **3 hours**
-ifm-geomar_rep16.pdf,What is the duration of the mission?,- **3 hours**
-ifm-geomar_rep41.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep11.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep36.pdf,What is the duration of the mission?,- **Limited to about 1000 km**
-ifm-geomar_rep47.pdf,What is the duration of the mission?,- **3 hours bottom time before abort**
-ifm-geomar_rep24.pdf,What is the duration of the mission?,"*Mission durations vary, examples include 3 hours and a few days.*"
-ifm-geomar_rep20.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep46.pdf,What is the duration of the mission?,*Unknown*
-ifm-geomar_rep6.pdf,What is the duration of the mission?,- **3 hours bottom time before abort**
-ifm-geomar_rep45-red.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep25.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep50-red.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep4.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep39.pdf,What is the duration of the mission?,- **The mission duration is unspecified in the provided context.**
-ifm_geomar_rep5.pdf,What is the duration of the mission?,- **Mission aborted after 3 hours bottom time due to rough sea**
-ifm-geomar_rep13.pdf,What is the duration of the mission?,- **3 hours bottom time**
-ifm-geomar_rep43.pdf,What is the duration of the mission?,*The mission duration varies; one mission lasted from January 11 to February 25.*
-ifm-geomar_rep27.pdf,What is the duration of the mission?,- **11 and ½ days**
+filename,question,result,feedback
+ifm-geomar_rep1.pdf,What is the duration of the mission?,- **Less than three days**,1
+awi_doi~10.48433_cr_msm94.pdf,What is the duration of the mission?,- **Less than three days**,1
+ifm-geomar_rep49.pdf,What is the duration of the mission?,"- **The mission was conducted between June 17 and June 21, 2010.**",1
+ifm-geomar_rep28.pdf,What is the duration of the mission?,"- **June 17 to June 21, 2010**",1
+ifm-geomar_rep33.pdf,What is the duration of the mission?,"- **4 days, from June 17 to June 21**",1
+ifm-geomar_rep42.pdf,What is the duration of the mission?,- **4 days**,1
+ifm-geomar_rep9.pdf,What is the duration of the mission?,"- **June 17 to June 21, 2010**",1
+ifm-geomar_rep38.pdf,What is the duration of the mission?,- **Mission duration is 3 hours**,1
+ifm-geomar_rep3.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep23.pdf,What is the duration of the mission?,- **3 hours**,1
+ifm-geomar_rep26.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep19.pdf,What is the duration of the mission?,- **Mission duration is not specified in the provided context.**,1
+ifm-geomar_rep48.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep12.pdf,What is the duration of the mission?,- **Mission duration details are not provided**,1
+ifm-geomar_rep17.pdf,What is the duration of the mission?,- **44 days**,1
+geomar_rep_ns_58_2021 tjm 2.pdf,What is the duration of the mission?,- **Mission duration is not specified in the provided context.**,1
+ifm-geomar_rep14.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep22.pdf,What is the duration of the mission?,*I don't know.*,1
+ifm-geomar_rep34.pdf,What is the duration of the mission?,- **Unknown**,1
+ifm-geomar_rep29.pdf,What is the duration of the mission?,- **The mission lasted from January 11 to February 25.**,1
+ifm-geomar_rep40.pdf,What is the duration of the mission?,- **About 40 days**,1
+ifm-geomar_rep44.pdf,What is the duration of the mission?,- **A few hours bottom time**,1
+ifm-geomar_rep10.pdf,What is the duration of the mission?,- **The mission duration was approximately from January 11 to February 25.**,1
+AL374 CR ifm-geomar_rep51-1.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep30.pdf,What is the duration of the mission?,*3 hours bottom time*,1
+ifm-geomar_rep37.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep7.pdf,What is the duration of the mission?,*3 hours bottom time*,1
+ifm-geomar_rep18.pdf,What is the duration of the mission?,"**February 8 to February 26, 2007, 18 days**",2
+ifm-geomar_rep8.pdf,What is the duration of the mission?,- **3 hours**,1
+geomar_rep_ns_57_2021.pdf,What is the duration of the mission?,- **3 hours**,1
+ifm-geomar_rep31.pdf,What is the duration of the mission?,- **3 hours**,1
+ifm-geomar_rep32.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep21.pdf,What is the duration of the mission?,- **About 3 hours**,1
+ifm-geomar_rep35.pdf,What is the duration of the mission?,- **3 hours**,1
+geomar_rep_ns_42_2018.pdf,What is the duration of the mission?,- **3 hours**,1
+ifm-geomar_rep15.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+geomar_rep_ns_55_2020.pdf,What is the duration of the mission?,- **3 hours**,1
+ifm-geomar_rep16.pdf,What is the duration of the mission?,- **3 hours**,1
+ifm-geomar_rep41.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep11.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep36.pdf,What is the duration of the mission?,- **Limited to about 1000 km**,1
+ifm-geomar_rep47.pdf,What is the duration of the mission?,- **3 hours bottom time before abort**,1
+ifm-geomar_rep24.pdf,What is the duration of the mission?,"*Mission durations vary, examples include 3 hours and a few days.*",1
+ifm-geomar_rep20.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep46.pdf,What is the duration of the mission?,"**from January 23, 2011, to March 2, 2011, approximately 39 days.**",2
+ifm-geomar_rep6.pdf,What is the duration of the mission?,- **3 hours bottom time before abort**,1
+ifm-geomar_rep45-red.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep25.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep50-red.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep4.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep39.pdf,What is the duration of the mission?,- **The mission duration is unspecified in the provided context.**,1
+ifm_geomar_rep5.pdf,What is the duration of the mission?,- **Mission aborted after 3 hours bottom time due to rough sea**,1
+ifm-geomar_rep13.pdf,What is the duration of the mission?,- **3 hours bottom time**,1
+ifm-geomar_rep43.pdf,What is the duration of the mission?,*The mission duration varies; one mission lasted from January 11 to February 25.*,1
+ifm-geomar_rep27.pdf,What is the duration of the mission?,- **11 and ½ days**,1

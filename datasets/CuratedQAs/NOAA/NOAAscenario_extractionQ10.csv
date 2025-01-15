@@ -14,23 +14,82 @@ noaa_50752_DS1.pdf,What is the visibility of the environment and how to measure 
 noaa_61923_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Measured by light transmission and optical backscatter sensors**,1
 noaa_17271_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission measurement**,1
 noaa_21362_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Light transmission**,1
-noaa_29522_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,0
-noaa_29521_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,0
+noaa_29522_DS1.pdf,What is the visibility of the environment and how to measure it?,"
+**The visibility of the environment can be measured using a variety of methods, including:
+
+    CTD Measurements: Conductivity, Temperature, and Depth (CTD) measurements can provide insights into the physical properties of the water column, which can indirectly indicate visibility.
+
+    Sun Photometer Measurements: Sun photometer measurements can also be used to assess aerosol properties in the atmosphere, which can affect visibility.
+
+    Acoustic Operations: Acoustic operations, such as multibeam sonar or sub-bottom profilers, can provide data on the underwater environment, which can impact visibility.
+
+    Expendable Bathythermograph (XBT) Systems: XBT systems can help in measuring temperature variations in the water column, which can influence visibility.
+
+In the context of the Okeanos Explorer research effort, measurements like CTD profiles, sun photometer measurements, and acoustic operations data can indirectly provide information about the visibility of the marine environment.**",2
+noaa_29521_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,4
 noaa_37528_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Visibility is often measured in terms of light transmission and turbidity.**
 - **It can be assessed using instruments like transmissometers and turbidity sensors.**",1
 noaa_56115_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Sun photometers can measure atmospheric aerosol properties.**,1
 noaa_10620_DS1.pdf,What is the visibility of the environment and how to measure it?,"- **Visibility refers to how far one can see in the environment.**
 - **It can be measured using instruments like sun photometers, which assess atmospheric properties such as aerosols.**",1
-noaa_12051_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know.**,0
+noaa_12051_DS1.pdf,What is the visibility of the environment and how to measure it?,"**Environmental Visibility:**
+
+    - Water Quality: 3-5
+    - Air Quality: 3-5
+    - Solid Waste: 3-5
+    - Marine Traffic: 3-5
+    - Hazardous and Regulated Materials: 3-5
+
+**Physical Conditions:**
+
+    - Solid Waste: 4-9
+    - Marine Traffic: 4-9
+    - Hazardous and Regulated Materials: 4-9
+
+**Environmental Consequences:**
+
+   - Overview: 4-1
+
+**Affected Environment:**
+
+    - Overview: 3-1
+    - Marine Biological Resources: 3-2
+    - The Northwestern Hawaiian Islands (NWHI): 3-2
+    - Banks and Seamounts: 3-3
+    - Coral Reefs: 3-3
+    - Bottomfish: 3-3
+    - Seabirds: 3-4
+
+",2
 noaa_50160_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Measured using sun photometers and aerosol monitoring**,1
-noaa_10612_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know**,0
-noaa_64474_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical detection techniques**,0
-noaa_14853_DS1.pdf,What is the visibility of the environment and how to measure it?,*I don't know.*,1
+noaa_10612_DS1.pdf,What is the visibility of the environment and how to measure it?,- **I don't know**,4
+noaa_64474_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical detection techniques**,1
+noaa_14853_DS1.pdf,What is the visibility of the environment and how to measure it?,"**Visibility of the Environment:**
+
+    - Visibility in the environment refers to the clarity or distance at which objects can be seen underwater. It is an important parameter for various activities like marine research, navigation, and underwater exploration.
+
+    - Visibility is typically measured using a Secchi disk, which is a circular disk with alternating white and black quadrants. The disk is lowered into the water until it is no longer visible, and the depth at which it disappears is recorded as a measure of visibility.
+
+    - Other methods for measuring visibility include using underwater cameras or sensors that detect light penetration in the water column.
+
+    - Data collected on mapping expeditions, such as those conducted by research vessels, may include information on water visibility as part of the environmental parameters recorded during the survey.**",2
 noaa_32908_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility of the environment can be measured using visual observation and optical detection techniques.**,1
 noaa_9691_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical detection and visual observation**,1
 noaa_30911_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility is not explicitly defined in the provided text**,1
 noaa_28170_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visibility is not explicitly defined or measured in the provided context.**,1
-noaa_27816_DS1.pdf,What is the visibility of the environment and how to measure it?,*I don't know.*,0
+noaa_27816_DS1.pdf,What is the visibility of the environment and how to measure it?,"**Visibility of the environment:**
+
+    - The visibility of the environment refers to how far an observer can see underwater. It is an important factor in underwater exploration and research.
+
+    - Visibility can be affected by various factors such as water clarity, presence of particles or sediment in the water, and ambient light conditions.
+
+    - To measure visibility underwater, scientists often use instruments such as Secchi disks, which are lowered into the water until they are no longer visible, with the depth recorded as a measure of visibility.
+
+    - Another method is to use a device called a transmissometer, which measures the attenuation of light through the water to determine visibility.
+
+    - Data regarding visibility measurements in underwater environments can be presented in reports or documents in PDF format for easy sharing and reference.
+",2
 noaa_30954_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Using visual observation and optical sensors.**,1
 noaa_9420_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Visual observation and optical detection methods**,1
 noaa_21363_DS1.pdf,What is the visibility of the environment and how to measure it?,- **Optical sensors and sun photometers**,1
+,,,40

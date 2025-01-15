@@ -1,31 +1,32 @@
 filename,question,result,feedback
-noaa_10541_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_46163_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_9722_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_20036_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_33880_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_50339_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_41602_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_27817_DS1.pdf,What is the temperature of water on the surface?,- **I don't know.**,0
-noaa_50752_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_61923_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_17271_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_21362_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_29522_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_29521_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_37528_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_56115_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_10620_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_12051_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_50160_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_10612_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_64474_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_14853_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_32908_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_9691_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_30911_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
-noaa_28170_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
+noaa_10541_DS1.pdf,What is the temperature of water on the surface?,"**Based on the provided context, the temperature of water on the surface is not explicitly mentioned. The data described includes measurements such as dissolved gases, pH, alkalinity, nutrients, dissolved organic and inorganic matter, trace metals, and marine pollutants. The temperature may also be measured, but it is not specifically highlighted in the information provided.**",3
+noaa_46163_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_9722_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_20036_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_33880_DS1.pdf,What is the temperature of water on the surface?,"**To provide the current temperature of water on the surface, you would need a thermosalinograph sensor, which is a type of sensor that measures both temperature and salinity of the water. These sensors are commonly used to collect data on seawater properties, including temperature.**",3
+noaa_50339_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_41602_DS1.pdf,What is the temperature of water on the surface?,**The temperature of surface seawater is measured by the SeaBird SBE-38 Surface seawater temperature probe.**,2
+noaa_27817_DS1.pdf,What is the temperature of water on the surface?,- **I don't know.**,4
+noaa_50752_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_61923_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_17271_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_21362_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_29522_DS1.pdf,What is the temperature of water on the surface?,**The temperature of the water on the surface was measured using flow-through thermosalinograph (TSG) data.**,2
+noaa_29521_DS1.pdf,What is the temperature of water on the surface?,"**In this context, there is specific data on the temperature of the water collected using Expendable Bathythermograph (XBT) Systems, where XBTs were collected every six hours or more frequently as oceanographic conditions dictated. Additionally, Conductivity, Temperature, and Depth (CTD) measurements were collected using an integrated ROV CTD system and a dedicated CTD lowered with a winch. The CTD measurements include temperature data.**",2
+noaa_37528_DS1.pdf,What is the temperature of water on the surface?,**approximately 24.3591 °C**,2
+noaa_56115_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_10620_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_12051_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_50160_DS1.pdf,What is the temperature of water on the surface?,"**Sea-Bird SBE 45 MicroTSG Thermosalinograph is used to measure the internal sea temperature and conductivity at the surface. Additionally, the Sea-Bird SBE 38 Temperature Probe is used to measure the external sea temperature.**",2
+noaa_10612_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_64474_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_14853_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_32908_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_9691_DS1.pdf,What is the temperature of water on the surface?,"**The specific information mentioned about the temperature of water on the surface is that it is one of the 10 water-quality measurements taken at all 47 locations in Boston Harbor, Massachusetts Bay, and Cape Cod Bay.**",3
+noaa_30911_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+noaa_28170_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
 noaa_27816_DS1.pdf,What is the temperature of water on the surface?,- **24.9792°C**,1
-noaa_30954_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
+noaa_30954_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
 noaa_9420_DS1.pdf,What is the temperature of water on the surface?,- **24.9872°C (from CTD001 B03 S01)**,1
-noaa_21363_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,0
+noaa_21363_DS1.pdf,What is the temperature of water on the surface?,*I don't know.*,4
+,,,101

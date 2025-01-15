@@ -1,6 +1,16 @@
 filename,question,result,feedback
-noaa_10541_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_46163_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
+noaa_10541_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,4
+noaa_46163_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**Based on the provided information, the existing tasks in this mission include:
+
+    - Power Generation and Distribution
+    - Command, Control, Communications
+    - Propulsion Systems
+    - Maneuvering Systems
+    - Hull and Fairing Structures
+    - Navigation
+    - Computer Processing
+
+The information provided does not explicitly mention the duration of each task or whether each task was successful or a failure.**",2
 noaa_9722_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","- **Tasks existed related to vehicle sub-systems.**  
 - **Duration and specific success/failure not detailed.**",1
 noaa_20036_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","** Dive at launch point (10:30 - 12:30) - Successful**
@@ -9,28 +19,281 @@ noaa_20036_DS1.pdf,"What are the existing tasks in this mission, the duration of
 noaa_33880_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","- **At Sea Deliverables (daily plans, SITREPs, data files): Duration not specified, success not mentioned**
 - **Post Expedition Deliverables (refined SOPs, assessments): Duration not specified, success not mentioned**
 - **Science Deliverables (multibeam, XBT, CTD, ROV data): Duration not specified, success not mentioned**",1
-noaa_50339_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_41602_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_27817_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_50752_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_61923_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_17271_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_21362_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_29522_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_29521_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_37528_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_56115_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_10620_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_12051_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_50160_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",- **I don't know.**,1
-noaa_10612_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_64474_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_14853_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_32908_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_9691_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_30911_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_28170_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_27816_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_30954_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_9420_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
-noaa_21363_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,1
+noaa_50339_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**Based on the provided information, the existing tasks in the mission included:
+
+   - ROV dives: 33 dives were conducted on leg 1.
+   - Biological sample collection with the ROV: 454 samples were collected.
+   - CTD casts: 79 casts were made, with various purposes detailed (sound velocity, total water column oceanography, eDNA, nutrients, and POM).
+   - Mapping with EM2040: 12 km^2 were mapped.
+   - Mapping with AUV SAS: 354 linear km were mapped.
+   - Survey with the EK80: 41 linear km were surveyed.
+   - Deployment of 2 short-term landers.
+
+The duration of each task is not explicitly mentioned in the provided context. As for the success or failure of each task, the information provided indicates that all primary mission objectives were accomplished. Therefore, it can be inferred that the tasks were successful.**",2
+noaa_41602_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,4
+noaa_27817_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?",*I don't know.*,4
+noaa_50752_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**Based on the provided context, the tasks in the mission involving 
+- **conducting gridded surveys of areas known to host underwater oil seeps using a REMUS 600 AUV with in situ sensing and Midwater Oil Sampler payloads**, **successful**, **duration: 0.5 and 3 hours**
+- **The REMUS 600 AUV executed 19 missions in five days, covering 126 km in total distance**
+",2
+noaa_61923_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks in Mission:** - Testing equipment - Developing Standard Operating Procedures (SOPs) - Training team members in field operations
+
+Duration of Each Task:
+
+    - June 20-21: MTU deploying the Outland 1000 (focus on spatial positioning and camera configurations)
+    - June 22: Evaluating the Blue Robotics ROV
+    - June 23: Deploying and training with the drop camera and Ponar dredge
+
+Success of Each Task:
+
+    - Testing equipment: Successful
+    - Developing SOPs: Not specified
+    - Training team members: Not specified
+    - MTU deploying the Outland 1000: Not specified
+    - Evaluating the Blue Robotics ROV: Not specified
+    - Deploying and training with drop camera and Ponar dredge: Not specified**",2
+noaa_17271_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**Tasks involved in this mission:**
+
+   - Identifying and exploring the diversity of benthic habitats in the region, including seeps, deep corals, canyons.
+   - Locating and characterizing underwater cultural heritage (UCH), including shipwrecks, to assess their eligibility for the National Register of Historic Places.
+   - Testing the EM 302 acoustic ability to detect gas seeps and measure flux to understand its ability to explore the water column.
+   - Collecting EM 302 bathymetric, seabed backscatter, and water column backscatter data for ROV dive planning.
+   - Providing EK 60 water column backscatter data for ROV dive planning.
+   - Collecting Knudsen sub-bottom data as necessary.
+   - Conducting expendable bathythermograph (XBT) casts every 2 to 4 hours or more often as necessary for mapping operations.
+
+Details on the duration and success/failure status of each task are not provided in the available context.**",2
+noaa_21362_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Existing Tasks in the Mission:** - Continue survey of MTMNM 4 - Continue survey of MTMNM 5 - Continue survey of MTMNM 6 - Continue survey of MTMNM 7 - Continue survey of MTMNM 8 - Continue survey of MTMNM 9 - Complete survey operations within MTMNM, commence exploration transit to Guam - Continue exploration transit to Guam - Mapping secured; Arrive Guam, U.S. Navy Base - In port, Guam - EX-16-05 Leg 2 mission personnel depart ship
+
+Duration of Each Task:
+
+    Varies, from continuing surveys to arriving in Guam
+    Specific durations are not provided in the context
+
+Success/Failure of Each Task:
+
+    Success or failure outcomes are not explicitly mentioned in the provided context**",3
+noaa_29522_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks for the mission:** - Conduct daytime ROV dives on exploration targets - Ongoing training of pilots - Maintain ongoing system familiarization and documentation - Train pilots to take high-quality images and navigate the new ROV - Apply, develop, and/or refine system checklists, standard operating procedures (SOPs), spares lists, etc. - Training in ROV launch and recovery operations - Train the bridge crew on ROV operations and use of the ship’s dynamic positioning (DP) system
+
+Duration:
+
+    - Cruise Dates: 4/10/2014 to 5/1/2014
+
+Success/Failure Status:
+
+    - The success or failure status of each specific task is not provided in the context provided.**",2
+noaa_29521_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Existing Tasks in the Mission:** - ROV Survey - Acoustic Operations
+
+Duration of Each Task:
+
+    - ROV Survey: Conducted from July 18 to August 1, 2019
+    - Acoustic Operations: Not specified in the provided context
+
+Success or Failure of Each Task:
+
+    - ROV Survey: No information provided on the success or failure
+    - Acoustic Operations: No information provided on the success or failure**",2
+noaa_37528_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks in the mission:** - Develop launch and recovery procedures for Orpheus class AUVs - Conduct Terrain-Relative Navigation (TRN) calibration - Deploy and test two Orpheus class AUVs - Test and validate the use of TRN software - Conduct CTD operations while the ship is on station with AUVs in the water - Trigger CTD Niskin bottles at different depths for eDNA sampling - Draft standard operating procedures for water sample collection and processing - Acquire data on deepwater habitats in the southeastern U.S. continental margin - Explore U.S. maritime heritage - Collect high-resolution bathymetry in areas with low-quality mapping data - Engage the scientific community and the public in exploration - Provide publicly accessible data and information products
+
+Duration of each task: The duration of each task is not explicitly mentioned in the provided context.
+
+Success/Failure of each task: The success or failure of each task is not explicitly mentioned in the provided context.**",2
+noaa_56115_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**Tasks in the mission:** - Develop launch and recovery procedures for Orpheus class AUVs - Conduct Terrain-Relative Navigation (TRN) calibration - Deploy and test two Orpheus class AUVs - Test and validate the use of TRN software - Conduct CTD operations while the ship is on station with AUVs in the water - Trigger CTD Niskin bottles at different depths for eDNA sampling - Draft standard operating procedures for water sample collection and processing - Acquire data on deepwater habitats in the southeastern U.S. continental margin - Explore U.S. maritime heritage - Collect high-resolution bathymetry in areas with low-quality mapping data - Engage the scientific community and the public in exploration - Provide publicly accessible data and information products
+
+Duration of each task: The duration of each task is not explicitly mentioned in the provided context.
+
+Success/Failure of each task: The success or failure of each task is not explicitly mentioned in the provided context.**",2
+noaa_10620_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks involved in the mission:** - Acquisition of data sets - Archiving data sets at appropriate NOAA data centers - Providing metadata for the data sets - Using CIMS tool for documenting data collection activities - Utilizing MERMAid tool for metadata creation and publishing - Using the Digital Atlas interactive GIS application - Generating daily Situation Reports through CIMS software system
+
+Duration of each task:
+
+    - Acquisition of data sets: Throughout the expedition
+    - Archiving data sets: Within two years following the completion of the expedition
+    - Providing metadata: Varies depending on the type of data
+    - Using CIMS tool: Daily for documenting data collection activities
+    - Utilizing MERMAid tool: During the data management process
+    - Using Digital Atlas: Throughout the expedition
+    - Generating daily Situation Reports: Usually daily during the expedition**",2
+noaa_12051_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Existing Tasks in the Mission:** - Marine Biological Resources assessment - Duration: Not specified - Success/Failure: Not specified
+
+    Cultural Resources assessment
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Physical Conditions evaluation
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Water Quality analysis
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Air Quality monitoring
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Solid Waste management
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Marine Traffic assessment
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Hazardous and Regulated Materials inspection
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Seabirds observation
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Marine Mammals monitoring
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Endangered Species tracking
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Native Hawaiian Significance evaluation
+        Duration: Not specified
+        Success/Failure: Not specified
+
+    Maritime Heritage Significance assessment
+        Duration: Not specified
+        Success/Failure: Not specified
+**",2
+noaa_50160_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","*** Sustain safe operations aboard the ship - Ongoing, Success * Develop and maintain small boat deployment proficiency for new and long-term ship personnel (weather permitting) - Ongoing, Success * Conduct conductivity, temperature, depth (CTD) operations as requested and at least once per expedition to maintain equipment in working order and ensure proficiency of ship personnel - Ongoing, Success * Conduct mariner overboard/ship handling training - Ongoing, Success * Conduct additional safety training, including standard drills (fire, medical emergency, abandon ship, spill response, etc.) - Ongoing, Success * Provide opportunities for incoming officers to observe and train during mapping and ROV expeditions - Ongoing, Success * Support training of ship personnel - Ongoing, Success * Maintain proficiency and training in ROV emergency procedures - Ongoing, Success**",2
+noaa_10612_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Existing Tasks in the Mission:** - Conduct a survey of a shipwreck off Kythnos - Transit to Piraeus - Demobilize - Pack WHOI equipment for shipping to USA
+
+Duration of Each Task:
+
+    Conduct survey of shipwreck off Kythnos: Evening of 07/01/2006
+    Transit to Piraeus: 07/04/2006
+    Demobilize: 07/04/2006
+    Pack WHOI equipment for shipping to USA: 07/05/2006
+
+Success/Failure of Tasks:
+
+    Conduct survey of shipwreck off Kythnos: Success
+    Transit to Piraeus: Success
+    Demobilize: Success
+    Pack WHOI equipment for shipping to USA: Success**",2
+noaa_64474_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Existing Tasks in the Mission:**
+
+    - Point and Gulp Behavior for oil location and concentration
+        Duration: Prior to the start of the mission
+        Result: Not specified in the provided context
+
+    - Testing of a small, light-weight tethered mini depth ROV
+        Duration: During Mission 3
+        Result: Anomalies located southwest of the Coal Point area were observed, but gulped samples were not collected at that location
+
+    - Oil detection in shallow waters using high FDOM and OBS
+        Duration: Not specified in the provided context
+        Result: Not specified in the provided context**",2
+noaa_14853_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks involved in this mission:**
+
+    Conducting operations 24 hours/day
+    Exploration within several marine protected areas
+    Utilizing ship's deep water mapping systems (Kongsberg EM302 multibeam sonar, EK60 split-beam fisheries sonars, Acoustic Doppler Current Profilers [ADCP], and Knudsen 3260 chirp sub-bottom profiler sonar)
+    Using NOAA's two-body 6000 m remotely operated vehicles (ROVs Deep)
+
+Unfortunately, the provided context does not specify the specific duration or success/failure details of each task.**",4
+noaa_32908_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks in the mission:** - Completing shelter in place period with negative COVID tests (May 3 - 11) - Moving aboard and mobilizing equipment (May 11) - Setting up mapping systems for the expedition (May 11) - Providing pass-down to Senior Survey Technician for mission operations (May 11) - Conducting mapping operations using hull mounted sonars whenever operationally possible - Completing new survey coverage of areas without quality data - AUV vehicle testing - CTD work - Exploration mapping work 24 hours per day when issues arose
+
+Duration of each task:
+
+    Shelter in place period: May 3 - 11
+    Moving aboard and mobilizing equipment: May 11
+    Setting up mapping systems: May 11
+    Providing pass-down: May 11
+    Mapping operations: Ongoing throughout the expedition
+    Completing new survey coverage: Ongoing throughout the expedition
+    AUV vehicle testing and CTD work: Ongoing throughout the expedition
+    Exploration mapping work: 24 hours per day when necessary
+
+Success or Failure:
+
+    Shelter in place period: Successful
+    Moving aboard and mobilizing equipment: Not specified
+    Setting up mapping systems: Successful
+    Providing pass-down: Not specified
+    Mapping operations: Ongoing, no mention of specific success/failure
+    Completing new survey coverage: Ongoing, no mention of specific success/failure
+    AUV vehicle testing and CTD work: Successful
+    Exploration mapping work: Ongoing, no mention of specific success/failure**",2
+noaa_9691_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Existing tasks in this mission:** - Conducting in-situ measurements of chemicals - Surveying marine activities in Massachusetts Bay - Monitoring environmental parameters in support of various activities
+
+Duration of each task: The report does not specify the exact duration of each task.
+
+Success or failure of each task: The report does not provide information on whether each task was successful or a failure.**",2
+noaa_30911_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**Existing Tasks in the Mission:
+
+    - Short transit east of Cape Canaveral
+    - Focused overnight ocean mapping operations
+    - Deploying small boats and AUVs for acoustic calibration in shallow water
+    - Transit to the central Blake Plateau for USBL calibration
+    - Daytime AUV deployments and CTD casts
+    - Overnight operations focusing on mapping priority areas
+
+Duration of Each Task:
+
+    - Short transit east of Cape Canaveral: Not specified
+    - Focused overnight ocean mapping operations: Not specified
+    - Deploying small boats and AUVs for acoustic calibration in shallow water: First 2-3 days
+    - Transit to the central Blake Plateau for USBL calibration: Not specified
+    - Daytime AUV deployments and CTD casts: Remaining days at sea
+    - Overnight operations focusing on mapping priority areas: Remaining days at sea**",2
+noaa_28170_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","** *Developing dive plan for the coming night's dive - Duration: Varies - Success/Failure: Not specified
+
+*Refining or reviewing the dive plan for the night's dive
+
+    Duration: Varies
+    Success/Failure: Not specified
+
+*Developing the concept for the following day's operations and dive
+
+    Duration: Varies
+    Success/Failure: Not specified
+
+*Jointly developing AUV dive missions by AUV team members
+
+    Duration: Varies
+    Success/Failure: Not specified
+
+*Defining mission blocks by the Senior AUV Engineer
+
+    Duration: Varies
+    Success/Failure: Not specified
+
+*Developing detailed mission plans by the onboard AUV Team Lead
+
+    Duration: Varies
+    Success/Failure: Not specified
+
+*Conducting daily science planning meetings via teleconference
+
+    Duration: Varies
+    Success/Failure: Not specified**",2
+noaa_27816_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Mission: PC1705 2017-demopoulos Cruise** - **Tasks:** - Conducting dives with the Sentry AUV - Delivering raw and processed data to Amanda Demopoulos of NOAA - **Durations:** - The mission took place on September 22, 2017 - **Outcomes:** - Approximately 5TB of raw and processed data collected - Data organized into directories for easy access and research - Provided at-sea processed data products for client use**",4
+noaa_30954_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","****Tasks in the mission:** - Underwater visual surveys of corals, sponges, and seafloor substratum types - AUV surveys conducted 3 m above the seafloor - ROV surveys conducted an average height of 2 m above the seafloor
+
+Duration of each task:
+
+    AUV surveys: 4-6 hours per dive
+    ROV surveys: 5.8 to 12.5 hours per dive
+
+Success of tasks:
+
+    Success or failure of the tasks is not explicitly mentioned in the provided context.**",2
+noaa_9420_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","**In the mission, three types of vehicles were used: AUV (Autonomous Underwater Vehicle), ROV (Remotely Operated Vehicle), and TCS (Towed Camera System).
+
+    AUV: Programmed to follow a specified path, conducted surveys 3m above the seafloor at a speed of 0.25 m/s for 4-6 hours, collected still images, and had cameras directed downward and perpendicular to the seafloor.
+    ROV: Conducted surveys 2m above the seafloor at a speed of 0.2 m/s, equipped with a high-definition color video camera, and used paired scaling lasers to capture images.
+    TCS: Towed 0.5m above the seafloor at 0.25 m/s for 1 hour, equipped with two standard definition stereo cameras directed forward, and collected four still images per second for a continuous view of the seafloor.
+
+These vehicles were used for different tasks such as conducting surveys, collecting images, and providing real-time views of the seafloor.**",2
+noaa_21363_DS1.pdf,"What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?","** The specific information provided mainly focuses on the systematic exploration of the planet's largely unknown ocean through collaboration with the science community, utilizing advanced technology such as high-resolution multibeam sonar, remotely operated vehicles, and telepresence technology. The focus is on providing baseline data and information to support science and management needs, enabling real-time collaboration with scientists, and disseminating information-rich products to the scientific community for further research and analysis. The information also highlights the mission capabilities of NOAA's Office of Ocean Exploration and Research (OER) in discovering and investigating new oceanic regions and phenomena, conducting basic research, and developing technological solutions for undersea exploration.**",4
+,,,70
