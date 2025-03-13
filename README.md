@@ -4,7 +4,7 @@ Generation of Planning Domains for Marine Vessels Using Past Incident Response P
 
 - Generic Scenario (75% :construction:)
 - Specific Scenario (30% :construction:)
-- Experimental results(#results)
+- Experimental results
 - [Acknowledgements](#acknowledgements)
 
 # Acknowledgements
