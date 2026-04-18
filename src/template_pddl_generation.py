@@ -75,6 +75,192 @@ def parse_q5_result(unified_text):
     return actions
 
 ###############################################################################
+# 3b) PARSE NOAA MULTI-SECTION FORMAT
+###############################################################################
+_NOAA_META_PREFIXES = (
+    'duration', 'success', 'result', 'outcome', 'status', 'failure', 'time',
+)
+
+def _noaa_looks_like_metadata(s):
+    s = s.lower().strip().lstrip('*').strip()
+    return s.startswith(_NOAA_META_PREFIXES)
+
+def _noaa_normalize_task_key(s):
+    s = s.lower().strip()
+    s = re.sub(r'[^\w\s]', ' ', s)
+    s = re.sub(r'\s+', ' ', s).strip()
+    s = re.sub(
+        r'^(a|an|the|conduct|conducting|perform|performing|complete|completing|'
+        r'continue|continuing|testing|test|deploy|deploying|develop|developing)\s+',
+        '', s,
+    )
+    return s.strip()
+
+def _noaa_split_sections(text):
+    """
+    Locate 'Tasks', 'Duration', and 'Success/Outcome/Result' section headers
+    and return the text under each.
+    """
+    header_specs = [
+        ('tasks',    r'(?:existing\s+)?tasks?(?:\s+(?:involved\s+)?in(?:volved)?(?:\s+this|\s+the)?\s+mission)?(?:\s+for\s+the\s+mission)?'),
+        ('duration', r'durations?(?:\s+of(?:\s+each)?\s+tasks?)?'),
+        ('outcome',  r'(?:success(?:\s*/\s*failure)?(?:\s+of(?:\s+each)?\s+tasks?)?|outcomes?|results?|success\s+status)'),
+    ]
+    positions = []
+    for key, pat in header_specs:
+        regex = re.compile(rf'(?im)(?:^|\n)[\s*]*{pat}\s*:\s*\**', re.IGNORECASE)
+        for m in regex.finditer(text):
+            positions.append((m.start(), m.end(), key))
+    positions.sort()
+    sections = {}
+    for i, (_, end, key) in enumerate(positions):
+        next_start = positions[i + 1][0] if i + 1 < len(positions) else len(text)
+        content = text[end:next_start].strip()
+        if key not in sections or len(content) > len(sections[key]):
+            sections[key] = content
+    return sections
+
+def _noaa_extract_task_list(section_text):
+    if not section_text:
+        return []
+    t = re.sub(r'\s+', ' ', section_text).strip().strip('*').strip()
+    if t and not t[0].isspace():
+        t = ' ' + t
+    parts = re.split(r'\s+[-•]\s+', t)
+    tasks = []
+    for p in parts:
+        p = p.strip().strip('*').strip().lstrip('-•').strip().rstrip(':.,;').strip()
+        if not p or len(p) < 3:
+            continue
+        if _noaa_looks_like_metadata(p):
+            continue
+        tasks.append(p)
+    return tasks
+
+def _noaa_extract_keyed_map(section_text):
+    if not section_text:
+        return {}
+    result = {}
+    for line in section_text.split('\n'):
+        line = line.strip().strip('*').strip()
+        if not line:
+            continue
+        m = re.match(r'^([^:]+?):\s*(.+?)\s*$', line)
+        if m:
+            key = m.group(1).strip().strip('*').strip().lower()
+            val = m.group(2).strip().strip('*').strip().rstrip('.,;:')
+            if key and val and not _noaa_looks_like_metadata(key):
+                result[key] = val
+    return result
+
+_NOAA_STOP = {
+    'a', 'an', 'the', 'of', 'and', 'or', 'with', 'in', 'on', 'at', 'to',
+    'for', 'by', 'from', 'this', 'that', 'is', 'are', 'each', 'its', 'it',
+}
+
+def _noaa_tokens(s):
+    return set(_noaa_normalize_task_key(s).split()) - _NOAA_STOP
+
+def _noaa_match_value(task, keyed_map, threshold=0.5):
+    if not keyed_map:
+        return None
+    t_tokens = _noaa_tokens(task)
+    if not t_tokens:
+        return None
+    best_val = None
+    best_score = 0.0
+    for k, v in keyed_map.items():
+        k_tokens = _noaa_tokens(k)
+        if not k_tokens:
+            continue
+        inter = len(t_tokens & k_tokens)
+        if not inter:
+            continue
+        union = len(t_tokens | k_tokens)
+        jaccard = inter / union
+        containment = inter / min(len(t_tokens), len(k_tokens))
+        score = max(jaccard, containment)
+        if score > best_score:
+            best_score = score
+            best_val = v
+    return best_val if best_score >= threshold else None
+
+def _noaa_parse_per_task_blocks(text):
+    """
+    Pattern:
+      - Task A
+          Duration: X
+          Result: Y
+    """
+    actions = []
+    current = {'action_name': None, 'action_duration': '', 'action_outcome': ''}
+
+    def flush():
+        if current['action_name']:
+            actions.append({
+                'action_name': current['action_name'],
+                'action_duration': current['action_duration'] or 'Unknown',
+                'action_outcome': current['action_outcome'] or 'Unknown',
+            })
+        current['action_name'] = None
+        current['action_duration'] = ''
+        current['action_outcome'] = ''
+
+    for line in text.split('\n'):
+        s = line.strip().strip('*').strip()
+        if not s:
+            continue
+        m_dur = re.match(r'(?i)^(duration|time)\s*[:\-]\s*(.+)$', s)
+        m_out = re.match(r'(?i)^(result|outcome|success|status|success\s*/\s*failure|failure)\s*[:\-]\s*(.+)$', s)
+        m_task = re.match(r'^[-•*]\s+(.+)$', line.strip())
+        if m_dur and current['action_name']:
+            current['action_duration'] = m_dur.group(2).strip().strip('*').strip().rstrip('.,;')
+        elif m_out and current['action_name']:
+            current['action_outcome'] = m_out.group(2).strip().strip('*').strip().rstrip('.,;')
+        elif m_task:
+            candidate = m_task.group(1).strip().strip('*').strip().rstrip(':').strip()
+            if not _noaa_looks_like_metadata(candidate) and len(candidate) > 2:
+                flush()
+                current['action_name'] = candidate
+    flush()
+    return actions
+
+def parse_noaa_q5_result(unified_text):
+    """
+    NOAA-specific parser. Tries, in order:
+      1) Canonical inline format (delegates to parse_q5_result)
+      2) Per-task-block format (task bullet followed by Duration/Result lines)
+      3) Multi-section format (Tasks / Duration / Success-Result sections)
+    Returns a list of {action_name, action_duration, action_outcome} dicts.
+    """
+    if not unified_text or not unified_text.strip():
+        return []
+    text = unified_text.strip()
+
+    actions = parse_q5_result(text)
+    if actions:
+        return actions
+
+    actions = _noaa_parse_per_task_blocks(text)
+    if actions:
+        return actions
+
+    sections = _noaa_split_sections(text)
+    tasks = _noaa_extract_task_list(sections.get('tasks', ''))
+    durs = _noaa_extract_keyed_map(sections.get('duration', ''))
+    outs = _noaa_extract_keyed_map(sections.get('outcome', ''))
+    if not tasks:
+        return []
+    return [
+        {
+            'action_name': t,
+            'action_duration': _noaa_match_value(t, durs) or 'Unknown',
+            'action_outcome': _noaa_match_value(t, outs) or 'Unknown',
+        }
+        for t in tasks
+    ]
+
+###############################################################################
 # 4) LOGIC: DURATIVE vs NON-DURATIVE
 ###############################################################################
 def get_pddl_action_type(action_duration):
@@ -265,75 +451,111 @@ def create_pddl_domain(domain_name, user_predicates, actions):
     return domain_text.strip()
 
 ###############################################################################
-# 9) COMBINED: fill_domain_template_from_csv
+# 9) COMBINED: build_pddl_from_rows
 ###############################################################################
-def fill_domain_template_from_csv(file_name_q1, file_name_q5):
+def load_q1_domain_names(file_name_q1):
     """
-    1) Read domain_name from Q1 (column 'result').
-    2) Read user predicates + raw text from Q5 (column 'result').
-    3) Pre-process Q5 text to unify multiple formats (if needed).
-    4) Parse the final text once to extract (action_name, action_duration, action_outcome).
-    5) Build final domain, deciding durative vs non-durative if duration is unknown.
-    6) Return domain text.
+    Read Q1 CSV and return dict: pdf_filename -> domain_name (sanitized vessel name).
+    If a filename appears multiple times, the first non-empty result wins.
     """
-    domain_name = ""
-    user_predicates = ""
-    actions_text = ""
-
-    # --- Step 1: scenario_extraction_Q1.csv -> domain name
+    mapping = {}
     with open(file_name_q1, "r") as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            if row.get('result'):
-                domain_name = extract_between_asterisks(row['result'])
-                domain_name = domain_name.lower().replace(' ', '_').replace('/','-')
-                break
+            fn = (row.get('filename') or "").strip()
+            res = row.get('result') or ""
+            if not fn or fn in mapping:
+                continue
+            name = extract_between_asterisks(res)
+            if not name:
+                continue
+            mapping[fn] = name.lower().replace(' ', '_').replace('/', '-')
+    return mapping
 
-    # --- Step 2: scenario_extraction_Q5.csv -> user predicates + actions text
-    with open(file_name_q5, "r") as csvfile:
+
+def build_pddl_for_row(q5_row, domain_name_map, parser=parse_q5_result):
+    """
+    Given a Q5 row and a {filename->domain_name} map, return (pddl_text, pdf_filename)
+    or (None, pdf_filename) if the row has no usable actions.
+    `parser` selects the Q5 parsing strategy (Geomar-Kiel canonical vs. NOAA multi-section).
+    """
+    pdf_filename = (q5_row.get('filename') or "").strip()
+    actions_text = q5_row.get('result') or ""
+    if not pdf_filename or not actions_text.strip():
+        return None, pdf_filename
+
+    domain_name = domain_name_map.get(pdf_filename) or os.path.splitext(pdf_filename)[0]
+    domain_name = domain_name.lower().replace(' ', '_').replace('/', '-')
+
+    user_predicates = extract_between_asterisks(actions_text)
+    cleaned_text = preprocess_q5_text(actions_text)
+    all_actions = parser(cleaned_text)
+    if not all_actions:
+        return None, pdf_filename
+
+    pddl_domain = create_pddl_domain(domain_name, user_predicates, all_actions)
+    return pddl_domain, pdf_filename
+
+
+###############################################################################
+# 10) MAIN: generate one PDDL per Q5 row, filename derived from first column
+###############################################################################
+def run_dataset(dataset_dir, q1_csv, q5_csv, out_dir, parser):
+    """Generate one PDDL per Q5 row in `dataset_dir` using the given parser."""
+    q1_path = os.path.join(dataset_dir, q1_csv)
+    q5_path = os.path.join(dataset_dir, q5_csv)
+
+    domain_name_map = load_q1_domain_names(q1_path)
+
+    written = 0
+    skipped = 0
+    stem_counts = {}
+    with open(q5_path, "r") as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            if row.get('result'):
-                # first *...* => user_predicates
-                user_predicates = extract_between_asterisks(row['result'])
-                # full text => actions_text
-                actions_text = row['result']
-                break
+            pddl_text, pdf_filename = build_pddl_for_row(row, domain_name_map, parser=parser)
+            if pddl_text is None:
+                skipped += 1
+                continue
 
-    # --- Step 3: Pre-process Q5 text (combine or transform multiple formats)
-    cleaned_text = preprocess_q5_text(actions_text)
+            stem = os.path.splitext(pdf_filename)[0]
+            n = stem_counts.get(stem, 0)
+            stem_counts[stem] = n + 1
+            out_name = f"{stem}.pddl" if n == 0 else f"{stem}_{n+1}.pddl"
+            out_path = os.path.join(out_dir, out_name)
 
-    # --- Step 4: Parse final text to get list of {action_name, action_duration, action_outcome}
-    all_actions = parse_q5_result(cleaned_text)
+            with open(out_path, "w") as f:
+                f.write(pddl_text)
+            written += 1
+    return written, skipped
 
-    # --- Step 5: Build final domain
-    pddl_domain = create_pddl_domain(domain_name, user_predicates, all_actions)
 
-    # --- Step 6: Return or save the domain
-    return pddl_domain, domain_name
-
-###############################################################################
-# 10) EXAMPLE USAGE
-###############################################################################
 if __name__ == "__main__":
-    file_name_q1 = "/home/mahya/Desktop/marineLLM-PDDL/datasets/GEOMAR-Kiel/scenario_extractionQ1.csv"
-    file_name_q5 = "/home/mahya/Desktop/marineLLM-PDDL/datasets/GEOMAR-Kiel/scenario_extractionQ5.csv"
-    
-    
-    pddl_domain_output, domain_name = fill_domain_template_from_csv(file_name_q1, file_name_q5)
-    print(pddl_domain_output)
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    curated_root = os.path.join(base_dir, "..", "datasets", "CuratedQAs")
+    out_dir = os.path.join(base_dir, "..", "domains")
+    os.makedirs(out_dir, exist_ok=True)
 
+    datasets = [
+        {
+            "dir": os.path.join(curated_root, "Geomar-Kiel"),
+            "q1": "GEOMAR-Kielscenario_extractionQ1.csv",
+            "q5": "GEOMAR-Kielscenario_extractionQ5.csv",
+            "parser": parse_q5_result,
+        },
+        {
+            "dir": os.path.join(curated_root, "NOAA"),
+            "q1": "NOAAscenario_extractionQ1.csv",
+            "q5": "NOAAscenario_extractionQ5.csv",
+            "parser": parse_noaa_q5_result,
+        },
+    ]
 
-    directory = "domains"
-    if not os.path.exists(directory):
-      os.makedirs(directory)
+    total_written = 0
+    for ds in datasets:
+        label = os.path.basename(os.path.normpath(ds["dir"]))
+        written, skipped = run_dataset(ds["dir"], ds["q1"], ds["q5"], out_dir, ds["parser"])
+        total_written += written
+        print(f"[{label}] wrote {written} PDDL files (skipped {skipped} empty/unparseable rows).")
 
-    file_path = os.path.join(directory, domain_name+".pddl")
-    with open(file_path, "w") as f:
-      f.write(pddl_domain_output)
-
-   #  f = open(domain_name + ".txt", "x")
-
-   #  with open(domain_name + ".pddl", "w") as f:   # Opens file and casts as f 
-      # f.write(pddl_domain_output)
-      f.close()
+    print(f"Total: {total_written} PDDL files in {os.path.abspath(out_dir)}.")

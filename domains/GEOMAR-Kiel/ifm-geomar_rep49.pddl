@@ -19,23 +19,25 @@
   )
 
   
-  (:action survey_1
+  (:durative-action survey_1
     :parameters (?s - survey)
-    :precondition (and
-      (precondition_for_successful)
+    :duration (= ?duration 3.8333333333333335)
+    :condition (and
+      (at start (precondition_for_successful))
     )
     :effect (and
-      (outcome_successful)
+      (at end (outcome_successful))
     )
   )
 
-  (:action survey_2
+  (:durative-action survey_2
     :parameters (?s - survey)
-    :precondition (and
-      (precondition_for_successful)
+    :duration (= ?duration 4.683333333333334)
+    :condition (and
+      (at start (precondition_for_successful))
     )
     :effect (and
-      (outcome_successful)
+      (at end (outcome_successful))
     )
   )
 

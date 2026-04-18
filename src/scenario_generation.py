@@ -110,7 +110,7 @@ def process_pdf_files(folder_path, question, csv_filename):
 
 # Set the question you want to ask
 question =   "What are the existing tasks in this mission, the duration of each task, and whether the task was successful or failure?"
-csv_filename = "results/NOAA"+'scenario_extractionQ5.csv'
+csv_filename = "CuratedQAs/NOAA"+'scenario_extractionQ5.csv'
 
 # Process all PDF files and ask the question
 answers, df = process_pdf_files(folder_path, question, csv_filename)
