@@ -7,27 +7,24 @@
 
 ## Table of Contents
 
-1. [Problem Statement](#1-problem-statement)
-2. [Research Questions](#2-research-questions)
-3. [System Architecture](#3-system-architecture)
-4. [Methodology](#4-methodology)
-5. [Evaluation Framework](#5-evaluation-framework)
-6. [Repository Structure](#6-repository-structure)
-7. [Datasets](#7-datasets)
-8. [Installation](#8-installation)
-9. [Usage](#9-usage)
-10. [Results](#10-results)
-11. [Acknowledgements](#11-acknowledgements)
+1. [Research Questions](#1-research-questions)
+2. [System Architecture](#2-system-architecture)
+3. [Methodology](#3-methodology)
+4. [Evaluation Framework](#4-evaluation-framework)
+5. [Repository Structure](#5-repository-structure)
+6. [Datasets](#6-datasets)
+7. [Installation](#7-installation)
+8. [Usage](#8-usage)
+9. [Results](#9-results)
+10. [Acknowledgements](#10-acknowledgements)
 
 ---
 
-## 1. Problem Statement
-
 ### Background
 
-Autonomous Underwater Vehicles (AUVs) and marine research vessels accumulate knowledge through missions documented in **Incident Response Plans (IRPs)** and **cruise reports**. These documents describe, in natural language, what equipment was deployed, what tasks were executed, how long each task took, and whether the task succeeded or failed. This accumulated operational knowledge is a rich but largely untapped resource for generating realistic planning scenarios.
+Autonomous Underwater Vehicles (AUVs) and marine research vessels accumulate knowledge through missions documented in **Incident Response Plans (IRPs)** or **cruise reports**. These documents describe, in natural language, what equipment was deployed, what tasks were executed, how long each task took, and whether the task succeeded or failed. This accumulated operational knowledge is a rich but largely untapped resource for generating realistic planning scenarios.
 
-Planning Domain Definition Language (**PDDL**) provides a formal, solver-ready representation of such scenarios. A PDDL domain encodes what actions are possible; a PDDL problem encodes the concrete objects, initial state, and goal. Automated planners (FastForward, LPG-td, Optic-clp) then find executable action sequences — plans — that transition the system from the initial to the goal state.
+Planning Domain Definition Language (**PDDL**) provides a formal, constraint solver-ready representation of such scenarios. A PDDL domain encodes what actions are possible; a PDDL problem encodes the concrete objects, initial state, and goal. Automated planners (FastForward, LPG-td, Optic-clp, etc.) then find executable action sequences — plans — that transition the system from the initial to the goal state.
 
 ### The Task: Natural Language → PDDL Translation
 
@@ -50,25 +47,23 @@ This is a non-trivial translation: PDDL is a formal language with well-defined s
 v1.1 is the **text-only**, **LLM-translation** slice of the MarineLLM-PDDL pipeline:
 
 - **Input modality:** free text only (tables, figures, and PDF metadata are deferred to future work).
-- **Translator:** a Sequential Chain of prompted LLM stages — no prompt optimization loop yet.
-- **Evaluation:** static validation (VAL) and classical-planner solvability.
+- **Translator:** an Interactive Single Prompt LLM stages.
+- **Evaluation:** static validation  using VAL tool, Solvability using classical-planners, Correctness Analysis, and Diversity measurement.
 
 ---
 
-## 2. Research Questions
+## 1. Research Questions
 
 v1.1 is organized around two questions about the LLM's role as a translator:
 
 | # | Question | Evaluation |
 |---|---|---|
-| **RQ1** | Does an LLM truly understand code semantics? That is, can it recover the types, predicates, preconditions, and effects of a mission from narrative prose — not just surface tokens? | Understanding score $U_i$ (QA correctness, entity-extraction F1, semantic completeness), decomposed along the four PDDL semantic axes |
-| **RQ2** | What is the relationship between code *understanding* and code *generation* abilities in LLMs? When the model comprehends a mission, does it reliably produce valid PDDL — and vice versa? | Generation score $G_i$ (parsability, solvability, structural validity), plus the correlation $\rho_{UG}$ and the understanding–generation gap $\Gamma_i = U_i - G_i$ |
-
-See [Problem_Statement.md](Problem_Statement.md) for the formal definitions.
+| **RQ1** | Does an LLM truly understand code semantics? That is, can it recover the types, predicates, preconditions, and effects of a mission from narrative prose — not just lexical tokens? | Understanding correctness, entity-extraction F1, semantic completeness |
+| **RQ2** | What is the relationship between code *understanding* and code *generation* abilities in LLMs? When the model comprehends a mission, does it reliably produce valid PDDL — and vice versa? | Generation score $G_i$ (parsability, solvability, structural validity) |
 
 ---
 
-## 3. System Architecture
+## 2. System Architecture
 
 ```
 ┌──────────────────────────────────────────────────────────────────────┐
@@ -87,7 +82,7 @@ See [Problem_Statement.md](Problem_Statement.md) for the formal definitions.
           └────────┬────────┘
                    │
           ┌────────▼────────────────────────────────────────┐
-          │     LM Translator  —  Sequential Chain (f)      │
+          │     LM Translator  —  Interactive Chain (f)      │
           │                                                 │
           │  [ScenarioQA]         ──►  13 generic answers   │  understanding
           │       ↓                                         │
@@ -117,30 +112,30 @@ Stages (1)–(2) probe *code understanding*; stages (3)–(4) probe *code genera
 
 ---
 
-## 4. Methodology
+## 3. Methodology
 
-### 4.1 Text Pipeline
+### 3.1 Text Pipeline
 
 **Chunking.** Free-text content of each PDF is split into semantic chunks and embedded into a RAG vector store.
 
 **ScenarioQA.** For each document, 13 generic questions (vessel, equipment, tasks, durations, outcomes, location, etc.) are posed against the retrieval-augmented context. The answers form the structured intermediate representation $r_i$.
 
-**BuildGenericScenario.** The QA answers are synthesized into a scenario template — a natural-language summary of the mission's objects, actions, and timeline.
+**BuildGenericScenario.** The QA answers are synthesized into a scenario template; a natural-language summary of the mission's objects, actions, and timeline.
 
 **ExtractSpecificDetails.** Types, predicates, and action schemata are extracted from the scenario template.
 
 **GeneratePDDL.** The final stage emits `domain.pddl` and `problem.pddl`.
 
-### 4.2 Template-Based PDDL Builder
+### 3.2 Template-Based PDDL Builder
 
 For the curated Q&A datasets, [src/template_pddl_generation.py](src/template_pddl_generation.py) builds a PDDL domain directly from the structured answers of Q1 (vessel name → domain name) and Q5 (task list + durations + outcomes → actions). It supports two input formats:
 
 - **Canonical inline** (`- **task**: **duration** - **outcome**`) — default parser.
-- **Multi-section** (separate "Tasks", "Duration", "Success/Failure" sections) — used for NOAA-style answers via `parse_noaa_q5_result`.
+- **Multi-section** (separate "Tasks", "Duration", "Success/Failure" sections) — used for NOAA-style answers.
 
 ---
 
-## 5. Evaluation Framework
+## 4. Evaluation Framework
 
 Each generated $(\Omega_i, \Pi_i)$ pair is scored along two axes.
 
@@ -168,11 +163,10 @@ $$G_i = \tfrac{1}{3}(\phi_i + \sigma_i + \nu_i)$$
 
 $$Q_i = \lambda\, U_i + (1-\lambda)\, G_i, \qquad \lambda = 0.5\ \text{(default)}$$
 
-See [Problem_Statement.md](Problem_Statement.md) §2–§4 for the formal treatment and RQ-specific probes (per-axis decomposition of $U$, correlation $\rho_{UG}$, understanding–generation gap $\Gamma_i$).
 
 ---
 
-## 6. Repository Structure
+## 5. Repository Structure
 
 ```
 marineLLM-PDDL/
@@ -184,8 +178,8 @@ marineLLM-PDDL/
 │
 ├── datasets/
 │   ├── CuratedQAs/
-│   │   ├── Geomar-Kiel/             Q1–Q13 CSV files (51 docs)
-│   │   └── NOAA/                    Q1–Q13 CSV files (30 docs)
+│   │   ├── Geomar-Kiel/             Q1–Q13 CSV files
+│   │   └── NOAA/                    Q1–Q13 CSV files
 │   ├── FileNames/
 │   └── readme.md
 │
@@ -194,13 +188,13 @@ marineLLM-PDDL/
 │   ├── plans/                       Domain + problem + solution files
 │   └── diversity/                   Similarity metrics
 │
-├── Problem_Statement.md           Formal problem statement and RQ grounding
+|
 └── README.md
 ```
 
 ---
 
-## 7. Datasets
+## 6. Datasets
 
 | Dataset | Source | Documents | Domain |
 |---|---|---|---|
@@ -211,7 +205,7 @@ Each document has curated Q&A answers for 13 generic questions (see paper Table 
 
 ---
 
-## 8. Installation
+## 7. Installation
 
 ### Python dependencies
 
@@ -230,12 +224,12 @@ Download and build at least one of:
 ### Environment variables
 
 ```bash
-export OPENAI_API_KEY="sk-..."
+export ANTHROPIC_API_KEY="sk-..."
 ```
 
 ---
 
-## 9. Usage
+## 8. Usage
 
 ### Generate PDDL from the curated Q&A CSVs (both datasets)
 
@@ -263,9 +257,9 @@ python src/scenario_generation.py
 
 ---
 
-## 10. Results
+## 9. Results
 
-### v1 baseline (text-only, single-pass GPT-4o)
+### v1 baseline (text-only, interactive single-pass GPT-4o)
 
 | Dataset | Parsable | Solvable | Correct |
 |---|---|---|---|
@@ -278,7 +272,7 @@ Pairwise distances across 7 sample scenarios show Wasserstein distance best sepa
 
 ---
 
-## 11. Acknowledgements
+## 10. Acknowledgements
 
 **MarineLLM-PDDL** is developed at the [IT University of Copenhagen](https://itu.dk) as part of the REMARO project.
 
