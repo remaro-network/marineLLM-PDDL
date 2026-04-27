@@ -58,8 +58,8 @@ v1.1 is organized around two questions about the LLM's role as a translator:
 
 | # | Question | Evaluation |
 |---|---|---|
-| **RQ1** | Does an LLM truly understand code semantics? That is, can it recover the types, predicates, preconditions, and effects of a mission from narrative prose — not just lexical tokens? | Understanding correctness, entity-extraction F1, semantic completeness |
-| **RQ2** | What is the relationship between code *understanding* and code *generation* abilities in LLMs? When the model comprehends a mission, does it reliably produce valid PDDL — and vice versa? | Generation score $G_i$ (parsability, solvability, structural validity) |
+| **RQ1** | Does an LLM truly understand code semantics? That is, can it recover the types, predicates, preconditions, and effects of a mission from narrative prose — not just lexical tokens? | Understanding correctness and semantic completeness |
+| **RQ2** | What is the relationship between code *understanding* and code *generation* abilities in LLMs? When the model comprehends a mission, does it reliably produce valid PDDL — and vice versa? | Generation score (parsability, solvability, structural validity) |
 
 ---
 
@@ -108,7 +108,7 @@ v1.1 is organized around two questions about the LLM's role as a translator:
           └─────────────────┘
 ```
 
-Stages (1)–(2) probe *code understanding*; stages (3)–(4) probe *code generation*.
+Stages (1)–(2) probe *Collect LLM responses to 13 Questions*; stages (3)–(4) probe *code generation*.
 
 ---
 
@@ -137,31 +137,15 @@ For the curated Q&A datasets, [src/template_pddl_generation.py](src/template_pdd
 
 ## 4. Evaluation Framework
 
-Each generated $(\Omega_i, \Pi_i)$ pair is scored along two axes.
+Evaluation metrics is as follows:
 
-### Understanding metrics ($U_i$)
-
-| Metric | Definition |
-|---|---|
-| **QA Correctness** ($\alpha_i$) | Fraction of the 13 ScenarioQA answers matching expert gold labels |
-| **Entity-Extraction F1** ($\eta_i$) | F1 over mission entities (vessel, instruments, tasks) recovered from $r_i$ |
-| **Semantic Completeness** ($\kappa_i$) | Expert-judged coverage of mission elements in the scenario template, $\in [0,1]$ |
-
-$$U_i = \tfrac{1}{3}(\alpha_i + \eta_i + \kappa_i)$$
-
-### Generation metrics ($G_i$)
+### Generation metrics
 
 | Metric | Definition |
 |---|---|
-| **Parsability** ($\phi_i$) | VAL accepts the PDDL (`{0, 1}`) |
-| **Solvability** ($\sigma_i$) | A classical planner returns a plan (`{0, 1}`) |
-| **Structural Validity** ($\nu_i$) | Fraction of declared types, predicates, and action schemata that are well-formed |
-
-$$G_i = \tfrac{1}{3}(\phi_i + \sigma_i + \nu_i)$$
-
-### Composite score
-
-$$Q_i = \lambda\, U_i + (1-\lambda)\, G_i, \qquad \lambda = 0.5\ \text{(default)}$$
+| **Parsability** | VAL accepts the PDDL (`{0, 1}`) |
+| **Solvability** | A classical planner returns a plan (`{0, 1}`) |
+| **Structural Validity** | Fraction of declared types, predicates, and action schemata that are well-formed |
 
 
 ---
@@ -210,8 +194,7 @@ Each document has curated Q&A answers for 13 generic questions (see paper Table 
 ### Python dependencies
 
 ```bash
-pip install langchain langchain-community langchain-chroma \
-            langchain-openai langchain-text-splitters openai pandas
+pip install -r requirements.txt
 ```
 
 ### Planners
@@ -224,12 +207,18 @@ Download and build at least one of:
 ### Environment variables
 
 ```bash
-export ANTHROPIC_API_KEY="sk-..."
+export OPENAI_API_KEY="sk-..."
 ```
 
 ---
 
 ## 8. Usage
+
+### Generate scenarios directly from PDFs via the RAG + LLM pipeline
+
+```bash
+python src/scenario_generation.py
+```
 
 ### Generate PDDL from the curated Q&A CSVs (both datasets)
 
@@ -241,11 +230,6 @@ This writes one `.pddl` per parseable row in [domains/](domains/):
 - Geomar-Kiel rows → canonical parser
 - NOAA rows → multi-section parser
 
-### Generate PDDL directly from PDFs via the RAG + LLM pipeline
-
-```bash
-python src/scenario_generation.py
-```
 
 ### Solve a generated PDDL with a planner
 
